@@ -1692,7 +1692,7 @@
 			<random_reward_item>
 				<id>38</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -1749,7 +1749,7 @@
 			<random_reward_item>
 				<id>171</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -1806,7 +1806,7 @@
 			<random_reward_item>
 				<id>188</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -1976,7 +1976,7 @@
 			<random_reward_item>
 				<id>20</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -2028,7 +2028,7 @@
 			<random_reward_item>
 				<id>41</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -2075,7 +2075,7 @@
 			<random_reward_item>
 				<id>11</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -2122,7 +2122,7 @@
 			<random_reward_item>
 				<id>158</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -2179,7 +2179,7 @@
 			<random_reward_item>
 				<id>165</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -2239,7 +2239,7 @@
 			<random_reward_item>
 				<id>27</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -2291,7 +2291,7 @@
 			<random_reward_item>
 				<id>184</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -2343,7 +2343,7 @@
 			<random_reward_item>
 				<id>185</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -2395,7 +2395,7 @@
 			<random_reward_item>
 				<id>9</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -2442,7 +2442,7 @@
 			<random_reward_item>
 				<id>160</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -2493,7 +2493,7 @@
 			<random_reward_item>
 				<id>17</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -2540,7 +2540,7 @@
 			<random_reward_item>
 				<id>22</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -2587,7 +2587,7 @@
 			<random_reward_item>
 				<id>174</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -2691,7 +2691,7 @@
 			<random_reward_item>
 				<id>7</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -2752,7 +2752,7 @@
 			<random_reward_item>
 				<id>13</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -2809,7 +2809,7 @@
 			<random_reward_item>
 				<id>29</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -2866,7 +2866,7 @@
 			<random_reward_item>
 				<id>44</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -2923,7 +2923,7 @@
 			<random_reward_item>
 				<id>162</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -2980,7 +2980,7 @@
 			<random_reward_item>
 				<id>161</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -3041,7 +3041,7 @@
 			<random_reward_item>
 				<id>175</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -3155,7 +3155,7 @@
 			<random_reward_item>
 				<id>183</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -3207,7 +3207,7 @@
 			<random_reward_item>
 				<id>5</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -3320,7 +3320,7 @@
 			<random_reward_item>
 				<id>18</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -3414,7 +3414,7 @@
 			<random_reward_item>
 				<id>28</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -3461,7 +3461,7 @@
 			<random_reward_item>
 				<id>4</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -3518,7 +3518,7 @@
 			<random_reward_item>
 				<id>104</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -3583,7 +3583,7 @@
 			<random_reward_item>
 				<id>112</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -3640,7 +3640,7 @@
 			<random_reward_item>
 				<id>110</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -3697,7 +3697,7 @@
 			<random_reward_item>
 				<id>39</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -3872,7 +3872,7 @@
 			<random_reward_item>
 				<id>31</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -3929,7 +3929,7 @@
 			<random_reward_item>
 				<id>32</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -4100,7 +4100,7 @@
 			<random_reward_item>
 				<id>6</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -4218,7 +4218,7 @@
 			<random_reward_item>
 				<id>25</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -4275,7 +4275,7 @@
 			<random_reward_item>
 				<id>12</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -4332,7 +4332,7 @@
 			<random_reward_item>
 				<id>8</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -4389,7 +4389,7 @@
 			<random_reward_item>
 				<id>105</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -4450,7 +4450,7 @@
 			<random_reward_item>
 				<id>14</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -4507,7 +4507,7 @@
 			<random_reward_item>
 				<id>121</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -4564,7 +4564,7 @@
 			<random_reward_item>
 				<id>114</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -4621,7 +4621,7 @@
 			<random_reward_item>
 				<id>107</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -4678,7 +4678,7 @@
 			<random_reward_item>
 				<id>103</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -4739,7 +4739,7 @@
 			<random_reward_item>
 				<id>123</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -4796,7 +4796,7 @@
 			<random_reward_item>
 				<id>45</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -6456,7 +6456,7 @@
 			<random_reward_item>
 				<id>19</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -6488,7 +6488,7 @@
 			<random_reward_item>
 				<id>182</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -6520,7 +6520,7 @@
 			<random_reward_item>
 				<id>17</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -6552,7 +6552,7 @@
 			<random_reward_item>
 				<id>163</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -6609,7 +6609,7 @@
 			<random_reward_item>
 				<id>6</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -6670,7 +6670,7 @@
 			<random_reward_item>
 				<id>186</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -6727,7 +6727,7 @@
 			<random_reward_item>
 				<id>190</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -6784,7 +6784,7 @@
 			<random_reward_item>
 				<id>13</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -6841,7 +6841,7 @@
 			<random_reward_item>
 				<id>8</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -6958,7 +6958,7 @@
 			<random_reward_item>
 				<id>21</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -7015,7 +7015,7 @@
 			<random_reward_item>
 				<id>34</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -7072,7 +7072,7 @@
 			<random_reward_item>
 				<id>175</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -7242,7 +7242,7 @@
 			<random_reward_item>
 				<id>35</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -7294,7 +7294,7 @@
 			<random_reward_item>
 				<id>177</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -7351,7 +7351,7 @@
 			<random_reward_item>
 				<id>18</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -7408,7 +7408,7 @@
 			<random_reward_item>
 				<id>158</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -7460,7 +7460,7 @@
 			<random_reward_item>
 				<id>165</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -7573,7 +7573,7 @@
 			<random_reward_item>
 				<id>178</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -7682,7 +7682,7 @@
 			<random_reward_item>
 				<id>9</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -7739,7 +7739,7 @@
 			<random_reward_item>
 				<id>160</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -7795,7 +7795,7 @@
 			<random_reward_item>
 				<id>10</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -7852,7 +7852,7 @@
 			<random_reward_item>
 				<id>36</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -7909,7 +7909,7 @@
 			<random_reward_item>
 				<id>31</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -8018,7 +8018,7 @@
 			<random_reward_item>
 				<id>7</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -8116,7 +8116,7 @@
 			<random_reward_item>
 				<id>23</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -8313,7 +8313,7 @@
 			<random_reward_item>
 				<id>109</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -8355,7 +8355,7 @@
 			<random_reward_item>
 				<id>16</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -8402,7 +8402,7 @@
 			<random_reward_item>
 				<id>14</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -8449,7 +8449,7 @@
 			<random_reward_item>
 				<id>5</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -8506,7 +8506,7 @@
 			<random_reward_item>
 				<id>106</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -8567,7 +8567,7 @@
 			<random_reward_item>
 				<id>43</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -8624,7 +8624,7 @@
 			<random_reward_item>
 				<id>30</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -8681,7 +8681,7 @@
 			<random_reward_item>
 				<id>123</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -8723,7 +8723,7 @@
 			<random_reward_item>
 				<id>4</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -8780,7 +8780,7 @@
 			<random_reward_item>
 				<id>104</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -8841,7 +8841,7 @@
 			<random_reward_item>
 				<id>113</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -8893,7 +8893,7 @@
 			<random_reward_item>
 				<id>124</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -9100,7 +9100,7 @@
 			<random_reward_item>
 				<id>118</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -9137,7 +9137,7 @@
 			<random_reward_item>
 				<id>122</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -9184,7 +9184,7 @@
 			<random_reward_item>
 				<id>111</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -9298,7 +9298,7 @@
 			<random_reward_item>
 				<id>6</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -9359,7 +9359,7 @@
 			<random_reward_item>
 				<id>15</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -9416,7 +9416,7 @@
 			<random_reward_item>
 				<id>37</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -9530,7 +9530,7 @@
 			<random_reward_item>
 				<id>8</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -9587,7 +9587,7 @@
 			<random_reward_item>
 				<id>105</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -11381,7 +11381,7 @@
 			<random_reward_item>
 				<id>183</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -11438,7 +11438,7 @@
 			<random_reward_item>
 				<id>35</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -11495,7 +11495,7 @@
 			<random_reward_item>
 				<id>4</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -11613,7 +11613,7 @@
 			<random_reward_item>
 				<id>176</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -11670,7 +11670,7 @@
 			<random_reward_item>
 				<id>28</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -11784,7 +11784,7 @@
 			<random_reward_item>
 				<id>159</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -11841,7 +11841,7 @@
 			<random_reward_item>
 				<id>164</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -11959,7 +11959,7 @@
 			<random_reward_item>
 				<id>39</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -12016,7 +12016,7 @@
 			<random_reward_item>
 				<id>10</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -12073,7 +12073,7 @@
 			<random_reward_item>
 				<id>163</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -12130,7 +12130,7 @@
 			<random_reward_item>
 				<id>6</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -12191,7 +12191,7 @@
 			<random_reward_item>
 				<id>32</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -12248,7 +12248,7 @@
 			<random_reward_item>
 				<id>170</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -12305,7 +12305,7 @@
 			<random_reward_item>
 				<id>169</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -12362,7 +12362,7 @@
 			<random_reward_item>
 				<id>8</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -12480,7 +12480,7 @@
 			<random_reward_item>
 				<id>25</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -12537,7 +12537,7 @@
 			<random_reward_item>
 				<id>12</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -12883,7 +12883,7 @@
 			<random_reward_item>
 				<id>43</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -12940,7 +12940,7 @@
 			<random_reward_item>
 				<id>158</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -12997,7 +12997,7 @@
 			<random_reward_item>
 				<id>165</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -13058,7 +13058,7 @@
 			<random_reward_item>
 				<id>45</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -13172,7 +13172,7 @@
 			<random_reward_item>
 				<id>113</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -13229,7 +13229,7 @@
 			<random_reward_item>
 				<id>9</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -13347,7 +13347,7 @@
 			<random_reward_item>
 				<id>120</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -13461,7 +13461,7 @@
 			<random_reward_item>
 				<id>118</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -13518,7 +13518,7 @@
 			<random_reward_item>
 				<id>108</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -13575,7 +13575,7 @@
 			<random_reward_item>
 				<id>7</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -13745,7 +13745,7 @@
 			<random_reward_item>
 				<id>15</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -13910,7 +13910,7 @@
 			<random_reward_item>
 				<id>24</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -14014,7 +14014,7 @@
 			<random_reward_item>
 				<id>33</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -14071,7 +14071,7 @@
 			<random_reward_item>
 				<id>5</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -14128,7 +14128,7 @@
 			<random_reward_item>
 				<id>106</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -14189,7 +14189,7 @@
 			<random_reward_item>
 				<id>117</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -14246,7 +14246,7 @@
 			<random_reward_item>
 				<id>38</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -14360,7 +14360,7 @@
 			<random_reward_item>
 				<id>4</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -14417,7 +14417,7 @@
 			<random_reward_item>
 				<id>104</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -14525,7 +14525,7 @@
 			<random_reward_item>
 				<id>20</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -14572,7 +14572,7 @@
 			<random_reward_item>
 				<id>41</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -16384,7 +16384,7 @@
 			<random_reward_item>
 				<id>36</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -16441,7 +16441,7 @@
 			<random_reward_item>
 				<id>31</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -16498,7 +16498,7 @@
 			<random_reward_item>
 				<id>32</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -16550,7 +16550,7 @@
 			<random_reward_item>
 				<id>162</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -16607,7 +16607,7 @@
 			<random_reward_item>
 				<id>161</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -16668,7 +16668,7 @@
 			<random_reward_item>
 				<id>23</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -16715,7 +16715,7 @@
 			<random_reward_item>
 				<id>172</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -16772,7 +16772,7 @@
 			<random_reward_item>
 				<id>25</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -16829,7 +16829,7 @@
 			<random_reward_item>
 				<id>5</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -16942,7 +16942,7 @@
 			<random_reward_item>
 				<id>16</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -16999,7 +16999,7 @@
 			<random_reward_item>
 				<id>14</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -17103,7 +17103,7 @@
 			<random_reward_item>
 				<id>4</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -17216,7 +17216,7 @@
 			<random_reward_item>
 				<id>30</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -17310,7 +17310,7 @@
 			<random_reward_item>
 				<id>45</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -17367,7 +17367,7 @@
 			<random_reward_item>
 				<id>159</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -17424,7 +17424,7 @@
 			<random_reward_item>
 				<id>164</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -17517,7 +17517,7 @@
 			<random_reward_item>
 				<id>179</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -17616,7 +17616,7 @@
 			<random_reward_item>
 				<id>163</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -17673,7 +17673,7 @@
 			<random_reward_item>
 				<id>6</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -17852,7 +17852,7 @@
 			<random_reward_item>
 				<id>173</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -17909,7 +17909,7 @@
 			<random_reward_item>
 				<id>8</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -18022,7 +18022,7 @@
 			<random_reward_item>
 				<id>37</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -18136,7 +18136,7 @@
 			<random_reward_item>
 				<id>24</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -18193,7 +18193,7 @@
 			<random_reward_item>
 				<id>107</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -18250,7 +18250,7 @@
 			<random_reward_item>
 				<id>103</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -18291,7 +18291,7 @@
 			<random_reward_item>
 				<id>42</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -18365,7 +18365,7 @@
 			<random_reward_item>
 				<id>117</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -18532,7 +18532,7 @@
 			<random_reward_item>
 				<id>40</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -18606,7 +18606,7 @@
 			<random_reward_item>
 				<id>9</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -18704,7 +18704,7 @@
 			<random_reward_item>
 				<id>11</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -18756,7 +18756,7 @@
 			<random_reward_item>
 				<id>26</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -18808,7 +18808,7 @@
 			<random_reward_item>
 				<id>115</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -18860,7 +18860,7 @@
 			<random_reward_item>
 				<id>108</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -18917,7 +18917,7 @@
 			<random_reward_item>
 				<id>7</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -19010,7 +19010,7 @@
 			<random_reward_item>
 				<id>19</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -19382,7 +19382,7 @@
 			<random_reward_item>
 				<id>5</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -19439,7 +19439,7 @@
 			<random_reward_item>
 				<id>106</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -21066,7 +21066,7 @@
 			<random_reward_item>
 				<id>43</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -21098,7 +21098,7 @@
 			<random_reward_item>
 				<id>30</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -21135,7 +21135,7 @@
 			<random_reward_item>
 				<id>9</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -21187,7 +21187,7 @@
 			<random_reward_item>
 				<id>160</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -21252,7 +21252,7 @@
 			<random_reward_item>
 				<id>187</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -21435,7 +21435,7 @@
 			<random_reward_item>
 				<id>7</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -21476,7 +21476,7 @@
 			<random_reward_item>
 				<id>180</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -21627,7 +21627,7 @@
 			<random_reward_item>
 				<id>162</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -21684,7 +21684,7 @@
 			<random_reward_item>
 				<id>161</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -21735,7 +21735,7 @@
 			<random_reward_item>
 				<id>168</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -21782,7 +21782,7 @@
 			<random_reward_item>
 				<id>15</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -21829,7 +21829,7 @@
 			<random_reward_item>
 				<id>37</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -21876,7 +21876,7 @@
 			<random_reward_item>
 				<id>5</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -21974,7 +21974,7 @@
 			<random_reward_item>
 				<id>181</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -22031,7 +22031,7 @@
 			<random_reward_item>
 				<id>33</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -22083,7 +22083,7 @@
 			<random_reward_item>
 				<id>42</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -22140,7 +22140,7 @@
 			<random_reward_item>
 				<id>4</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -22238,7 +22238,7 @@
 			<random_reward_item>
 				<id>38</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -22265,7 +22265,7 @@
 			<random_reward_item>
 				<id>171</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -22302,7 +22302,7 @@
 			<random_reward_item>
 				<id>188</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -22339,7 +22339,7 @@
 			<random_reward_item>
 				<id>159</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -22391,7 +22391,7 @@
 			<random_reward_item>
 				<id>164</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -22452,7 +22452,7 @@
 			<random_reward_item>
 				<id>20</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -22509,7 +22509,7 @@
 			<random_reward_item>
 				<id>41</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -22566,7 +22566,7 @@
 			<random_reward_item>
 				<id>11</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -22680,7 +22680,7 @@
 			<random_reward_item>
 				<id>6</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -22730,7 +22730,7 @@
 			<random_reward_item>
 				<id>27</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -22886,7 +22886,7 @@
 			<random_reward_item>
 				<id>8</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -22943,7 +22943,7 @@
 			<random_reward_item>
 				<id>105</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -23004,7 +23004,7 @@
 			<random_reward_item>
 				<id>17</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -23061,7 +23061,7 @@
 			<random_reward_item>
 				<id>22</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -23175,7 +23175,7 @@
 			<random_reward_item>
 				<id>107</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -23232,7 +23232,7 @@
 			<random_reward_item>
 				<id>103</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -23292,7 +23292,7 @@
 			<random_reward_item>
 				<id>13</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -23344,7 +23344,7 @@
 			<random_reward_item>
 				<id>29</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -23396,7 +23396,7 @@
 			<random_reward_item>
 				<id>44</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -23613,7 +23613,7 @@
 			<random_reward_item>
 				<id>119</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -23717,7 +23717,7 @@
 			<random_reward_item>
 				<id>9</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -23825,7 +23825,7 @@
 			<random_reward_item>
 				<id>18</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -23919,7 +23919,7 @@
 			<random_reward_item>
 				<id>28</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -23966,7 +23966,7 @@
 			<random_reward_item>
 				<id>108</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -24023,7 +24023,7 @@
 			<random_reward_item>
 				<id>7</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -25673,7 +25673,7 @@
 			<random_reward_item>
 				<id>173</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -25725,7 +25725,7 @@
 			<random_reward_item>
 				<id>168</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -25865,7 +25865,7 @@
 			<random_reward_item>
 				<id>167</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -25892,7 +25892,7 @@
 			<random_reward_item>
 				<id>24</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -25919,7 +25919,7 @@
 			<random_reward_item>
 				<id>181</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -25946,7 +25946,7 @@
 			<random_reward_item>
 				<id>158</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -26003,7 +26003,7 @@
 			<random_reward_item>
 				<id>165</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -26049,7 +26049,7 @@
 			<random_reward_item>
 				<id>166</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -26153,7 +26153,7 @@
 			<random_reward_item>
 				<id>38</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -26195,7 +26195,7 @@
 			<random_reward_item>
 				<id>9</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -26237,7 +26237,7 @@
 			<random_reward_item>
 				<id>160</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -26278,7 +26278,7 @@
 			<random_reward_item>
 				<id>40</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -26315,7 +26315,7 @@
 			<random_reward_item>
 				<id>189</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -26352,7 +26352,7 @@
 			<random_reward_item>
 				<id>20</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -26466,7 +26466,7 @@
 			<random_reward_item>
 				<id>7</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -26522,7 +26522,7 @@
 			<random_reward_item>
 				<id>26</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -26631,7 +26631,7 @@
 			<random_reward_item>
 				<id>27</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -26678,7 +26678,7 @@
 			<random_reward_item>
 				<id>162</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -26725,7 +26725,7 @@
 			<random_reward_item>
 				<id>161</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -26771,7 +26771,7 @@
 			<random_reward_item>
 				<id>19</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -26828,7 +26828,7 @@
 			<random_reward_item>
 				<id>182</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -26885,7 +26885,7 @@
 			<random_reward_item>
 				<id>17</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -26942,7 +26942,7 @@
 			<random_reward_item>
 				<id>5</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -27149,7 +27149,7 @@
 			<random_reward_item>
 				<id>13</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -27201,7 +27201,7 @@
 			<random_reward_item>
 				<id>4</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -27258,7 +27258,7 @@
 			<random_reward_item>
 				<id>104</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -27304,7 +27304,7 @@
 			<random_reward_item>
 				<id>21</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -27346,7 +27346,7 @@
 			<random_reward_item>
 				<id>34</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -27557,7 +27557,7 @@
 			<random_reward_item>
 				<id>35</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -27671,7 +27671,7 @@
 			<random_reward_item>
 				<id>18</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -27785,7 +27785,7 @@
 			<random_reward_item>
 				<id>6</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -27841,7 +27841,7 @@
 			<random_reward_item>
 				<id>116</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -27935,7 +27935,7 @@
 			<random_reward_item>
 				<id>112</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -27987,7 +27987,7 @@
 			<random_reward_item>
 				<id>8</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -28044,7 +28044,7 @@
 			<random_reward_item>
 				<id>105</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -28105,7 +28105,7 @@
 			<random_reward_item>
 				<id>10</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -28162,7 +28162,7 @@
 			<random_reward_item>
 				<id>36</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -28219,7 +28219,7 @@
 			<random_reward_item>
 				<id>31</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -28276,7 +28276,7 @@
 			<random_reward_item>
 				<id>107</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -28333,7 +28333,7 @@
 			<random_reward_item>
 				<id>103</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -28441,7 +28441,7 @@
 			<random_reward_item>
 				<id>23</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -29960,7 +29960,7 @@
 			<random_reward_item>
 				<id>171</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -30017,7 +30017,7 @@
 			<random_reward_item>
 				<id>188</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -30074,7 +30074,7 @@
 			<random_reward_item>
 				<id>40</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -30131,7 +30131,7 @@
 			<random_reward_item>
 				<id>163</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -30188,7 +30188,7 @@
 			<random_reward_item>
 				<id>6</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -30244,7 +30244,7 @@
 			<random_reward_item>
 				<id>41</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -30296,7 +30296,7 @@
 			<random_reward_item>
 				<id>11</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -30348,7 +30348,7 @@
 			<random_reward_item>
 				<id>26</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -30395,7 +30395,7 @@
 			<random_reward_item>
 				<id>8</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -30498,7 +30498,7 @@
 			<random_reward_item>
 				<id>184</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -30525,7 +30525,7 @@
 			<random_reward_item>
 				<id>185</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -30572,7 +30572,7 @@
 			<random_reward_item>
 				<id>19</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -30727,7 +30727,7 @@
 			<random_reward_item>
 				<id>22</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -30779,7 +30779,7 @@
 			<random_reward_item>
 				<id>174</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -30821,7 +30821,7 @@
 			<random_reward_item>
 				<id>186</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -30878,7 +30878,7 @@
 			<random_reward_item>
 				<id>158</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -30935,7 +30935,7 @@
 			<random_reward_item>
 				<id>165</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -30991,7 +30991,7 @@
 			<random_reward_item>
 				<id>29</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -31043,7 +31043,7 @@
 			<random_reward_item>
 				<id>44</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -31100,7 +31100,7 @@
 			<random_reward_item>
 				<id>21</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -31157,7 +31157,7 @@
 			<random_reward_item>
 				<id>9</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -31214,7 +31214,7 @@
 			<random_reward_item>
 				<id>160</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -31282,7 +31282,7 @@
 			<random_reward_item>
 				<id>183</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>4</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -31314,7 +31314,7 @@
 			<random_reward_item>
 				<id>35</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -31408,7 +31408,7 @@
 			<random_reward_item>
 				<id>7</id>
 				<possibility>.1</possibility>
-				<type>3</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -31506,7 +31506,7 @@
 			<random_reward_item>
 				<id>28</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -31558,7 +31558,7 @@
 			<random_reward_item>
 				<id>116</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -31713,7 +31713,7 @@
 			<random_reward_item>
 				<id>110</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -31760,7 +31760,7 @@
 			<random_reward_item>
 				<id>39</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -31817,7 +31817,7 @@
 			<random_reward_item>
 				<id>10</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -31874,7 +31874,7 @@
 			<random_reward_item>
 				<id>5</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -31931,7 +31931,7 @@
 			<random_reward_item>
 				<id>106</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -31992,7 +31992,7 @@
 			<random_reward_item>
 				<id>32</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -32163,7 +32163,7 @@
 			<random_reward_item>
 				<id>4</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -32220,7 +32220,7 @@
 			<random_reward_item>
 				<id>104</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -32281,7 +32281,7 @@
 			<random_reward_item>
 				<id>25</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -32338,7 +32338,7 @@
 			<random_reward_item>
 				<id>12</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -32395,7 +32395,7 @@
 			<random_reward_item>
 				<id>109</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -32570,7 +32570,7 @@
 			<random_reward_item>
 				<id>121</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -32627,7 +32627,7 @@
 			<random_reward_item>
 				<id>114</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -32684,7 +32684,7 @@
 			<random_reward_item>
 				<id>43</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -32798,7 +32798,7 @@
 			<random_reward_item>
 				<id>6</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 	</event>
@@ -32854,7 +32854,7 @@
 			<random_reward_item>
 				<id>45</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -32958,7 +32958,7 @@
 			<random_reward_item>
 				<id>113</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -33015,7 +33015,7 @@
 			<random_reward_item>
 				<id>8</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>2</type>
 			</random_reward_item>
 		</mission>
 		<mission>
@@ -33062,7 +33062,7 @@
 			<random_reward_item>
 				<id>105</id>
 				<possibility>.1</possibility>
-				<type>4</type>
+				<type>3</type>
 			</random_reward_item>
 		</mission>
 	</event>
