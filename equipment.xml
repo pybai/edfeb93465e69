@@ -637,8 +637,8 @@
 <name>没羽箭</name>
 <description>这是一把没羽箭</description>
 <star_level>1</star_level>
-<attack_min>34</attack_min>
-<attack_max>134</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -651,8 +651,8 @@
 <name>裂玉狼牙棒</name>
 <description>这是一把裂玉狼牙棒</description>
 <star_level>1</star_level>
-<attack_min>40</attack_min>
-<attack_max>190</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -665,8 +665,8 @@
 <name>涯角枪 </name>
 <description>这是一把涯角枪 </description>
 <star_level>1</star_level>
-<attack_min>40</attack_min>
-<attack_max>220</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -679,8 +679,8 @@
 <name>断枪</name>
 <description>这是一把断枪</description>
 <star_level>1</star_level>
-<attack_min>36</attack_min>
-<attack_max>156</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -693,8 +693,8 @@
 <name>月牙戟</name>
 <description>这是一把月牙戟</description>
 <star_level>1</star_level>
-<attack_min>33</attack_min>
-<attack_max>173</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -707,8 +707,8 @@
 <name>破斩剑</name>
 <description>这是一把破斩剑</description>
 <star_level>1</star_level>
-<attack_min>31</attack_min>
-<attack_max>131</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -721,8 +721,8 @@
 <name>弧月刀</name>
 <description>这是一把弧月刀</description>
 <star_level>1</star_level>
-<attack_min>31</attack_min>
-<attack_max>191</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -735,8 +735,8 @@
 <name>钩镰枪</name>
 <description>这是一把钩镰枪</description>
 <star_level>1</star_level>
-<attack_min>36</attack_min>
-<attack_max>186</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -749,8 +749,8 @@
 <name>双戟</name>
 <description>这是一把双戟</description>
 <star_level>1</star_level>
-<attack_min>31</attack_min>
-<attack_max>191</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -763,8 +763,8 @@
 <name>青铜剑</name>
 <description>这是一把青铜剑</description>
 <star_level>1</star_level>
-<attack_min>35</attack_min>
-<attack_max>195</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -777,8 +777,8 @@
 <name>眉间刀</name>
 <description>这是一把眉间刀</description>
 <star_level>1</star_level>
-<attack_min>34</attack_min>
-<attack_max>204</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -791,8 +791,8 @@
 <name>诸葛枪</name>
 <description>这是一把诸葛枪</description>
 <star_level>1</star_level>
-<attack_min>40</attack_min>
-<attack_max>210</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -805,8 +805,8 @@
 <name>长柄铁锤</name>
 <description>这是一把长柄铁锤</description>
 <star_level>1</star_level>
-<attack_min>36</attack_min>
-<attack_max>226</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -819,8 +819,8 @@
 <name>铁蒺藜骨朵</name>
 <description>这是一把铁蒺藜骨朵</description>
 <star_level>1</star_level>
-<attack_min>31</attack_min>
-<attack_max>191</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -833,8 +833,8 @@
 <name>芭蕉扇</name>
 <description>这是一把芭蕉扇</description>
 <star_level>1</star_level>
-<attack_min>37</attack_min>
-<attack_max>197</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -847,8 +847,8 @@
 <name>五火神焰扇</name>
 <description>这是一把五火神焰扇</description>
 <star_level>1</star_level>
-<attack_min>34</attack_min>
-<attack_max>184</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -861,8 +861,8 @@
 <name>白羽扇</name>
 <description>这是一把白羽扇</description>
 <star_level>1</star_level>
-<attack_min>31</attack_min>
-<attack_max>191</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -875,8 +875,8 @@
 <name>双铁戟</name>
 <description>这是一把双铁戟</description>
 <star_level>1</star_level>
-<attack_min>30</attack_min>
-<attack_max>210</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -889,8 +889,8 @@
 <name>铁脊蛇矛 </name>
 <description>这是一把铁脊蛇矛 </description>
 <star_level>1</star_level>
-<attack_min>31</attack_min>
-<attack_max>191</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -903,8 +903,8 @@
 <name>蘸金斧</name>
 <description>这是一把蘸金斧</description>
 <star_level>1</star_level>
-<attack_min>40</attack_min>
-<attack_max>200</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -917,8 +917,8 @@
 <name>文士剑</name>
 <description>这是一把文士剑</description>
 <star_level>1</star_level>
-<attack_min>33</attack_min>
-<attack_max>183</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -931,8 +931,8 @@
 <name>蜀八剑</name>
 <description>这是一把蜀八剑</description>
 <star_level>1</star_level>
-<attack_min>30</attack_min>
-<attack_max>200</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -945,8 +945,8 @@
 <name>衠钢槊</name>
 <description>这是一把衠钢槊</description>
 <star_level>1</star_level>
-<attack_min>40</attack_min>
-<attack_max>170</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -959,8 +959,8 @@
 <name>丈八长标 </name>
 <description>这是一把丈八长标 </description>
 <star_level>1</star_level>
-<attack_min>33</attack_min>
-<attack_max>153</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -973,8 +973,8 @@
 <name>王双大刀 </name>
 <description>这是一把王双大刀 </description>
 <star_level>1</star_level>
-<attack_min>38</attack_min>
-<attack_max>218</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -987,8 +987,8 @@
 <name>吕虔刀</name>
 <description>这是一把吕虔刀</description>
 <star_level>1</star_level>
-<attack_min>40</attack_min>
-<attack_max>210</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1001,8 +1001,8 @@
 <name>龙泉剑</name>
 <description>这是一把龙泉剑</description>
 <star_level>1</star_level>
-<attack_min>39</attack_min>
-<attack_max>149</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1015,8 +1015,8 @@
 <name>松纹厢宝剑</name>
 <description>这是一把松纹厢宝剑</description>
 <star_level>1</star_level>
-<attack_min>39</attack_min>
-<attack_max>229</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1029,8 +1029,8 @@
 <name>思召剑</name>
 <description>这是一把思召剑</description>
 <star_level>1</star_level>
-<attack_min>35</attack_min>
-<attack_max>235</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1043,8 +1043,8 @@
 <name>飞景三剑</name>
 <description>这是一把飞景三剑</description>
 <star_level>1</star_level>
-<attack_min>32</attack_min>
-<attack_max>202</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1057,8 +1057,8 @@
 <name>铜挝</name>
 <description>这是一把铜挝</description>
 <star_level>1</star_level>
-<attack_min>33</attack_min>
-<attack_max>233</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1071,8 +1071,8 @@
 <name>荡寇将军刀</name>
 <description>这是一把荡寇将军刀</description>
 <star_level>1</star_level>
-<attack_min>39</attack_min>
-<attack_max>159</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1085,8 +1085,8 @@
 <name>司马刀</name>
 <description>这是一把司马刀</description>
 <star_level>1</star_level>
-<attack_min>37</attack_min>
-<attack_max>167</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1099,8 +1099,8 @@
 <name>幼平刀</name>
 <description>这是一把幼平刀</description>
 <star_level>1</star_level>
-<attack_min>35</attack_min>
-<attack_max>155</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1113,8 +1113,8 @@
 <name>固陵刀</name>
 <description>这是一把固陵刀</description>
 <star_level>1</star_level>
-<attack_min>32</attack_min>
-<attack_max>212</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1127,8 +1127,8 @@
 <name>安国刀</name>
 <description>这是一把安国刀</description>
 <star_level>1</star_level>
-<attack_min>34</attack_min>
-<attack_max>144</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1141,8 +1141,8 @@
 <name>新亭侯刀</name>
 <description>这是一把新亭侯刀</description>
 <star_level>1</star_level>
-<attack_min>34</attack_min>
-<attack_max>134</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1155,8 +1155,8 @@
 <name>太一刀</name>
 <description>这是一把太一刀</description>
 <star_level>1</star_level>
-<attack_min>34</attack_min>
-<attack_max>224</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1169,8 +1169,8 @@
 <name>宜为将刀</name>
 <description>这是一把宜为将刀</description>
 <star_level>1</star_level>
-<attack_min>40</attack_min>
-<attack_max>170</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1183,8 +1183,8 @@
 <name>百辟五宝刀</name>
 <description>这是一把百辟五宝刀</description>
 <star_level>1</star_level>
-<attack_min>33</attack_min>
-<attack_max>133</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1197,8 +1197,8 @@
 <name>三尖两刃刀</name>
 <description>这是一把三尖两刃刀</description>
 <star_level>1</star_level>
-<attack_min>31</attack_min>
-<attack_max>201</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1211,8 +1211,8 @@
 <name>蛇矛</name>
 <description>这是一把蛇矛</description>
 <star_level>1</star_level>
-<attack_min>32</attack_min>
-<attack_max>212</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1225,8 +1225,8 @@
 <name>虎筋弦弓</name>
 <description>这是一把虎筋弦弓</description>
 <star_level>1</star_level>
-<attack_min>33</attack_min>
-<attack_max>203</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1239,8 +1239,8 @@
 <name>双刀</name>
 <description>这是一把双刀</description>
 <star_level>1</star_level>
-<attack_min>31</attack_min>
-<attack_max>221</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1253,8 +1253,8 @@
 <name>铁锤</name>
 <description>这是一把铁锤</description>
 <star_level>1</star_level>
-<attack_min>36</attack_min>
-<attack_max>196</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1267,8 +1267,8 @@
 <name>镇山剑</name>
 <description>这是一把镇山剑</description>
 <star_level>1</star_level>
-<attack_min>33</attack_min>
-<attack_max>223</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1281,8 +1281,8 @@
 <name>吴六剑</name>
 <description>这是一把吴六剑</description>
 <star_level>1</star_level>
-<attack_min>30</attack_min>
-<attack_max>220</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1295,8 +1295,8 @@
 <name>啊啊啊</name>
 <description>这是一把啊啊啊</description>
 <star_level>1</star_level>
-<attack_min>33</attack_min>
-<attack_max>153</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1310,7 +1310,7 @@
 <description>这是一把日月刀</description>
 <star_level>1</star_level>
 <attack_min>10</attack_min>
-<attack_max>80</attack_max>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1323,8 +1323,8 @@
 <name>百辟宝刀</name>
 <description>这是一把百辟宝刀</description>
 <star_level>1</star_level>
-<attack_min>11</attack_min>
-<attack_max>71</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1338,7 +1338,7 @@
 <description>这是一把百辟匕首二</description>
 <star_level>1</star_level>
 <attack_min>10</attack_min>
-<attack_max>100</attack_max>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1351,8 +1351,8 @@
 <name>四楞铁简</name>
 <description>这是一把四楞铁简</description>
 <star_level>1</star_level>
-<attack_min>18</attack_min>
-<attack_max>98</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1365,8 +1365,8 @@
 <name>小刀</name>
 <description>这是一把小刀</description>
 <star_level>1</star_level>
-<attack_min>16</attack_min>
-<attack_max>76</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1379,8 +1379,8 @@
 <name>重刀</name>
 <description>这是一把重刀</description>
 <star_level>1</star_level>
-<attack_min>11</attack_min>
-<attack_max>71</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1394,7 +1394,7 @@
 <description>这是一把轻刀</description>
 <star_level>1</star_level>
 <attack_min>10</attack_min>
-<attack_max>110</attack_max>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1407,8 +1407,8 @@
 <name>断剑</name>
 <description>这是一把断剑</description>
 <star_level>1</star_level>
-<attack_min>20</attack_min>
-<attack_max>110</attack_max>
+<attack_min>10</attack_min>
+<attack_max>150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1747,8 +1747,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>23</defense_min>
-<defense_max>203</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -1761,8 +1761,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>28</defense_min>
-<defense_max>198</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -1775,8 +1775,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>26</defense_min>
-<defense_max>226</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -1789,8 +1789,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>24</defense_min>
-<defense_max>154</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -1803,8 +1803,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>23</defense_min>
-<defense_max>213</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -1817,8 +1817,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>29</defense_min>
-<defense_max>189</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -1831,8 +1831,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>27</defense_min>
-<defense_max>127</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -1845,8 +1845,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>27</defense_min>
-<defense_max>147</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -1859,8 +1859,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>29</defense_min>
-<defense_max>209</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -1873,8 +1873,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>22</defense_min>
-<defense_max>152</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -1887,8 +1887,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>24</defense_min>
-<defense_max>134</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -1901,8 +1901,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>21</defense_min>
-<defense_max>211</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -1915,8 +1915,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>24</defense_min>
-<defense_max>124</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -1929,8 +1929,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>24</defense_min>
-<defense_max>204</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -1943,8 +1943,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>24</defense_min>
-<defense_max>174</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -1957,8 +1957,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>20</defense_min>
-<defense_max>210</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -1971,8 +1971,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>30</defense_min>
-<defense_max>190</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -1985,8 +1985,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>21</defense_min>
-<defense_max>191</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -1999,8 +1999,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>30</defense_min>
-<defense_max>190</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -2013,8 +2013,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>24</defense_min>
-<defense_max>184</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -2027,8 +2027,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>30</defense_min>
-<defense_max>170</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -2041,8 +2041,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>26</defense_min>
-<defense_max>176</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -2055,8 +2055,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>29</defense_min>
-<defense_max>199</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -2069,8 +2069,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>22</defense_min>
-<defense_max>122</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -2083,8 +2083,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>28</defense_min>
-<defense_max>228</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -2097,8 +2097,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>24</defense_min>
-<defense_max>154</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -2111,8 +2111,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>28</defense_min>
-<defense_max>188</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -2125,8 +2125,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>28</defense_min>
-<defense_max>188</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -2139,8 +2139,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>22</defense_min>
-<defense_max>212</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -2153,8 +2153,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>23</defense_min>
-<defense_max>203</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -2167,8 +2167,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>25</defense_min>
-<defense_max>225</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -2181,8 +2181,8 @@
 <star_level>1</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
-<defense_min>27</defense_min>
-<defense_max>157</defense_max><energy_recover_min></energy_recover_min>
+<defense_min>10</defense_min>
+<defense_max>150</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
