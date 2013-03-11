@@ -19,7 +19,7 @@
 <attack_addon></attack_addon>
 <defense_addon></defense_addon>
 <strength_addon></strength_addon>
-<country>2</country>
+<country>0</country>
 <country_addon_atk>20</country_addon_atk>
 <country_addon_def>20</country_addon_def>
 <opponent></opponent>
@@ -32,7 +32,7 @@
 <attack_addon></attack_addon>
 <defense_addon></defense_addon>
 <strength_addon></strength_addon>
-<country>3</country>
+<country>2</country>
 <country_addon_atk>20</country_addon_atk>
 <country_addon_def>20</country_addon_def>
 <opponent></opponent>
@@ -45,7 +45,7 @@
 <attack_addon></attack_addon>
 <defense_addon>40</defense_addon>
 <strength_addon></strength_addon>
-<country>2</country>
+<country></country>
 <country_addon_atk>10</country_addon_atk>
 <country_addon_def></country_addon_def>
 <opponent></opponent>
