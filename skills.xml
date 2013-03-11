@@ -183,7 +183,7 @@
 <opponent_addon_atk></opponent_addon_atk>
 <opponent_addon_def></opponent_addon_def>
 <condition>
-<id>93</id>
+<id>34</id>
 <type>2</type>
 </condition>
 </skill>
@@ -426,7 +426,7 @@
 </skill>
 <skill>
 <id>25</id>
-<description>+Á÷ÔÆ´©ÔÂÇ¹¡ú¹¥»÷30%¡ü</description>
+<description>+¡ú¹¥»÷30%¡ü</description>
 <attack_addon>30</attack_addon>
 <defense_addon></defense_addon>
 <strength_addon></strength_addon>
@@ -436,10 +436,6 @@
 <opponent></opponent>
 <opponent_addon_atk></opponent_addon_atk>
 <opponent_addon_def></opponent_addon_def>
-<condition>
-<id>40</id>
-<type>2</type>
-</condition>
 </skill>
 <skill>
 <id>26</id>
@@ -498,7 +494,7 @@
 </skill>
 <skill>
 <id>29</id>
-<description>+·ï×ìµ¶¡ú¹¥»÷30%¡ü</description>
+<description>+¡ú¹¥»÷30%¡ü</description>
 <attack_addon>30</attack_addon>
 <defense_addon></defense_addon>
 <strength_addon></strength_addon>
@@ -508,10 +504,6 @@
 <opponent></opponent>
 <opponent_addon_atk></opponent_addon_atk>
 <opponent_addon_def></opponent_addon_def>
-<condition>
-<id>42</id>
-<type>2</type>
-</condition>
 </skill>
 <skill>
 <id>30</id>
@@ -943,7 +935,7 @@
 </skill>
 <skill>
 <id>54</id>
-<description>+·ï×ìµ¶¡ú¹¥»÷30%¡ü</description>
+<description>+¡ú¹¥»÷30%¡ü</description>
 <attack_addon>30</attack_addon>
 <defense_addon></defense_addon>
 <strength_addon></strength_addon>
@@ -953,10 +945,6 @@
 <opponent></opponent>
 <opponent_addon_atk></opponent_addon_atk>
 <opponent_addon_def></opponent_addon_def>
-<condition>
-<id>42</id>
-<type>2</type>
-</condition>
 </skill>
 <skill>
 <id>55</id>
