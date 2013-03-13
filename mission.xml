@@ -16,7 +16,7 @@
 			<reward_exp>6</reward_exp>
 			<reward_cash>50</reward_cash>
 			<buttonStr>交谈</buttonStr>
-			<animationID>1</animationID>
+			<animationID>22</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -73,7 +73,7 @@
 			<reward_exp>6</reward_exp>
 			<reward_cash>50</reward_cash>
 			<buttonStr>饮酒</buttonStr>
-			<animationID>1</animationID>
+			<animationID>24</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -130,7 +130,7 @@
 			<reward_exp>6</reward_exp>
 			<reward_cash>50</reward_cash>
 			<buttonStr>招募</buttonStr>
-			<animationID>1</animationID>
+			<animationID>25</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -187,7 +187,7 @@
 			<reward_exp>6</reward_exp>
 			<reward_cash>50</reward_cash>
 			<buttonStr>游说</buttonStr>
-			<animationID>1</animationID>
+			<animationID>22</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -244,7 +244,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>结义</buttonStr>
-			<animationID>1</animationID>
+			<animationID>24</animationID>
 			<random_reward_item>
 				<id>9</id>
 				<possibility>.01</possibility>
@@ -352,7 +352,7 @@
 			<reward_exp>9</reward_exp>
 			<reward_cash>50</reward_cash>
 			<buttonStr>参见</buttonStr>
-			<animationID>1</animationID>
+			<animationID>22</animationID>
 			<random_reward_item>
 				<id>450</id>
 				<possibility>.1</possibility>
@@ -404,7 +404,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>50</reward_cash>
 			<buttonStr>行军</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>450</id>
 				<possibility>.1</possibility>
@@ -456,7 +456,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>50</reward_cash>
 			<buttonStr>怒斥</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>450</id>
 				<possibility>.1</possibility>
@@ -508,7 +508,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>9</id>
 				<possibility>.01</possibility>
@@ -573,7 +573,7 @@
 			<reward_exp>6</reward_exp>
 			<reward_cash>50</reward_cash>
 			<buttonStr>送信</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -625,7 +625,7 @@
 			<reward_exp>9</reward_exp>
 			<reward_cash>50</reward_cash>
 			<buttonStr>商议</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -677,7 +677,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>50</reward_cash>
 			<buttonStr>行军</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -729,7 +729,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>50</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -781,7 +781,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>退兵</buttonStr>
-			<animationID>1</animationID>
+			<animationID>28</animationID>
 			<random_reward_item>
 				<id>9</id>
 				<possibility>.01</possibility>
@@ -837,7 +837,7 @@
 			<reward_exp>6</reward_exp>
 			<reward_cash>50</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -889,7 +889,7 @@
 			<reward_exp>9</reward_exp>
 			<reward_cash>50</reward_cash>
 			<buttonStr>佯退</buttonStr>
-			<animationID>1</animationID>
+			<animationID>13</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -941,7 +941,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>50</reward_cash>
 			<buttonStr>鸣金</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -993,7 +993,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>50</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -1045,7 +1045,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>大胜</buttonStr>
-			<animationID>1</animationID>
+			<animationID>10</animationID>
 			<random_reward_item>
 				<id>9</id>
 				<possibility>.01</possibility>
@@ -1105,7 +1105,7 @@
 			<reward_exp>9</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>犒赏</buttonStr>
-			<animationID>1</animationID>
+			<animationID>24</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -1157,7 +1157,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>告别</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -1204,7 +1204,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>行军</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -1251,7 +1251,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交谈</buttonStr>
-			<animationID>1</animationID>
+			<animationID>22</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -1298,7 +1298,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>休整</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>9</id>
 				<possibility>.01</possibility>
@@ -1359,7 +1359,7 @@
 			<reward_exp>9</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>行军</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -1416,7 +1416,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -1473,7 +1473,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>商议</buttonStr>
-			<animationID>1</animationID>
+			<animationID>22</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -1530,7 +1530,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>纵火</buttonStr>
-			<animationID>1</animationID>
+			<animationID>11</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -1587,7 +1587,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>追杀</buttonStr>
-			<animationID>1</animationID>
+			<animationID>28</animationID>
 			<random_reward_item>
 				<id>9</id>
 				<possibility>.01</possibility>
@@ -1648,7 +1648,7 @@
 			<reward_exp>9</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>89</id>
 				<possibility>.1</possibility>
@@ -1705,7 +1705,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>89</id>
 				<possibility>.1</possibility>
@@ -1762,7 +1762,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>89</id>
 				<possibility>.1</possibility>
@@ -1819,7 +1819,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>清点</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>89</id>
 				<possibility>.1</possibility>
@@ -1876,7 +1876,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>追杀</buttonStr>
-			<animationID>1</animationID>
+			<animationID>17</animationID>
 			<random_reward_item>
 				<id>2</id>
 				<possibility>.01</possibility>
@@ -1937,7 +1937,7 @@
 			<reward_exp>9</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>询问</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -1989,7 +1989,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>劝说</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -2041,7 +2041,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>行军</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -2088,7 +2088,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -2135,7 +2135,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>大胜</buttonStr>
-			<animationID>1</animationID>
+			<animationID>10</animationID>
 			<random_reward_item>
 				<id>9</id>
 				<possibility>.01</possibility>
@@ -2200,7 +2200,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>行军</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -2252,7 +2252,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -2304,7 +2304,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -2356,7 +2356,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>撤退</buttonStr>
-			<animationID>1</animationID>
+			<animationID>28</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -2408,7 +2408,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>撤退</buttonStr>
-			<animationID>1</animationID>
+			<animationID>28</animationID>
 			<random_reward_item>
 				<id>9</id>
 				<possibility>.01</possibility>
@@ -2459,7 +2459,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>商议</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>252</id>
 				<possibility>.1</possibility>
@@ -2506,7 +2506,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>准备</buttonStr>
-			<animationID>1</animationID>
+			<animationID>5</animationID>
 			<random_reward_item>
 				<id>252</id>
 				<possibility>.1</possibility>
@@ -2553,7 +2553,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>埋伏</buttonStr>
-			<animationID>1</animationID>
+			<animationID>4</animationID>
 			<random_reward_item>
 				<id>252</id>
 				<possibility>.1</possibility>
@@ -2600,7 +2600,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>252</id>
 				<possibility>.1</possibility>
@@ -2647,7 +2647,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>大胜</buttonStr>
-			<animationID>1</animationID>
+			<animationID>10</animationID>
 			<random_reward_item>
 				<id>9</id>
 				<possibility>.01</possibility>
@@ -2708,7 +2708,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>劝降</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -2765,7 +2765,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>行军</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -2822,7 +2822,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -2879,7 +2879,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>商议</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -2936,7 +2936,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>攻城</buttonStr>
-			<animationID>1</animationID>
+			<animationID>2</animationID>
 			<random_reward_item>
 				<id>9</id>
 				<possibility>.01</possibility>
@@ -2997,7 +2997,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>撤退</buttonStr>
-			<animationID>1</animationID>
+			<animationID>13</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -3054,7 +3054,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>接应</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -3111,7 +3111,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -3168,7 +3168,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>2</animationID>
 			<random_reward_item>
 				<id>296</id>
 				<possibility>.1</possibility>
@@ -3220,7 +3220,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>凯旋</buttonStr>
-			<animationID>1</animationID>
+			<animationID>10</animationID>
 			<random_reward_item>
 				<id>9</id>
 				<possibility>.01</possibility>
@@ -3281,7 +3281,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交谈</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>252</id>
 				<possibility>.1</possibility>
@@ -3333,7 +3333,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交谈</buttonStr>
-			<animationID>1</animationID>
+			<animationID>8</animationID>
 			<random_reward_item>
 				<id>252</id>
 				<possibility>.1</possibility>
@@ -3380,7 +3380,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>鞭笞</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>252</id>
 				<possibility>.1</possibility>
@@ -3427,7 +3427,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>劝说</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>252</id>
 				<possibility>.1</possibility>
@@ -3474,7 +3474,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>投奔</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>9</id>
 				<possibility>.01</possibility>
@@ -3539,7 +3539,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>打听</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>420</id>
 				<possibility>.1</possibility>
@@ -3596,7 +3596,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>打听</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>284</id>
 				<possibility>.1</possibility>
@@ -3653,7 +3653,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>进谏</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>420</id>
 				<possibility>.1</possibility>
@@ -3710,7 +3710,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>进谏</buttonStr>
-			<animationID>1</animationID>
+			<animationID>8</animationID>
 			<random_reward_item>
 				<id>284</id>
 				<possibility>.1</possibility>
@@ -3767,7 +3767,7 @@
 			<reward_exp>45</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>打听</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>420</id>
 				<possibility>.1</possibility>
@@ -3828,7 +3828,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>行军</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>284</id>
 				<possibility>.1</possibility>
@@ -3885,7 +3885,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>书写</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>420</id>
 				<possibility>.1</possibility>
@@ -3942,7 +3942,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>284</id>
 				<possibility>.1</possibility>
@@ -3999,7 +3999,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>420</id>
 				<possibility>.1</possibility>
@@ -4056,7 +4056,7 @@
 			<reward_exp>45</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>领赏</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>284</id>
 				<possibility>.1</possibility>
@@ -4117,7 +4117,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>商议</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>420</id>
 				<possibility>.1</possibility>
@@ -4174,7 +4174,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>商议</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>34</id>
 				<possibility>.1</possibility>
@@ -4231,7 +4231,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>密谋</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>187</id>
 				<possibility>.1</possibility>
@@ -4288,7 +4288,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>登位</buttonStr>
-			<animationID>1</animationID>
+			<animationID>10</animationID>
 			<random_reward_item>
 				<id>187</id>
 				<possibility>.1</possibility>
@@ -4345,7 +4345,7 @@
 			<reward_exp>45</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>求情</buttonStr>
-			<animationID>1</animationID>
+			<animationID>8</animationID>
 			<random_reward_item>
 				<id>187</id>
 				<possibility>.1</possibility>
@@ -4406,7 +4406,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>打听</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>187</id>
 				<possibility>.1</possibility>
@@ -4463,7 +4463,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>争吵</buttonStr>
-			<animationID>1</animationID>
+			<animationID>24</animationID>
 			<random_reward_item>
 				<id>187</id>
 				<possibility>.1</possibility>
@@ -4520,7 +4520,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>围攻</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>187</id>
 				<possibility>.1</possibility>
@@ -4577,7 +4577,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>密谋</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>187</id>
 				<possibility>.1</possibility>
@@ -4634,7 +4634,7 @@
 			<reward_exp>45</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>发诏</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>187</id>
 				<possibility>.1</possibility>
@@ -4695,7 +4695,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>打听</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -4752,7 +4752,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>进谏</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -4809,7 +4809,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交谈</buttonStr>
-			<animationID>1</animationID>
+			<animationID>4</animationID>
 			<random_reward_item>
 				<id>237</id>
 				<possibility>.1</possibility>
@@ -4923,7 +4923,7 @@
 			<reward_exp>45</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>逃跑</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>363</id>
 				<possibility>.1</possibility>
@@ -4984,7 +4984,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>放火</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>363</id>
 				<possibility>.1</possibility>
@@ -5041,7 +5041,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>追赶</buttonStr>
-			<animationID>1</animationID>
+			<animationID>11</animationID>
 			<random_reward_item>
 				<id>363</id>
 				<possibility>.1</possibility>
@@ -5098,7 +5098,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>追赶</buttonStr>
-			<animationID>1</animationID>
+			<animationID>28</animationID>
 			<random_reward_item>
 				<id>288</id>
 				<possibility>.1</possibility>
@@ -5155,7 +5155,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>寻找</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>288</id>
 				<possibility>.1</possibility>
@@ -5212,7 +5212,7 @@
 			<reward_exp>45</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>护送</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>288</id>
 				<possibility>.1</possibility>
@@ -5273,7 +5273,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>寻找</buttonStr>
-			<animationID>1</animationID>
+			<animationID>26</animationID>
 			<random_reward_item>
 				<id>288</id>
 				<possibility>.1</possibility>
@@ -5320,7 +5320,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>商议</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>288</id>
 				<possibility>.1</possibility>
@@ -5367,7 +5367,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>设宴</buttonStr>
-			<animationID>1</animationID>
+			<animationID>24</animationID>
 			<random_reward_item>
 				<id>288</id>
 				<possibility>.1</possibility>
@@ -5419,7 +5419,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>怒斥</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>288</id>
 				<possibility>.1</possibility>
@@ -5527,7 +5527,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>挑衅</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>281</id>
 				<possibility>.1</possibility>
@@ -5579,7 +5579,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>281</id>
 				<possibility>.1</possibility>
@@ -5631,7 +5631,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>贿赂</buttonStr>
-			<animationID>1</animationID>
+			<animationID>22</animationID>
 			<random_reward_item>
 				<id>281</id>
 				<possibility>.1</possibility>
@@ -5683,7 +5683,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>刺杀</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>281</id>
 				<possibility>.1</possibility>
@@ -5735,7 +5735,7 @@
 			<reward_exp>45</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>投奔</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>281</id>
 				<possibility>.1</possibility>
@@ -5786,7 +5786,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>商谈</buttonStr>
-			<animationID>1</animationID>
+			<animationID>24</animationID>
 			<random_reward_item>
 				<id>403</id>
 				<possibility>.1</possibility>
@@ -5843,7 +5843,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>对峙</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>403</id>
 				<possibility>.1</possibility>
@@ -5900,7 +5900,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>立帝</buttonStr>
-			<animationID>1</animationID>
+			<animationID>10</animationID>
 			<random_reward_item>
 				<id>288</id>
 				<possibility>.1</possibility>
@@ -5957,7 +5957,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>软禁</buttonStr>
-			<animationID>1</animationID>
+			<animationID>8</animationID>
 			<random_reward_item>
 				<id>344</id>
 				<possibility>.1</possibility>
@@ -6004,7 +6004,7 @@
 			<reward_exp>45</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>弑帝</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>344</id>
 				<possibility>.1</possibility>
@@ -6069,7 +6069,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>包围</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>367</id>
 				<possibility>.1</possibility>
@@ -6106,7 +6106,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>刺杀</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>367</id>
 				<possibility>.1</possibility>
@@ -6143,7 +6143,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>修书</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>367</id>
 				<possibility>.1</possibility>
@@ -6180,7 +6180,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>献计</buttonStr>
-			<animationID>1</animationID>
+			<animationID>26</animationID>
 			<random_reward_item>
 				<id>367</id>
 				<possibility>.1</possibility>
@@ -6222,7 +6222,7 @@
 			<reward_exp>45</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>辞别</buttonStr>
-			<animationID>1</animationID>
+			<animationID>24</animationID>
 			<random_reward_item>
 				<id>367</id>
 				<possibility>.1</possibility>
@@ -6283,7 +6283,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>询问</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>78</id>
 				<possibility>.1</possibility>
@@ -6310,7 +6310,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>等待</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>78</id>
 				<possibility>.1</possibility>
@@ -6337,7 +6337,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>拔刀</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>78</id>
 				<possibility>.1</possibility>
@@ -6364,7 +6364,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>献刀</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>78</id>
 				<possibility>.1</possibility>
@@ -6391,7 +6391,7 @@
 			<reward_exp>45</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>飞奔</buttonStr>
-			<animationID>1</animationID>
+			<animationID>14</animationID>
 			<random_reward_item>
 				<id>78</id>
 				<possibility>.1</possibility>
@@ -6437,7 +6437,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>狡辩</buttonStr>
-			<animationID>1</animationID>
+			<animationID>7</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -6469,7 +6469,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>逃走</buttonStr>
-			<animationID>1</animationID>
+			<animationID>15</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -6501,7 +6501,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>休息</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -6533,7 +6533,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>杀害</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -6565,7 +6565,7 @@
 			<reward_exp>45</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>离开</buttonStr>
-			<animationID>1</animationID>
+			<animationID>15</animationID>
 			<random_reward_item>
 				<id>2</id>
 				<possibility>.01</possibility>
@@ -6626,7 +6626,7 @@
 			<reward_exp>12</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>兴兵</buttonStr>
-			<animationID>1</animationID>
+			<animationID>25</animationID>
 			<random_reward_item>
 				<id>158</id>
 				<possibility>.1</possibility>
@@ -6683,7 +6683,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>投奔</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>158</id>
 				<possibility>.1</possibility>
@@ -6740,7 +6740,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>会合</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>158</id>
 				<possibility>.1</possibility>
@@ -6797,7 +6797,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>会合</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>158</id>
 				<possibility>.1</possibility>
@@ -6854,7 +6854,7 @@
 			<reward_exp>45</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>结盟</buttonStr>
-			<animationID>1</animationID>
+			<animationID>10</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -6919,7 +6919,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>行军</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>418</id>
 				<possibility>.1</possibility>
@@ -6971,7 +6971,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>410</id>
 				<possibility>.1</possibility>
@@ -7028,7 +7028,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -7085,7 +7085,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>催粮</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -7137,7 +7137,7 @@
 			<reward_exp>45</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>献策</buttonStr>
-			<animationID>1</animationID>
+			<animationID>22</animationID>
 			<random_reward_item>
 				<id>410</id>
 				<possibility>.1</possibility>
@@ -7198,7 +7198,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>应战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -7255,7 +7255,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>突围</buttonStr>
-			<animationID>1</animationID>
+			<animationID>11</animationID>
 			<random_reward_item>
 				<id>418</id>
 				<possibility>.1</possibility>
@@ -7307,7 +7307,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>射箭</buttonStr>
-			<animationID>1</animationID>
+			<animationID>3</animationID>
 			<random_reward_item>
 				<id>410</id>
 				<possibility>.1</possibility>
@@ -7364,7 +7364,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>掩护</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -7421,7 +7421,7 @@
 			<reward_exp>45</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>收拾</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>418</id>
 				<possibility>.1</possibility>
@@ -7477,7 +7477,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>忍受</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>410</id>
 				<possibility>.1</possibility>
@@ -7529,7 +7529,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>迎战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -7586,7 +7586,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>迎战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>418</id>
 				<possibility>.1</possibility>
@@ -7638,7 +7638,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>请战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>410</id>
 				<possibility>.1</possibility>
@@ -7695,7 +7695,7 @@
 			<reward_exp>45</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>怒斥</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -7756,7 +7756,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>说情</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>418</id>
 				<possibility>.1</possibility>
@@ -7808,7 +7808,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>热酒</buttonStr>
-			<animationID>1</animationID>
+			<animationID>24</animationID>
 			<random_reward_item>
 				<id>410</id>
 				<possibility>.1</possibility>
@@ -7865,7 +7865,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>出战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -7922,7 +7922,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>秒杀</buttonStr>
-			<animationID>1</animationID>
+			<animationID>10</animationID>
 			<random_reward_item>
 				<id>418</id>
 				<possibility>.1</possibility>
@@ -7974,7 +7974,7 @@
 			<reward_exp>45</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>抚慰</buttonStr>
-			<animationID>1</animationID>
+			<animationID>24</animationID>
 			<random_reward_item>
 				<id>410</id>
 				<possibility>.1</possibility>
@@ -8035,7 +8035,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>求救</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>403</id>
 				<possibility>.1</possibility>
@@ -8082,7 +8082,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>围困</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>403</id>
 				<possibility>.1</possibility>
@@ -8129,7 +8129,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>布军</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>414</id>
 				<possibility>.1</possibility>
@@ -8181,7 +8181,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>195</id>
 				<possibility>.1</possibility>
@@ -8223,7 +8223,7 @@
 			<reward_exp>45</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>对阵</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>370</id>
 				<possibility>.1</possibility>
@@ -8279,7 +8279,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>迎战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -8326,7 +8326,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>怒吼</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>325</id>
 				<possibility>.1</possibility>
@@ -8368,7 +8368,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>缠斗</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>418</id>
 				<possibility>.1</possibility>
@@ -8415,7 +8415,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>厮杀</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>410</id>
 				<possibility>.1</possibility>
@@ -8462,7 +8462,7 @@
 			<reward_exp>45</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>追赶</buttonStr>
-			<animationID>1</animationID>
+			<animationID>15</animationID>
 			<random_reward_item>
 				<id>418</id>
 				<possibility>.1</possibility>
@@ -8523,7 +8523,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>撤退</buttonStr>
-			<animationID>1</animationID>
+			<animationID>14</animationID>
 			<random_reward_item>
 				<id>277</id>
 				<possibility>.1</possibility>
@@ -8580,7 +8580,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>怪罪</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -8637,7 +8637,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>嫁祸</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -8694,7 +8694,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>怒叱</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>277</id>
 				<possibility>.1</possibility>
@@ -8736,7 +8736,7 @@
 			<reward_exp>45</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>回撤</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>4</id>
 				<possibility>.01</possibility>
@@ -8797,7 +8797,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>纵火</buttonStr>
-			<animationID>1</animationID>
+			<animationID>11</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -8854,7 +8854,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>追赶</buttonStr>
-			<animationID>1</animationID>
+			<animationID>17</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -8906,7 +8906,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>撤回</buttonStr>
-			<animationID>1</animationID>
+			<animationID>28</animationID>
 			<random_reward_item>
 				<id>376</id>
 				<possibility>.1</possibility>
@@ -8958,7 +8958,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>逃走</buttonStr>
-			<animationID>1</animationID>
+			<animationID>28</animationID>
 			<random_reward_item>
 				<id>376</id>
 				<possibility>.1</possibility>
@@ -9015,7 +9015,7 @@
 			<reward_exp>45</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>相救</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>376</id>
 				<possibility>.1</possibility>
@@ -9076,7 +9076,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>打捞</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>60</id>
 				<possibility>.1</possibility>
@@ -9113,7 +9113,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>告密</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>60</id>
 				<possibility>.1</possibility>
@@ -9150,7 +9150,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>质问</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>60</id>
 				<possibility>.1</possibility>
@@ -9197,7 +9197,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>对峙</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>60</id>
 				<possibility>.1</possibility>
@@ -9254,7 +9254,7 @@
 			<reward_exp>45</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>解散</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>14</id>
 				<possibility>.01</possibility>
@@ -9315,7 +9315,7 @@
 			<reward_exp>15</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>送信</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>79</id>
 				<possibility>.1</possibility>
@@ -9372,7 +9372,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>佯退</buttonStr>
-			<animationID>1</animationID>
+			<animationID>14</animationID>
 			<random_reward_item>
 				<id>79</id>
 				<possibility>.1</possibility>
@@ -9429,7 +9429,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>怒问</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>79</id>
 				<possibility>.1</possibility>
@@ -9486,7 +9486,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>包围</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>79</id>
 				<possibility>.1</possibility>
@@ -9543,7 +9543,7 @@
 			<reward_exp>45</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>逃脱</buttonStr>
-			<animationID>1</animationID>
+			<animationID>28</animationID>
 			<random_reward_item>
 				<id>79</id>
 				<possibility>.1</possibility>
@@ -9608,7 +9608,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>献策</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>196</id>
 				<possibility>.1</possibility>
@@ -9665,7 +9665,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>发书</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>196</id>
 				<possibility>.1</possibility>
@@ -9722,7 +9722,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>求和</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>196</id>
 				<possibility>.1</possibility>
@@ -9779,7 +9779,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>夺权</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>196</id>
 				<possibility>.1</possibility>
@@ -9836,7 +9836,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>杀害</buttonStr>
-			<animationID>1</animationID>
+			<animationID>3</animationID>
 			<random_reward_item>
 				<id>34</id>
 				<possibility>.1</possibility>
@@ -9897,7 +9897,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>怒斥</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>210</id>
 				<possibility>.1</possibility>
@@ -9954,7 +9954,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>撤退</buttonStr>
-			<animationID>1</animationID>
+			<animationID>14</animationID>
 			<random_reward_item>
 				<id>210</id>
 				<possibility>.1</possibility>
@@ -10011,7 +10011,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>登场</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>210</id>
 				<possibility>.1</possibility>
@@ -10068,7 +10068,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>210</id>
 				<possibility>.1</possibility>
@@ -10125,7 +10125,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>救急</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>34</id>
 				<possibility>.1</possibility>
@@ -10186,7 +10186,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>撤退</buttonStr>
-			<animationID>1</animationID>
+			<animationID>28</animationID>
 			<random_reward_item>
 				<id>77</id>
 				<possibility>.1</possibility>
@@ -10243,7 +10243,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>助战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>77</id>
 				<possibility>.1</possibility>
@@ -10300,7 +10300,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>相识</buttonStr>
-			<animationID>1</animationID>
+			<animationID>22</animationID>
 			<random_reward_item>
 				<id>210</id>
 				<possibility>.1</possibility>
@@ -10327,7 +10327,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>讲和</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>4</id>
 				<possibility>.01</possibility>
@@ -10374,7 +10374,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>分别</buttonStr>
-			<animationID>1</animationID>
+			<animationID>26</animationID>
 			<random_reward_item>
 				<id>1</id>
 				<possibility>.01</possibility>
@@ -10434,7 +10434,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>送信</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -10486,7 +10486,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>准备</buttonStr>
-			<animationID>1</animationID>
+			<animationID>5</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -10538,7 +10538,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>放箭</buttonStr>
-			<animationID>1</animationID>
+			<animationID>3</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -10595,7 +10595,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>追击</buttonStr>
-			<animationID>1</animationID>
+			<animationID>2</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -10652,7 +10652,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>追杀</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -10713,7 +10713,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>46</id>
 				<possibility>.1</possibility>
@@ -10770,7 +10770,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>劝告</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>60</id>
 				<possibility>.1</possibility>
@@ -10812,7 +10812,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>埋伏</buttonStr>
-			<animationID>1</animationID>
+			<animationID>4</animationID>
 			<random_reward_item>
 				<id>60</id>
 				<possibility>.1</possibility>
@@ -10869,7 +10869,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>追杀</buttonStr>
-			<animationID>1</animationID>
+			<animationID>15</animationID>
 			<random_reward_item>
 				<id>60</id>
 				<possibility>.1</possibility>
@@ -10926,7 +10926,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>牺牲</buttonStr>
-			<animationID>1</animationID>
+			<animationID>3</animationID>
 			<random_reward_item>
 				<id>60</id>
 				<possibility>.1</possibility>
@@ -10987,7 +10987,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>23</id>
 				<possibility>.01</possibility>
@@ -11044,7 +11044,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>23</id>
 				<possibility>.01</possibility>
@@ -11101,7 +11101,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>说和</buttonStr>
-			<animationID>1</animationID>
+			<animationID>26</animationID>
 			<random_reward_item>
 				<id>23</id>
 				<possibility>.01</possibility>
@@ -11158,7 +11158,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>劝说</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>23</id>
 				<possibility>.01</possibility>
@@ -11215,7 +11215,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>罢战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>23</id>
 				<possibility>.01</possibility>
@@ -11280,7 +11280,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>杀害</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>423</id>
 				<possibility>.1</possibility>
@@ -11337,7 +11337,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>落泪</buttonStr>
-			<animationID>1</animationID>
+			<animationID>8</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -11394,7 +11394,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>叹息</buttonStr>
-			<animationID>1</animationID>
+			<animationID>8</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -11451,7 +11451,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>密谋</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -11508,7 +11508,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>请命</buttonStr>
-			<animationID>1</animationID>
+			<animationID>8</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -11569,7 +11569,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>密送</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -11626,7 +11626,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>挑逗</buttonStr>
-			<animationID>1</animationID>
+			<animationID>24</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -11683,7 +11683,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>说亲</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -11740,7 +11740,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>对视</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -11797,7 +11797,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>相送</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -11858,7 +11858,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>宴请</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -11915,7 +11915,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>起舞</buttonStr>
-			<animationID>1</animationID>
+			<animationID>24</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -11972,7 +11972,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>讴歌</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -12029,7 +12029,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>进献</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -12086,7 +12086,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>亲送</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -12147,7 +12147,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>质问</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -12204,7 +12204,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>嫁祸</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -12261,7 +12261,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>假装</buttonStr>
-			<animationID>1</animationID>
+			<animationID>8</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -12318,7 +12318,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>注视</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -12375,7 +12375,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>怒叱</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -12436,7 +12436,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>相约</buttonStr>
-			<animationID>1</animationID>
+			<animationID>22</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -12493,7 +12493,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>假言</buttonStr>
-			<animationID>1</animationID>
+			<animationID>8</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -12550,7 +12550,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>依偎</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -12607,7 +12607,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>追打</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -12664,7 +12664,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>相撞</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -12725,7 +12725,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>劝解</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -12782,7 +12782,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交谈</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -12839,7 +12839,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>做戏</buttonStr>
-			<animationID>1</animationID>
+			<animationID>9</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -12896,7 +12896,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>拜谢</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -12953,7 +12953,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>叹气</buttonStr>
-			<animationID>1</animationID>
+			<animationID>8</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -13014,7 +13014,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>垂泪</buttonStr>
-			<animationID>1</animationID>
+			<animationID>8</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -13071,7 +13071,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>刺激</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -13128,7 +13128,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>发誓</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -13185,7 +13185,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>传诏</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -13242,7 +13242,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>回京</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -13303,7 +13303,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>乘车</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -13360,7 +13360,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>掩饰</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -13417,7 +13417,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>掩饰</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -13474,7 +13474,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>掩盖</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -13531,7 +13531,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>刺杀</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -13592,7 +13592,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>捆绑</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>280</id>
 				<possibility>.1</possibility>
@@ -13649,7 +13649,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>杀害</buttonStr>
-			<animationID>1</animationID>
+			<animationID>26</animationID>
 			<random_reward_item>
 				<id>155</id>
 				<possibility>.1</possibility>
@@ -13706,7 +13706,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>合兵</buttonStr>
-			<animationID>1</animationID>
+			<animationID>17</animationID>
 			<random_reward_item>
 				<id>319</id>
 				<possibility>.1</possibility>
@@ -13758,7 +13758,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>败走</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>319</id>
 				<possibility>.1</possibility>
@@ -13815,7 +13815,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>杀害</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>319</id>
 				<possibility>.1</possibility>
@@ -13876,7 +13876,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>奔波</buttonStr>
-			<animationID>1</animationID>
+			<animationID>15</animationID>
 			<random_reward_item>
 				<id>277</id>
 				<possibility>.1</possibility>
@@ -13923,7 +13923,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>救急</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>277</id>
 				<possibility>.1</possibility>
@@ -13970,7 +13970,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>抵挡</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>277</id>
 				<possibility>.1</possibility>
@@ -14027,7 +14027,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>相劝</buttonStr>
-			<animationID>1</animationID>
+			<animationID>28</animationID>
 			<random_reward_item>
 				<id>277</id>
 				<possibility>.1</possibility>
@@ -14084,7 +14084,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>捐躯</buttonStr>
-			<animationID>1</animationID>
+			<animationID>26</animationID>
 			<random_reward_item>
 				<id>279</id>
 				<possibility>.1</possibility>
@@ -14145,7 +14145,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>掌权</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>7</id>
 				<possibility>.01</possibility>
@@ -14202,7 +14202,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>讨贼</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>7</id>
 				<possibility>.01</possibility>
@@ -14259,7 +14259,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>7</id>
 				<possibility>.01</possibility>
@@ -14316,7 +14316,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>相持</buttonStr>
-			<animationID>1</animationID>
+			<animationID>28</animationID>
 			<random_reward_item>
 				<id>7</id>
 				<possibility>.01</possibility>
@@ -14373,7 +14373,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>退军</buttonStr>
-			<animationID>1</animationID>
+			<animationID>28</animationID>
 			<random_reward_item>
 				<id>7</id>
 				<possibility>.01</possibility>
@@ -14434,7 +14434,7 @@
 			<reward_exp>18</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>放行</buttonStr>
-			<animationID>1</animationID>
+			<animationID>8</animationID>
 			<random_reward_item>
 				<id>7</id>
 				<possibility>.01</possibility>
@@ -14491,7 +14491,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>杀害</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>56</id>
 				<possibility>.1</possibility>
@@ -14538,7 +14538,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>平反</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>56</id>
 				<possibility>.1</possibility>
@@ -14585,7 +14585,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>平反</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>41</id>
 				<possibility>.1</possibility>
@@ -14637,7 +14637,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>纳贤</buttonStr>
-			<animationID>1</animationID>
+			<animationID>25</animationID>
 			<random_reward_item>
 				<id>16</id>
 				<possibility>.01</possibility>
@@ -14702,7 +14702,7 @@
 			<reward_exp>21</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>投奔</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>158</id>
 				<possibility>.1</possibility>
@@ -14759,7 +14759,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>起兵</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>345</id>
 				<possibility>.1</possibility>
@@ -14816,7 +14816,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>收兵</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>345</id>
 				<possibility>.1</possibility>
@@ -14873,7 +14873,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>求救</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>345</id>
 				<possibility>.1</possibility>
@@ -14930,7 +14930,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>送书</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>345</id>
 				<possibility>.1</possibility>
@@ -14991,7 +14991,7 @@
 			<reward_exp>21</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>御敌</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>345</id>
 				<possibility>.1</possibility>
@@ -15048,7 +15048,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>杀敌</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>345</id>
 				<possibility>.1</possibility>
@@ -15105,7 +15105,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>开门</buttonStr>
-			<animationID>1</animationID>
+			<animationID>22</animationID>
 			<random_reward_item>
 				<id>345</id>
 				<possibility>.1</possibility>
@@ -15162,7 +15162,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>突围</buttonStr>
-			<animationID>1</animationID>
+			<animationID>15</animationID>
 			<random_reward_item>
 				<id>345</id>
 				<possibility>.1</possibility>
@@ -15219,7 +15219,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>起兵</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>345</id>
 				<possibility>.1</possibility>
@@ -15280,7 +15280,7 @@
 			<reward_exp>21</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>力斩</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>345</id>
 				<possibility>.1</possibility>
@@ -15337,7 +15337,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>夹攻</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>345</id>
 				<possibility>.1</possibility>
@@ -15389,7 +15389,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>借兵</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>345</id>
 				<possibility>.1</possibility>
@@ -15446,7 +15446,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>回报</buttonStr>
-			<animationID>1</animationID>
+			<animationID>22</animationID>
 			<random_reward_item>
 				<id>345</id>
 				<possibility>.1</possibility>
@@ -15503,7 +15503,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>突围</buttonStr>
-			<animationID>1</animationID>
+			<animationID>17</animationID>
 			<random_reward_item>
 				<id>345</id>
 				<possibility>.1</possibility>
@@ -15564,7 +15564,7 @@
 			<reward_exp>21</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>相让</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>345</id>
 				<possibility>.1</possibility>
@@ -15606,7 +15606,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>推却</buttonStr>
-			<animationID>1</animationID>
+			<animationID>8</animationID>
 			<random_reward_item>
 				<id>345</id>
 				<possibility>.1</possibility>
@@ -15648,7 +15648,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>求和</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>345</id>
 				<possibility>.1</possibility>
@@ -15690,7 +15690,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>急报</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>345</id>
 				<possibility>.1</possibility>
@@ -15732,7 +15732,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>答书</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>345</id>
 				<possibility>.1</possibility>
@@ -15793,7 +15793,7 @@
 			<reward_exp>21</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>宴请</buttonStr>
-			<animationID>1</animationID>
+			<animationID>24</animationID>
 			<random_reward_item>
 				<id>345</id>
 				<possibility>.1</possibility>
@@ -15845,7 +15845,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>推让</buttonStr>
-			<animationID>1</animationID>
+			<animationID>8</animationID>
 			<random_reward_item>
 				<id>345</id>
 				<possibility>.1</possibility>
@@ -15897,7 +15897,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>劝说</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>345</id>
 				<possibility>.1</possibility>
@@ -15949,7 +15949,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>辞别</buttonStr>
-			<animationID>1</animationID>
+			<animationID>26</animationID>
 			<random_reward_item>
 				<id>345</id>
 				<possibility>.1</possibility>
@@ -16001,7 +16001,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>安定</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>345</id>
 				<possibility>.1</possibility>
@@ -16066,7 +16066,7 @@
 			<reward_exp>21</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>劝谏</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -16118,7 +16118,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>献计</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -16175,7 +16175,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -16232,7 +16232,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>助战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -16289,7 +16289,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -16350,7 +16350,7 @@
 			<reward_exp>21</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>突击</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -16397,7 +16397,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -16454,7 +16454,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>突围</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -16511,7 +16511,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>逃生</buttonStr>
-			<animationID>1</animationID>
+			<animationID>28</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -16563,7 +16563,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>救危</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -16624,7 +16624,7 @@
 			<reward_exp>21</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>相约</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -16681,7 +16681,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>退兵</buttonStr>
-			<animationID>1</animationID>
+			<animationID>28</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -16728,7 +16728,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>逃脱</buttonStr>
-			<animationID>1</animationID>
+			<animationID>14</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -16785,7 +16785,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>掩面</buttonStr>
-			<animationID>1</animationID>
+			<animationID>8</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -16842,7 +16842,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>逃生</buttonStr>
-			<animationID>1</animationID>
+			<animationID>26</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -16903,7 +16903,7 @@
 			<reward_exp>21</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>献计</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -16955,7 +16955,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>发丧</buttonStr>
-			<animationID>1</animationID>
+			<animationID>9</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -17012,7 +17012,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>围攻</buttonStr>
-			<animationID>1</animationID>
+			<animationID>17</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -17059,7 +17059,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>相持</buttonStr>
-			<animationID>1</animationID>
+			<animationID>28</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -17116,7 +17116,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>退兵</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -17177,7 +17177,7 @@
 			<reward_exp>21</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>推托</buttonStr>
-			<animationID>1</animationID>
+			<animationID>26</animationID>
 			<random_reward_item>
 				<id>345</id>
 				<possibility>.1</possibility>
@@ -17229,7 +17229,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>相劝</buttonStr>
-			<animationID>1</animationID>
+			<animationID>9</animationID>
 			<random_reward_item>
 				<id>345</id>
 				<possibility>.1</possibility>
@@ -17281,7 +17281,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>建议</buttonStr>
-			<animationID>1</animationID>
+			<animationID>22</animationID>
 			<random_reward_item>
 				<id>235</id>
 				<possibility>.1</possibility>
@@ -17323,7 +17323,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>设计</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>15</id>
 				<possibility>.01</possibility>
@@ -17380,7 +17380,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>犒赏</buttonStr>
-			<animationID>1</animationID>
+			<animationID>24</animationID>
 			<random_reward_item>
 				<id>15</id>
 				<possibility>.01</possibility>
@@ -17441,7 +17441,7 @@
 			<reward_exp>21</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -17488,7 +17488,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>围攻</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -17530,7 +17530,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>撤退</buttonStr>
-			<animationID>1</animationID>
+			<animationID>14</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -17572,7 +17572,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>插旗</buttonStr>
-			<animationID>1</animationID>
+			<animationID>4</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -17629,7 +17629,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>逃跑</buttonStr>
-			<animationID>1</animationID>
+			<animationID>28</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -17680,7 +17680,7 @@
 </city>
 <city>
 	<id>13</id>
-	<name>许都</name>
+	<name>许昌</name>
 	<event>
 		<id>66</id>
 		<name>临危入朝</name>
@@ -17694,7 +17694,7 @@
 			<reward_exp>21</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>反间</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>277</id>
 				<possibility>.1</possibility>
@@ -17751,7 +17751,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>救驾</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>230</id>
 				<possibility>.1</possibility>
@@ -17808,7 +17808,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>21</id>
 				<possibility>.01</possibility>
@@ -17865,7 +17865,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>送信</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>21</id>
 				<possibility>.01</possibility>
@@ -17922,7 +17922,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>护送</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>2</id>
 				<possibility>.01</possibility>
@@ -17983,7 +17983,7 @@
 			<reward_exp>21</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>迁都</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>392</id>
 				<possibility>.1</possibility>
@@ -18035,7 +18035,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>392</id>
 				<possibility>.1</possibility>
@@ -18092,7 +18092,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>相劝</buttonStr>
-			<animationID>1</animationID>
+			<animationID>22</animationID>
 			<random_reward_item>
 				<id>392</id>
 				<possibility>.1</possibility>
@@ -18149,7 +18149,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>392</id>
 				<possibility>.1</possibility>
@@ -18206,7 +18206,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>掌权</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>2</id>
 				<possibility>.01</possibility>
@@ -18267,7 +18267,7 @@
 			<reward_exp>21</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>上奏</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>163</id>
 				<possibility>.1</possibility>
@@ -18304,7 +18304,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>回书</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>163</id>
 				<possibility>.1</possibility>
@@ -18341,7 +18341,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>下诏</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>163</id>
 				<possibility>.1</possibility>
@@ -18378,7 +18378,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>嘱咐</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>163</id>
 				<possibility>.1</possibility>
@@ -18420,7 +18420,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>行军</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>1</id>
 				<possibility>.01</possibility>
@@ -18471,7 +18471,7 @@
 			<reward_exp>21</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>起兵</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -18508,7 +18508,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -18545,7 +18545,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -18582,7 +18582,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -18619,7 +18619,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>1</id>
 				<possibility>.01</possibility>
@@ -18665,7 +18665,7 @@
 			<reward_exp>21</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>饮酒</buttonStr>
-			<animationID>1</animationID>
+			<animationID>24</animationID>
 			<random_reward_item>
 				<id>163</id>
 				<possibility>.1</possibility>
@@ -18717,7 +18717,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>鞭打</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>163</id>
 				<possibility>.1</possibility>
@@ -18769,7 +18769,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>送信</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>163</id>
 				<possibility>.1</possibility>
@@ -18821,7 +18821,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>14</animationID>
 			<random_reward_item>
 				<id>163</id>
 				<possibility>.1</possibility>
@@ -18873,7 +18873,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>自刎</buttonStr>
-			<animationID>1</animationID>
+			<animationID>8</animationID>
 			<random_reward_item>
 				<id>5</id>
 				<possibility>.01</possibility>
@@ -18934,7 +18934,7 @@
 			<reward_exp>21</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>夺剑</buttonStr>
-			<animationID>1</animationID>
+			<animationID>26</animationID>
 			<random_reward_item>
 				<id>72</id>
 				<possibility>.1</possibility>
@@ -18976,7 +18976,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>送信</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>72</id>
 				<possibility>.1</possibility>
@@ -19023,7 +19023,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>索要</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>72</id>
 				<possibility>.1</possibility>
@@ -19070,7 +19070,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>进谏</buttonStr>
-			<animationID>1</animationID>
+			<animationID>7</animationID>
 			<random_reward_item>
 				<id>72</id>
 				<possibility>.1</possibility>
@@ -19117,7 +19117,7 @@
 			<reward_exp>60</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>驻扎</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>5</id>
 				<possibility>.01</possibility>
@@ -19182,7 +19182,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>散步</buttonStr>
-			<animationID>1</animationID>
+			<animationID>8</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -19234,7 +19234,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>商议</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -19286,7 +19286,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>起兵</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>445</id>
 				<possibility>.1</possibility>
@@ -19338,7 +19338,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>行军</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>22</id>
 				<possibility>.01</possibility>
@@ -19395,7 +19395,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>举荐</buttonStr>
-			<animationID>1</animationID>
+			<animationID>22</animationID>
 			<random_reward_item>
 				<id>22</id>
 				<possibility>.01</possibility>
@@ -19456,7 +19456,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>298</id>
 				<possibility>.1</possibility>
@@ -19508,7 +19508,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>11</animationID>
 			<random_reward_item>
 				<id>298</id>
 				<possibility>.1</possibility>
@@ -19565,7 +19565,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>相迎</buttonStr>
-			<animationID>1</animationID>
+			<animationID>22</animationID>
 			<random_reward_item>
 				<id>298</id>
 				<possibility>.1</possibility>
@@ -19622,7 +19622,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>祭拜</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>23</id>
 				<possibility>.01</possibility>
@@ -19674,7 +19674,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>上马</buttonStr>
-			<animationID>1</animationID>
+			<animationID>15</animationID>
 			<random_reward_item>
 				<id>298</id>
 				<possibility>.1</possibility>
@@ -19720,7 +19720,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>缠斗</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>23</id>
 				<possibility>.01</possibility>
@@ -19767,7 +19767,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>缠斗</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>408</id>
 				<possibility>.1</possibility>
@@ -19824,7 +19824,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>厮打</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>408</id>
 				<possibility>.1</possibility>
@@ -19881,7 +19881,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>混战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>298</id>
 				<possibility>.1</possibility>
@@ -19938,7 +19938,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>收军</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>298</id>
 				<possibility>.1</possibility>
@@ -19999,7 +19999,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>298</id>
 				<possibility>.1</possibility>
@@ -20056,7 +20056,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>偷袭</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>298</id>
 				<possibility>.1</possibility>
@@ -20113,7 +20113,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>追杀</buttonStr>
-			<animationID>1</animationID>
+			<animationID>17</animationID>
 			<random_reward_item>
 				<id>298</id>
 				<possibility>.1</possibility>
@@ -20170,7 +20170,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>大喝</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>298</id>
 				<possibility>.1</possibility>
@@ -20222,7 +20222,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>扬名</buttonStr>
-			<animationID>1</animationID>
+			<animationID>10</animationID>
 			<random_reward_item>
 				<id>298</id>
 				<possibility>.1</possibility>
@@ -20273,7 +20273,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>急救</buttonStr>
-			<animationID>1</animationID>
+			<animationID>2</animationID>
 			<random_reward_item>
 				<id>298</id>
 				<possibility>.1</possibility>
@@ -20315,7 +20315,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>伏击</buttonStr>
-			<animationID>1</animationID>
+			<animationID>4</animationID>
 			<random_reward_item>
 				<id>298</id>
 				<possibility>.1</possibility>
@@ -20357,7 +20357,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>擒拿</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>83</id>
 				<possibility>.1</possibility>
@@ -20404,7 +20404,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>礼待</buttonStr>
-			<animationID>1</animationID>
+			<animationID>22</animationID>
 			<random_reward_item>
 				<id>83</id>
 				<possibility>.1</possibility>
@@ -20456,7 +20456,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>安抚</buttonStr>
-			<animationID>1</animationID>
+			<animationID>10</animationID>
 			<random_reward_item>
 				<id>83</id>
 				<possibility>.1</possibility>
@@ -20517,7 +20517,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>围城</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>384</id>
 				<possibility>.1</possibility>
@@ -20549,7 +20549,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>射箭</buttonStr>
-			<animationID>1</animationID>
+			<animationID>2</animationID>
 			<random_reward_item>
 				<id>384</id>
 				<possibility>.1</possibility>
@@ -20581,7 +20581,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>商议</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>384</id>
 				<possibility>.1</possibility>
@@ -20618,7 +20618,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>夹攻</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>384</id>
 				<possibility>.1</possibility>
@@ -20675,7 +20675,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>攻城</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>384</id>
 				<possibility>.1</possibility>
@@ -20736,7 +20736,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>攻打</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>384</id>
 				<possibility>.1</possibility>
@@ -20788,7 +20788,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>建议</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>384</id>
 				<possibility>.1</possibility>
@@ -20845,7 +20845,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>伏击</buttonStr>
-			<animationID>1</animationID>
+			<animationID>4</animationID>
 			<random_reward_item>
 				<id>384</id>
 				<possibility>.1</possibility>
@@ -20902,7 +20902,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>招降</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>384</id>
 				<possibility>.1</possibility>
@@ -20959,7 +20959,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>破城</buttonStr>
-			<animationID>1</animationID>
+			<animationID>10</animationID>
 			<random_reward_item>
 				<id>339</id>
 				<possibility>.1</possibility>
@@ -21015,7 +21015,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>撤退</buttonStr>
-			<animationID>1</animationID>
+			<animationID>28</animationID>
 			<random_reward_item>
 				<id>400</id>
 				<possibility>.1</possibility>
@@ -21047,7 +21047,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>逃生</buttonStr>
-			<animationID>1</animationID>
+			<animationID>28</animationID>
 			<random_reward_item>
 				<id>400</id>
 				<possibility>.1</possibility>
@@ -21079,7 +21079,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>引见</buttonStr>
-			<animationID>1</animationID>
+			<animationID>26</animationID>
 			<random_reward_item>
 				<id>400</id>
 				<possibility>.1</possibility>
@@ -21111,7 +21111,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>投药</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>400</id>
 				<possibility>.1</possibility>
@@ -21148,7 +21148,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>杀贼</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>32</id>
 				<possibility>.1</possibility>
@@ -21208,7 +21208,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>贿赂</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -21265,7 +21265,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>求救</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -21307,7 +21307,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>设宴</buttonStr>
-			<animationID>1</animationID>
+			<animationID>24</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -21349,7 +21349,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>定约</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -21391,7 +21391,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>神射</buttonStr>
-			<animationID>1</animationID>
+			<animationID>2</animationID>
 			<random_reward_item>
 				<id>33</id>
 				<possibility>.1</possibility>
@@ -21452,7 +21452,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>求亲</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>231</id>
 				<possibility>.1</possibility>
@@ -21489,7 +21489,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>相劝</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>168</id>
 				<possibility>.1</possibility>
@@ -21536,7 +21536,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>吊丧</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>165</id>
 				<possibility>.1</possibility>
@@ -21588,7 +21588,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>追女</buttonStr>
-			<animationID>1</animationID>
+			<animationID>15</animationID>
 			<random_reward_item>
 				<id>165</id>
 				<possibility>.1</possibility>
@@ -21640,7 +21640,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>急报</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>33</id>
 				<possibility>.1</possibility>
@@ -21701,7 +21701,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>起兵</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -21748,7 +21748,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>对骂</buttonStr>
-			<animationID>1</animationID>
+			<animationID>7</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -21795,7 +21795,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -21842,7 +21842,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>说情</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>73</id>
 				<possibility>.1</possibility>
@@ -21889,7 +21889,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>弃城</buttonStr>
-			<animationID>1</animationID>
+			<animationID>14</animationID>
 			<random_reward_item>
 				<id>33</id>
 				<possibility>.1</possibility>
@@ -21950,7 +21950,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>赏赐</buttonStr>
-			<animationID>1</animationID>
+			<animationID>24</animationID>
 			<random_reward_item>
 				<id>134</id>
 				<possibility>.1</possibility>
@@ -21987,7 +21987,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>结盟</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>414</id>
 				<possibility>.1</possibility>
@@ -22044,7 +22044,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>出征</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>244</id>
 				<possibility>.1</possibility>
@@ -22096,7 +22096,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>作乐</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>451</id>
 				<possibility>.1</possibility>
@@ -22153,7 +22153,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>密谋</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>451</id>
 				<possibility>.1</possibility>
@@ -22214,7 +22214,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>死战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>11</animationID>
 			<random_reward_item>
 				<id>156</id>
 				<possibility>.1</possibility>
@@ -22251,7 +22251,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>疾奔</buttonStr>
-			<animationID>1</animationID>
+			<animationID>14</animationID>
 			<random_reward_item>
 				<id>114</id>
 				<possibility>.1</possibility>
@@ -22278,7 +22278,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>听言</buttonStr>
-			<animationID>1</animationID>
+			<animationID>9</animationID>
 			<random_reward_item>
 				<id>48</id>
 				<possibility>.1</possibility>
@@ -22315,7 +22315,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>澄清</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>48</id>
 				<possibility>.1</possibility>
@@ -22352,7 +22352,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>痛哭</buttonStr>
-			<animationID>1</animationID>
+			<animationID>26</animationID>
 			<random_reward_item>
 				<id>48</id>
 				<possibility>.1</possibility>
@@ -22408,7 +22408,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>受赏</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -22465,7 +22465,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>起兵</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -22522,7 +22522,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>挖角</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -22579,7 +22579,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -22636,7 +22636,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>退兵</buttonStr>
-			<animationID>1</animationID>
+			<animationID>28</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -22701,7 +22701,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>出征</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -22743,7 +22743,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>献礼</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -22785,7 +22785,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>围攻</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -22842,7 +22842,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>留守</buttonStr>
-			<animationID>1</animationID>
+			<animationID>13</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -22899,7 +22899,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>相持</buttonStr>
-			<animationID>1</animationID>
+			<animationID>26</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -22960,7 +22960,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>探听</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -23017,7 +23017,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>解怨</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -23074,7 +23074,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>督军</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -23131,7 +23131,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>奋战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -23188,7 +23188,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>告急</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>56</id>
 				<possibility>.1</possibility>
@@ -23253,7 +23253,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>密令</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>56</id>
 				<possibility>.1</possibility>
@@ -23305,7 +23305,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>上奏</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>56</id>
 				<possibility>.1</possibility>
@@ -23357,7 +23357,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>立法</buttonStr>
-			<animationID>1</animationID>
+			<animationID>23</animationID>
 			<random_reward_item>
 				<id>56</id>
 				<possibility>.1</possibility>
@@ -23409,7 +23409,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>践踏</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>56</id>
 				<possibility>.1</possibility>
@@ -23461,7 +23461,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>治罪</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>56</id>
 				<possibility>.1</possibility>
@@ -23522,7 +23522,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>56</id>
 				<possibility>.1</possibility>
@@ -23574,7 +23574,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>准备</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>56</id>
 				<possibility>.1</possibility>
@@ -23626,7 +23626,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>埋伏</buttonStr>
-			<animationID>1</animationID>
+			<animationID>4</animationID>
 			<random_reward_item>
 				<id>56</id>
 				<possibility>.1</possibility>
@@ -23678,7 +23678,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>攻打</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>56</id>
 				<possibility>.1</possibility>
@@ -23730,7 +23730,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>大哭</buttonStr>
-			<animationID>1</animationID>
+			<animationID>26</animationID>
 			<random_reward_item>
 				<id>56</id>
 				<possibility>.1</possibility>
@@ -23791,7 +23791,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>埋伏</buttonStr>
-			<animationID>1</animationID>
+			<animationID>4</animationID>
 			<random_reward_item>
 				<id>56</id>
 				<possibility>.1</possibility>
@@ -23838,7 +23838,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>破敌</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>56</id>
 				<possibility>.1</possibility>
@@ -23885,7 +23885,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>回兵</buttonStr>
-			<animationID>1</animationID>
+			<animationID>13</animationID>
 			<random_reward_item>
 				<id>56</id>
 				<possibility>.1</possibility>
@@ -23932,7 +23932,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>奋战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>56</id>
 				<possibility>.1</possibility>
@@ -23979,7 +23979,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>撤退</buttonStr>
-			<animationID>1</animationID>
+			<animationID>28</animationID>
 			<random_reward_item>
 				<id>56</id>
 				<possibility>.1</possibility>
@@ -24044,7 +24044,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>致书</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>2</id>
 				<possibility>.01</possibility>
@@ -24086,7 +24086,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>发书</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>130</id>
 				<possibility>.1</possibility>
@@ -24138,7 +24138,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>坚守</buttonStr>
-			<animationID>1</animationID>
+			<animationID>13</animationID>
 			<random_reward_item>
 				<id>57</id>
 				<possibility>.1</possibility>
@@ -24190,7 +24190,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>求救</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>126</id>
 				<possibility>.1</possibility>
@@ -24242,7 +24242,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>斩落</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>33</id>
 				<possibility>.1</possibility>
@@ -24303,7 +24303,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>御敌</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>163</id>
 				<possibility>.1</possibility>
@@ -24350,7 +24350,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>逃散</buttonStr>
-			<animationID>1</animationID>
+			<animationID>14</animationID>
 			<random_reward_item>
 				<id>287</id>
 				<possibility>.1</possibility>
@@ -24402,7 +24402,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>338</id>
 				<possibility>.1</possibility>
@@ -24449,7 +24449,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>欺骗</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>130</id>
 				<possibility>.1</possibility>
@@ -24501,7 +24501,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>追杀</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>33</id>
 				<possibility>.1</possibility>
@@ -24557,7 +24557,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>坐守</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>126</id>
 				<possibility>.1</possibility>
@@ -24609,7 +24609,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>修书</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>362</id>
 				<possibility>.1</possibility>
@@ -24661,7 +24661,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>突围</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>163</id>
 				<possibility>.1</possibility>
@@ -24713,7 +24713,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>饮酒</buttonStr>
-			<animationID>1</animationID>
+			<animationID>24</animationID>
 			<random_reward_item>
 				<id>287</id>
 				<possibility>.1</possibility>
@@ -24765,7 +24765,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>下令</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>33</id>
 				<possibility>.1</possibility>
@@ -24826,7 +24826,7 @@
 			<reward_exp>24</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>痛打</buttonStr>
-			<animationID>1</animationID>
+			<animationID>9</animationID>
 			<random_reward_item>
 				<id>130</id>
 				<possibility>.1</possibility>
@@ -24878,7 +24878,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>投降</buttonStr>
-			<animationID>1</animationID>
+			<animationID>12</animationID>
 			<random_reward_item>
 				<id>57</id>
 				<possibility>.1</possibility>
@@ -24930,7 +24930,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>捆绑</buttonStr>
-			<animationID>1</animationID>
+			<animationID>12</animationID>
 			<random_reward_item>
 				<id>126</id>
 				<possibility>.1</possibility>
@@ -24982,7 +24982,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>入城</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>362</id>
 				<possibility>.1</possibility>
@@ -25034,7 +25034,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>陨落</buttonStr>
-			<animationID>1</animationID>
+			<animationID>26</animationID>
 			<random_reward_item>
 				<id>33</id>
 				<possibility>.1</possibility>
@@ -25085,7 +25085,7 @@
 </city>
 <city>
 	<id>19</id>
-	<name>许都</name>
+	<name>许昌</name>
 	<event>
 		<id>95</id>
 		<name>欺君犯上</name>
@@ -25099,7 +25099,7 @@
 			<reward_exp>27</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>释放</buttonStr>
-			<animationID>1</animationID>
+			<animationID>8</animationID>
 			<random_reward_item>
 				<id>373</id>
 				<possibility>.1</possibility>
@@ -25146,7 +25146,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>封爵</buttonStr>
-			<animationID>1</animationID>
+			<animationID>10</animationID>
 			<random_reward_item>
 				<id>373</id>
 				<possibility>.1</possibility>
@@ -25193,7 +25193,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>射猎</buttonStr>
-			<animationID>1</animationID>
+			<animationID>2</animationID>
 			<random_reward_item>
 				<id>373</id>
 				<possibility>.1</possibility>
@@ -25240,7 +25240,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>迎受</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>373</id>
 				<possibility>.1</possibility>
@@ -25287,7 +25287,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>大怒</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>373</id>
 				<possibility>.1</possibility>
@@ -25395,7 +25395,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>商议</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>373</id>
 				<possibility>.1</possibility>
@@ -25437,7 +25437,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>召见</buttonStr>
-			<animationID>1</animationID>
+			<animationID>22</animationID>
 			<random_reward_item>
 				<id>373</id>
 				<possibility>.1</possibility>
@@ -25479,7 +25479,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>查看</buttonStr>
-			<animationID>1</animationID>
+			<animationID>29</animationID>
 			<random_reward_item>
 				<id>373</id>
 				<possibility>.1</possibility>
@@ -25521,7 +25521,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>解密</buttonStr>
-			<animationID>1</animationID>
+			<animationID>5</animationID>
 			<random_reward_item>
 				<id>373</id>
 				<possibility>.1</possibility>
@@ -25582,7 +25582,7 @@
 			<reward_exp>27</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>立状</buttonStr>
-			<animationID>1</animationID>
+			<animationID>24</animationID>
 			<random_reward_item>
 				<id>84</id>
 				<possibility>.1</possibility>
@@ -25634,7 +25634,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>署名</buttonStr>
-			<animationID>1</animationID>
+			<animationID>22</animationID>
 			<random_reward_item>
 				<id>84</id>
 				<possibility>.1</possibility>
@@ -25686,7 +25686,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>种菜</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>84</id>
 				<possibility>.1</possibility>
@@ -25738,7 +25738,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>谈论</buttonStr>
-			<animationID>1</animationID>
+			<animationID>24</animationID>
 			<random_reward_item>
 				<id>84</id>
 				<possibility>.1</possibility>
@@ -25790,7 +25790,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>吃惊</buttonStr>
-			<animationID>1</animationID>
+			<animationID>22</animationID>
 			<random_reward_item>
 				<id>84</id>
 				<possibility>.1</possibility>
@@ -25851,7 +25851,7 @@
 			<reward_exp>27</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>掩饰</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>312</id>
 				<possibility>.1</possibility>
@@ -25878,7 +25878,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>解围</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>312</id>
 				<possibility>.1</possibility>
@@ -25905,7 +25905,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>回报</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>312</id>
 				<possibility>.1</possibility>
@@ -25932,7 +25932,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>请军</buttonStr>
-			<animationID>1</animationID>
+			<animationID>8</animationID>
 			<random_reward_item>
 				<id>312</id>
 				<possibility>.1</possibility>
@@ -25959,7 +25959,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>出征</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>15</id>
 				<possibility>.01</possibility>
@@ -26020,7 +26020,7 @@
 			<reward_exp>27</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>下令</buttonStr>
-			<animationID>1</animationID>
+			<animationID>15</animationID>
 			<random_reward_item>
 				<id>37</id>
 				<possibility>.1</possibility>
@@ -26062,7 +26062,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>破敌</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -26114,7 +26114,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>打听</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>86</id>
 				<possibility>.1</possibility>
@@ -26166,7 +26166,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>献宝</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>303</id>
 				<possibility>.1</possibility>
@@ -26208,7 +26208,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>留守</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>303</id>
 				<possibility>.1</possibility>
@@ -26254,7 +26254,7 @@
 			<reward_exp>27</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>告密</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>163</id>
 				<possibility>.1</possibility>
@@ -26291,7 +26291,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>袭击</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>163</id>
 				<possibility>.1</possibility>
@@ -26328,7 +26328,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>写书</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>163</id>
 				<possibility>.1</possibility>
@@ -26365,7 +26365,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>争论</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>51</id>
 				<possibility>.1</possibility>
@@ -26422,7 +26422,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>作文</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>34</id>
 				<possibility>.1</possibility>
@@ -26483,7 +26483,7 @@
 			<reward_exp>27</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>读文</buttonStr>
-			<animationID>1</animationID>
+			<animationID>29</animationID>
 			<random_reward_item>
 				<id>2</id>
 				<possibility>.01</possibility>
@@ -26535,7 +26535,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>商议</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>2</id>
 				<possibility>.01</possibility>
@@ -26644,7 +26644,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>5</id>
 				<possibility>.01</possibility>
@@ -26691,7 +26691,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>设套</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>9</id>
 				<possibility>.01</possibility>
@@ -26742,7 +26742,7 @@
 			<reward_exp>27</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>招安</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>79</id>
 				<possibility>.1</possibility>
@@ -26784,7 +26784,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>做梦</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>183</id>
 				<possibility>.1</possibility>
@@ -26841,7 +26841,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>商量</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>183</id>
 				<possibility>.1</possibility>
@@ -26898,7 +26898,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>逼供</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>183</id>
 				<possibility>.1</possibility>
@@ -26955,7 +26955,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>抄家</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>183</id>
 				<possibility>.1</possibility>
@@ -27016,7 +27016,7 @@
 			<reward_exp>27</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>弑妃</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>199</id>
 				<possibility>.1</possibility>
@@ -27058,7 +27058,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>起兵</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>1</id>
 				<possibility>.01</possibility>
@@ -27110,7 +27110,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>求救</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>1</id>
 				<possibility>.01</possibility>
@@ -27162,7 +27162,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>献计</buttonStr>
-			<animationID>1</animationID>
+			<animationID>4</animationID>
 			<random_reward_item>
 				<id>1</id>
 				<possibility>.01</possibility>
@@ -27214,7 +27214,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>逃走</buttonStr>
-			<animationID>1</animationID>
+			<animationID>14</animationID>
 			<random_reward_item>
 				<id>1</id>
 				<possibility>.01</possibility>
@@ -27275,7 +27275,7 @@
 			<reward_exp>27</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>独守</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>21</id>
 				<possibility>.01</possibility>
@@ -27317,7 +27317,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>相约</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>21</id>
 				<possibility>.01</possibility>
@@ -27359,7 +27359,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>穿袍</buttonStr>
-			<animationID>1</animationID>
+			<animationID>8</animationID>
 			<random_reward_item>
 				<id>21</id>
 				<possibility>.01</possibility>
@@ -27401,7 +27401,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>收买</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>15</id>
 				<possibility>.01</possibility>
@@ -27448,7 +27448,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>挂念</buttonStr>
-			<animationID>1</animationID>
+			<animationID>26</animationID>
 			<random_reward_item>
 				<id>2</id>
 				<possibility>.01</possibility>
@@ -27513,7 +27513,7 @@
 			<reward_exp>27</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>进谏</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>134</id>
 				<possibility>.1</possibility>
@@ -27570,7 +27570,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>134</id>
 				<possibility>.1</possibility>
@@ -27627,7 +27627,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>134</id>
 				<possibility>.1</possibility>
@@ -27684,7 +27684,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>34</id>
 				<possibility>.1</possibility>
@@ -27741,7 +27741,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>秒杀</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>34</id>
 				<possibility>.1</possibility>
@@ -27802,7 +27802,7 @@
 			<reward_exp>27</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>请战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>81</id>
 				<possibility>.1</possibility>
@@ -27854,7 +27854,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>抢夺</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>221</id>
 				<possibility>.1</possibility>
@@ -27906,7 +27906,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>221</id>
 				<possibility>.1</possibility>
@@ -27948,7 +27948,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>下令</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>34</id>
 				<possibility>.1</possibility>
@@ -28000,7 +28000,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>解释</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>34</id>
 				<possibility>.1</possibility>
@@ -28061,7 +28061,7 @@
 			<reward_exp>27</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>求救</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>41</id>
 				<possibility>.1</possibility>
@@ -28118,7 +28118,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>商议</buttonStr>
-			<animationID>1</animationID>
+			<animationID>22</animationID>
 			<random_reward_item>
 				<id>41</id>
 				<possibility>.1</possibility>
@@ -28175,7 +28175,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>佯败</buttonStr>
-			<animationID>1</animationID>
+			<animationID>13</animationID>
 			<random_reward_item>
 				<id>41</id>
 				<possibility>.1</possibility>
@@ -28232,7 +28232,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>读信</buttonStr>
-			<animationID>1</animationID>
+			<animationID>26</animationID>
 			<random_reward_item>
 				<id>41</id>
 				<possibility>.1</possibility>
@@ -28350,7 +28350,7 @@
 			<reward_exp>27</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>写书</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>154</id>
 				<possibility>.1</possibility>
@@ -28402,7 +28402,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>相送</buttonStr>
-			<animationID>1</animationID>
+			<animationID>17</animationID>
 			<random_reward_item>
 				<id>154</id>
 				<possibility>.1</possibility>
@@ -28454,7 +28454,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>解救</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>315</id>
 				<possibility>.1</possibility>
@@ -28501,7 +28501,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>闯关</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>267</id>
 				<possibility>.1</possibility>
@@ -28538,7 +28538,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>追击</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>5</id>
 				<possibility>.01</possibility>
@@ -28584,7 +28584,7 @@
 			<reward_exp>27</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>力战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>2</animationID>
 			<random_reward_item>
 				<id>222</id>
 				<possibility>.1</possibility>
@@ -28621,7 +28621,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>识破</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>112</id>
 				<possibility>.1</possibility>
@@ -28658,7 +28658,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>斩杀</buttonStr>
-			<animationID>1</animationID>
+			<animationID>11</animationID>
 			<random_reward_item>
 				<id>357</id>
 				<possibility>.1</possibility>
@@ -28700,7 +28700,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>秒杀</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>297</id>
 				<possibility>.1</possibility>
@@ -28742,7 +28742,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>渡河</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>5</id>
 				<possibility>.01</possibility>
@@ -28787,7 +28787,7 @@
 			<reward_exp>27</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交谈</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>94</id>
 				<possibility>.1</possibility>
@@ -28814,7 +28814,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>追赶</buttonStr>
-			<animationID>1</animationID>
+			<animationID>17</animationID>
 			<random_reward_item>
 				<id>94</id>
 				<possibility>.1</possibility>
@@ -28841,7 +28841,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>94</id>
 				<possibility>.1</possibility>
@@ -28868,7 +28868,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>94</id>
 				<possibility>.1</possibility>
@@ -28900,7 +28900,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>放行</buttonStr>
-			<animationID>1</animationID>
+			<animationID>13</animationID>
 			<random_reward_item>
 				<id>94</id>
 				<possibility>.1</possibility>
@@ -28946,7 +28946,7 @@
 			<reward_exp>27</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>借宿</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>94</id>
 				<possibility>.1</possibility>
@@ -28988,7 +28988,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>收留</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>94</id>
 				<possibility>.1</possibility>
@@ -29025,7 +29025,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>误会</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>94</id>
 				<possibility>.1</possibility>
@@ -29057,7 +29057,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>斩杀</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>94</id>
 				<possibility>.1</possibility>
@@ -29094,7 +29094,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>拜见</buttonStr>
-			<animationID>1</animationID>
+			<animationID>26</animationID>
 			<random_reward_item>
 				<id>5</id>
 				<possibility>.01</possibility>
@@ -29150,7 +29150,7 @@
 			<reward_exp>27</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>探听</buttonStr>
-			<animationID>1</animationID>
+			<animationID>15</animationID>
 			<random_reward_item>
 				<id>94</id>
 				<possibility>.1</possibility>
@@ -29182,7 +29182,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>离开</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>95</id>
 				<possibility>.1</possibility>
@@ -29229,7 +29229,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>相见</buttonStr>
-			<animationID>1</animationID>
+			<animationID>26</animationID>
 			<random_reward_item>
 				<id>95</id>
 				<possibility>.1</possibility>
@@ -29276,7 +29276,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>收服</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>95</id>
 				<possibility>.1</possibility>
@@ -29323,7 +29323,7 @@
 			<reward_exp>75</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>驻扎</buttonStr>
-			<animationID>1</animationID>
+			<animationID>25</animationID>
 			<random_reward_item>
 				<id>5</id>
 				<possibility>.01</possibility>
@@ -29388,7 +29388,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>打猎</buttonStr>
-			<animationID>1</animationID>
+			<animationID>2</animationID>
 			<random_reward_item>
 				<id>340</id>
 				<possibility>.1</possibility>
@@ -29440,7 +29440,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>捉拿</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>85</id>
 				<possibility>.1</possibility>
@@ -29497,7 +29497,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>求雨</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>85</id>
 				<possibility>.1</possibility>
@@ -29554,7 +29554,7 @@
 			<reward_exp>48</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>纠缠</buttonStr>
-			<animationID>1</animationID>
+			<animationID>8</animationID>
 			<random_reward_item>
 				<id>85</id>
 				<possibility>.1</possibility>
@@ -29611,7 +29611,7 @@
 			<reward_exp>90</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>授印</buttonStr>
-			<animationID>1</animationID>
+			<animationID>26</animationID>
 			<random_reward_item>
 				<id>85</id>
 				<possibility>.1</possibility>
@@ -29672,7 +29672,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>治丧</buttonStr>
-			<animationID>1</animationID>
+			<animationID>26</animationID>
 			<random_reward_item>
 				<id>65</id>
 				<possibility>.1</possibility>
@@ -29719,7 +29719,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>邀请</buttonStr>
-			<animationID>1</animationID>
+			<animationID>26</animationID>
 			<random_reward_item>
 				<id>65</id>
 				<possibility>.1</possibility>
@@ -29766,7 +29766,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>推荐</buttonStr>
-			<animationID>1</animationID>
+			<animationID>22</animationID>
 			<random_reward_item>
 				<id>65</id>
 				<possibility>.1</possibility>
@@ -29813,7 +29813,7 @@
 			<reward_exp>48</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>回书</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>65</id>
 				<possibility>.1</possibility>
@@ -29865,7 +29865,7 @@
 			<reward_exp>90</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>起兵</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>34</id>
 				<possibility>.1</possibility>
@@ -29916,7 +29916,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>进谏</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>34</id>
 				<possibility>.1</possibility>
@@ -29973,7 +29973,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>81</id>
 				<possibility>.1</possibility>
@@ -30030,7 +30030,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>厮杀</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>81</id>
 				<possibility>.1</possibility>
@@ -30087,7 +30087,7 @@
 			<reward_exp>48</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>乱射</buttonStr>
-			<animationID>1</animationID>
+			<animationID>3</animationID>
 			<random_reward_item>
 				<id>81</id>
 				<possibility>.1</possibility>
@@ -30144,7 +30144,7 @@
 			<reward_exp>90</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>筑墙</buttonStr>
-			<animationID>1</animationID>
+			<animationID>3</animationID>
 			<random_reward_item>
 				<id>81</id>
 				<possibility>.1</possibility>
@@ -30205,7 +30205,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>造车</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>81</id>
 				<possibility>.1</possibility>
@@ -30257,7 +30257,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>挖道</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>81</id>
 				<possibility>.1</possibility>
@@ -30309,7 +30309,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>袭击</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>51</id>
 				<possibility>.1</possibility>
@@ -30361,7 +30361,7 @@
 			<reward_exp>48</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>进谏</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>51</id>
 				<possibility>.1</possibility>
@@ -30408,7 +30408,7 @@
 			<reward_exp>90</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>怀疑</buttonStr>
-			<animationID>1</animationID>
+			<animationID>8</animationID>
 			<random_reward_item>
 				<id>51</id>
 				<possibility>.1</possibility>
@@ -30464,7 +30464,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>投奔</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>51</id>
 				<possibility>.1</possibility>
@@ -30511,7 +30511,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>出迎</buttonStr>
-			<animationID>1</animationID>
+			<animationID>22</animationID>
 			<random_reward_item>
 				<id>51</id>
 				<possibility>.1</possibility>
@@ -30538,7 +30538,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>烧粮</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>51</id>
 				<possibility>.1</possibility>
@@ -30585,7 +30585,7 @@
 			<reward_exp>48</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>分兵</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>51</id>
 				<possibility>.1</possibility>
@@ -30642,7 +30642,7 @@
 			<reward_exp>90</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>伪报</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>51</id>
 				<possibility>.1</possibility>
@@ -30683,7 +30683,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>投降</buttonStr>
-			<animationID>1</animationID>
+			<animationID>12</animationID>
 			<random_reward_item>
 				<id>51</id>
 				<possibility>.1</possibility>
@@ -30740,7 +30740,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>51</id>
 				<possibility>.1</possibility>
@@ -30792,7 +30792,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>冲锋</buttonStr>
-			<animationID>1</animationID>
+			<animationID>17</animationID>
 			<random_reward_item>
 				<id>51</id>
 				<possibility>.1</possibility>
@@ -30834,7 +30834,7 @@
 			<reward_exp>48</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>焚书</buttonStr>
-			<animationID>1</animationID>
+			<animationID>11</animationID>
 			<random_reward_item>
 				<id>51</id>
 				<possibility>.1</possibility>
@@ -30891,7 +30891,7 @@
 			<reward_exp>90</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>助战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>51</id>
 				<possibility>.1</possibility>
@@ -30952,7 +30952,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>混战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>2</animationID>
 			<random_reward_item>
 				<id>37</id>
 				<possibility>.1</possibility>
@@ -31004,7 +31004,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>诱敌</buttonStr>
-			<animationID>1</animationID>
+			<animationID>13</animationID>
 			<random_reward_item>
 				<id>37</id>
 				<possibility>.1</possibility>
@@ -31056,7 +31056,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>奋战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>37</id>
 				<possibility>.1</possibility>
@@ -31113,7 +31113,7 @@
 			<reward_exp>48</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>伏击</buttonStr>
-			<animationID>1</animationID>
+			<animationID>28</animationID>
 			<random_reward_item>
 				<id>37</id>
 				<possibility>.1</possibility>
@@ -31170,7 +31170,7 @@
 			<reward_exp>90</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>坚守</buttonStr>
-			<animationID>1</animationID>
+			<animationID>26</animationID>
 			<random_reward_item>
 				<id>37</id>
 				<possibility>.1</possibility>
@@ -31231,7 +31231,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>引兵</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>292</id>
 				<possibility>.1</possibility>
@@ -31263,7 +31263,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>292</id>
 				<possibility>.1</possibility>
@@ -31295,7 +31295,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>掩杀</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>292</id>
 				<possibility>.1</possibility>
@@ -31327,7 +31327,7 @@
 			<reward_exp>48</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>分兵</buttonStr>
-			<animationID>1</animationID>
+			<animationID>17</animationID>
 			<random_reward_item>
 				<id>292</id>
 				<possibility>.1</possibility>
@@ -31364,7 +31364,7 @@
 			<reward_exp>90</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>慌走</buttonStr>
-			<animationID>1</animationID>
+			<animationID>14</animationID>
 			<random_reward_item>
 				<id>292</id>
 				<possibility>.1</possibility>
@@ -31425,7 +31425,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>力战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>292</id>
 				<possibility>.1</possibility>
@@ -31472,7 +31472,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>逃生</buttonStr>
-			<animationID>1</animationID>
+			<animationID>14</animationID>
 			<random_reward_item>
 				<id>292</id>
 				<possibility>.1</possibility>
@@ -31519,7 +31519,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>受困</buttonStr>
-			<animationID>1</animationID>
+			<animationID>8</animationID>
 			<random_reward_item>
 				<id>292</id>
 				<possibility>.1</possibility>
@@ -31571,7 +31571,7 @@
 			<reward_exp>48</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>相救</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>292</id>
 				<possibility>.1</possibility>
@@ -31618,7 +31618,7 @@
 			<reward_exp>90</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>投奔</buttonStr>
-			<animationID>1</animationID>
+			<animationID>14</animationID>
 			<random_reward_item>
 				<id>9</id>
 				<possibility>.01</possibility>
@@ -31679,7 +31679,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>攻打</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>34</id>
 				<possibility>.1</possibility>
@@ -31726,7 +31726,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>34</id>
 				<possibility>.1</possibility>
@@ -31773,7 +31773,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>打听</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>34</id>
 				<possibility>.1</possibility>
@@ -31830,7 +31830,7 @@
 			<reward_exp>48</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>202</id>
 				<possibility>.1</possibility>
@@ -31887,7 +31887,7 @@
 			<reward_exp>90</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>转战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>202</id>
 				<possibility>.1</possibility>
@@ -31948,7 +31948,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>求救</buttonStr>
-			<animationID>1</animationID>
+			<animationID>27</animationID>
 			<random_reward_item>
 				<id>202</id>
 				<possibility>.1</possibility>
@@ -32005,7 +32005,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>投降</buttonStr>
-			<animationID>1</animationID>
+			<animationID>12</animationID>
 			<random_reward_item>
 				<id>202</id>
 				<possibility>.1</possibility>
@@ -32062,7 +32062,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>交战</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>202</id>
 				<possibility>.1</possibility>
@@ -32119,7 +32119,7 @@
 			<reward_exp>48</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>设计</buttonStr>
-			<animationID>1</animationID>
+			<animationID>6</animationID>
 			<random_reward_item>
 				<id>202</id>
 				<possibility>.1</possibility>
@@ -32176,7 +32176,7 @@
 			<reward_exp>90</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>伏击</buttonStr>
-			<animationID>1</animationID>
+			<animationID>4</animationID>
 			<random_reward_item>
 				<id>202</id>
 				<possibility>.1</possibility>
@@ -32237,7 +32237,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>水淹</buttonStr>
-			<animationID>1</animationID>
+			<animationID>8</animationID>
 			<random_reward_item>
 				<id>51</id>
 				<possibility>.1</possibility>
@@ -32294,7 +32294,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>破城</buttonStr>
-			<animationID>1</animationID>
+			<animationID>18</animationID>
 			<random_reward_item>
 				<id>51</id>
 				<possibility>.1</possibility>
@@ -32351,7 +32351,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>怜才</buttonStr>
-			<animationID>1</animationID>
+			<animationID>22</animationID>
 			<random_reward_item>
 				<id>51</id>
 				<possibility>.1</possibility>
@@ -32408,7 +32408,7 @@
 			<reward_exp>48</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>纳妾</buttonStr>
-			<animationID>1</animationID>
+			<animationID>19</animationID>
 			<random_reward_item>
 				<id>51</id>
 				<possibility>.1</possibility>
@@ -32465,7 +32465,7 @@
 			<reward_exp>90</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>责备</buttonStr>
-			<animationID>1</animationID>
+			<animationID>21</animationID>
 			<random_reward_item>
 				<id>51</id>
 				<possibility>.1</possibility>
@@ -32526,7 +32526,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>起兵</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>427</id>
 				<possibility>.1</possibility>
@@ -32583,7 +32583,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>击鼓</buttonStr>
-			<animationID>1</animationID>
+			<animationID>16</animationID>
 			<random_reward_item>
 				<id>224</id>
 				<possibility>.1</possibility>
@@ -32640,7 +32640,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>礼待</buttonStr>
-			<animationID>1</animationID>
+			<animationID>26</animationID>
 			<random_reward_item>
 				<id>57</id>
 				<possibility>.1</possibility>
@@ -32697,7 +32697,7 @@
 			<reward_exp>48</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>伏击</buttonStr>
-			<animationID>1</animationID>
+			<animationID>4</animationID>
 			<random_reward_item>
 				<id>12</id>
 				<possibility>.01</possibility>
@@ -32754,7 +32754,7 @@
 			<reward_exp>90</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>追击</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>12</id>
 				<possibility>.01</possibility>
@@ -32815,7 +32815,7 @@
 			<reward_exp>30</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>行军</buttonStr>
-			<animationID>1</animationID>
+			<animationID>20</animationID>
 			<random_reward_item>
 				<id>57</id>
 				<possibility>.1</possibility>
@@ -32867,7 +32867,7 @@
 			<reward_exp>36</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>投奔</buttonStr>
-			<animationID>1</animationID>
+			<animationID>28</animationID>
 			<random_reward_item>
 				<id>427</id>
 				<possibility>.1</possibility>
@@ -32919,7 +32919,7 @@
 			<reward_exp>42</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>痛哭</buttonStr>
-			<animationID>1</animationID>
+			<animationID>26</animationID>
 			<random_reward_item>
 				<id>224</id>
 				<possibility>.1</possibility>
@@ -32971,7 +32971,7 @@
 			<reward_exp>48</reward_exp>
 			<reward_cash>35</reward_cash>
 			<buttonStr>遗计</buttonStr>
-			<animationID>1</animationID>
+			<animationID>8</animationID>
 			<random_reward_item>
 				<id>12</id>
 				<possibility>.01</possibility>
@@ -33028,7 +33028,7 @@
 			<reward_exp>90</reward_exp>
 			<reward_cash>200</reward_cash>
 			<buttonStr>平定</buttonStr>
-			<animationID>1</animationID>
+			<animationID>10</animationID>
 			<random_reward_item>
 				<id>12</id>
 				<possibility>.01</possibility>
