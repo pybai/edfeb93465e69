@@ -1,1095 +1,1095 @@
 <?xml version='1.0' encoding='gb18030'?>
 <root>
-	<prop>
-		<id>1</id>
-		<product_id></product_id>
-		<name>包子</name>
-		<description>恢复10点精力</description>
-		<money></money>
-		<cash>5</cash>
-		<rmb></rmb>
-		<product_type>1</product_type>
-		<add_type>11</add_type>
-		<add_method>2</add_method>
-		<add_data>
-			<data>1</data>
-			<count>10</count>
-		</add_data>
-	</prop>
-	<prop>
-		<id>2</id>
-		<product_id></product_id>
-		<name>牛肉</name>
-		<description>恢复50点精力</description>
-		<money></money>
-		<cash>30</cash>
-		<rmb></rmb>
-		<product_type>1</product_type>
-		<add_type>11</add_type>
-		<add_method>2</add_method>
-		<add_data>
-			<data>1</data>
-			<count>50</count>
-		</add_data>
-	</prop>
-	<prop>
-		<id>3</id>
-		<product_id></product_id>
-		<name>烧鸡</name>
-		<description>恢复100点精力</description>
-		<money></money>
-		<cash>50</cash>
-		<rmb></rmb>
-		<product_type>1</product_type>
-		<add_type>11</add_type>
-		<add_method>2</add_method>
-		<add_data>
-			<data>1</data>
-			<count>100</count>
-		</add_data>
-	</prop>
-	<prop>
-		<id>4</id>
-		<product_id></product_id>
-		<name>九酿酒</name>
-		<description>恢复3点体力</description>
-		<money></money>
-		<cash>5</cash>
-		<rmb></rmb>
-		<product_type>1</product_type>
-		<add_type>12</add_type>
-		<add_method>2</add_method>
-		<add_data>
-			<data>1</data>
-			<count>3</count>
-		</add_data>
-	</prop>
-	<prop>
-		<id>5</id>
-		<product_id></product_id>
-		<name>杜康酒</name>
-		<description>恢复全部体力</description>
-		<money></money>
-		<cash>20</cash>
-		<rmb></rmb>
-		<product_type>1</product_type>
-		<add_type>12</add_type>
-		<add_method>2</add_method>
-		<add_data>
-			<data>1</data>
-			<count>-1</count>
-		</add_data>
-	</prop>
-	<prop>
-		<id>6</id>
-		<product_id></product_id>
-		<name>求和信</name>
-		<description>休战1小时</description>
-		<money></money>
-		<cash>30</cash>
-		<rmb></rmb>
-		<product_type>1</product_type>
-		<add_type>8</add_type>
-		<add_method>2</add_method>
-		<add_data>
-			<data>1</data>
-			<count>3600</count>
-		</add_data>
-	</prop>
-	<prop>
-		<id>7</id>
-		<product_id></product_id>
-		<name>银票</name>
-		<description>增加3000两银子</description>
-		<money></money>
-		<cash>30</cash>
-		<rmb></rmb>
-		<product_type>1</product_type>
-		<add_type>9</add_type>
-		<add_method>2</add_method>
-		<add_data>
-			<data>1</data>
-			<count>3000</count>
-		</add_data>
-	</prop>
-	<prop>
-		<id>8</id>
-		<product_id></product_id>
-		<name>钱箱</name>
-		<description>增加10000两银子</description>
-		<money></money>
-		<cash>90</cash>
-		<rmb></rmb>
-		<product_type>1</product_type>
-		<add_type>9</add_type>
-		<add_method>2</add_method>
-		<add_data>
-			<data>1</data>
-			<count>10000</count>
-		</add_data>
-	</prop>
-	<prop>
-		<id>9</id>
-		<product_id></product_id>
-		<name>招募令</name>
-		<description>招募10个士兵</description>
-		<money>2000</money>
-		<cash></cash>
-		<rmb></rmb>
-		<product_type>3</product_type>
-		<add_type>1</add_type>
-		<add_method>2</add_method>
-		<add_data>
-			<data>199</data>
-			<count>10</count>
-		</add_data>
-	</prop>
-	<prop>
-		<id>10</id>
-		<product_id></product_id>
-		<name>兵器</name>
-		<description>购买10把佩剑</description>
-		<money>2000</money>
-		<cash></cash>
-		<rmb></rmb>
-		<product_type>3</product_type>
-		<add_type>2</add_type>
-		<add_method>2</add_method>
-		<add_data>
-			<data>38</data>
-			<count>10</count>
-		</add_data>
-	</prop>
-	<prop>
-		<id>11</id>
-		<product_id></product_id>
-		<name>蜀国求贤榜</name>
-		<description>随机获得1名蜀国武将</description>
-		<money></money>
-		<cash>100</cash>
-		<rmb></rmb>
-		<product_type>2</product_type>
-		<add_type>1</add_type>
-		<add_method>1</add_method>
-		<add_data>
-			<data>1</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>5</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>6</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>7</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>8</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>9</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>10</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>11</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>36</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>37</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>38</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>39</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>40</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>44</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>58</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>61</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>66</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>67</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>68</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>69</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>70</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>71</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>80</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>90</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>92</data>
-			<count>1</count>
-		</add_data>
-	</prop>
-	<prop>
-		<id>12</id>
-		<product_id></product_id>
-		<name>魏国求贤榜</name>
-		<description>随机获得1名魏国武将</description>
-		<money></money>
-		<cash>100</cash>
-		<rmb></rmb>
-		<product_type>2</product_type>
-		<add_type>1</add_type>
-		<add_method>1</add_method>
-		<add_data>
-			<data>2</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>12</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>13</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>14</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>15</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>16</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>17</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>18</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>19</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>20</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>21</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>41</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>42</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>43</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>45</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>46</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>47</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>48</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>49</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>50</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>51</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>52</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>53</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>54</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>56</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>57</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>74</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>87</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>89</data>
-			<count>1</count>
-		</add_data>
-	</prop>
-	<prop>
-		<id>13</id>
-		<product_id></product_id>
-		<name>吴国求贤榜</name>
-		<description>随机获得1名吴国武将</description>
-		<money></money>
-		<cash>100</cash>
-		<rmb></rmb>
-		<product_type>2</product_type>
-		<add_type>1</add_type>
-		<add_method>1</add_method>
-		<add_data>
-			<data>3</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>22</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>23</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>24</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>25</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>26</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>27</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>28</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>29</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>30</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>31</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>55</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>59</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>60</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>62</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>63</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>64</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>65</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>82</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>83</data>
-			<count>1</count>
-		</add_data>
-	</prop>
-	<prop>
-		<id>14</id>
-		<product_id></product_id>
-		<name>群雄求贤榜</name>
-		<description>随机获得1名群雄武将</description>
-		<money></money>
-		<cash>100</cash>
-		<rmb></rmb>
-		<product_type>2</product_type>
-		<add_type>1</add_type>
-		<add_method>1</add_method>
-		<add_data>
-			<data>4</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>32</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>33</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>34</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>35</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>72</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>73</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>75</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>76</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>77</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>78</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>79</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>81</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>84</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>85</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>86</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>88</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>91</data>
-			<count>1</count>
-		</add_data>
-	</prop>
-	<prop>
-		<id>15</id>
-		<product_id></product_id>
-		<name>武器打造</name>
-		<description>随机获得1件高星级武器</description>
-		<money></money>
-		<cash>100</cash>
-		<rmb></rmb>
-		<product_type>2</product_type>
-		<add_type>2</add_type>
-		<add_method>1</add_method>
-		<add_data>
-			<data>1</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>2</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>3</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>4</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>5</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>6</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>7</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>8</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>9</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>10</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>11</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>12</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>13</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>14</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>15</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>16</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>17</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>18</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>19</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>20</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>21</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>22</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>23</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>24</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>25</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>26</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>27</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>28</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>29</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>30</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>31</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>32</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>33</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>34</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>35</data>
-			<count>1</count>
-		</add_data>
-	</prop>
-	<prop>
-		<id>16</id>
-		<product_id></product_id>
-		<name>防具打造</name>
-		<description>随机获得1件高星级防具</description>
-		<money></money>
-		<cash>100</cash>
-		<rmb></rmb>
-		<product_type>2</product_type>
-		<add_type>3</add_type>
-		<add_method>1</add_method>
-		<add_data>
-			<data>102</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>103</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>104</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>105</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>106</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>107</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>108</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>109</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>110</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>111</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>112</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>113</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>114</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>115</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>116</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>117</data>
-			<count>1</count>
-		</add_data>
-	</prop>
-	<prop>
-		<id>17</id>
-		<product_id></product_id>
-		<name>坐骑求购</name>
-		<description>随机获得1匹高星级坐骑</description>
-		<money></money>
-		<cash>100</cash>
-		<rmb></rmb>
-		<product_type>2</product_type>
-		<add_type>4</add_type>
-		<add_method>1</add_method>
-		<add_data>
-			<data>157</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>158</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>159</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>160</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>161</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>162</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>163</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>164</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>165</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>166</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>167</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>168</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>169</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>170</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>171</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>172</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>173</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>174</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>175</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>176</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>177</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>178</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>179</data>
-			<count>1</count>
-		</add_data>
-	</prop>
-	<prop>
-		<id>18</id>
-		<product_id></product_id>
-		<name>充值礼包</name>
-		<description>4张求贤榜，5只烧鸡，5坛杜康酒，3个银箱，3封求和信</description>
-		<money></money>
-		<cash>100</cash>
-		<rmb></rmb>
-		<product_type>3</product_type>
-		<add_type>7</add_type>
-		<add_method>2</add_method>
-		<add_data>
-			<data>22</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>3</data>
-			<count>5</count>
-		</add_data>
-		<add_data>
-			<data>5</data>
-			<count>5</count>
-		</add_data>
-		<add_data>
-			<data>6</data>
-			<count>3</count>
-		</add_data>
-		<add_data>
-			<data>8</data>
-			<count>3</count>
-		</add_data>
-	</prop>
-	<prop>
-		<id>19</id>
-		<product_id></product_id>
-		<name>精力礼包</name>
-		<description>5包牛肉，5只烧鸡</description>
-		<money></money>
-		<cash>200</cash>
-		<rmb></rmb>
-		<product_type>3</product_type>
-		<add_type>7</add_type>
-		<add_method>2</add_method>
-		<add_data>
-			<data>2</data>
-			<count>5</count>
-		</add_data>
-		<add_data>
-			<data>3</data>
-			<count>5</count>
-		</add_data>
-	</prop>
-	<prop>
-		<id>20</id>
-		<product_id></product_id>
-		<name>体力礼包</name>
-		<description>5杯九酿酒，5坛杜康酒</description>
-		<money></money>
-		<cash>70</cash>
-		<rmb></rmb>
-		<product_type>3</product_type>
-		<add_type>7</add_type>
-		<add_method>2</add_method>
-		<add_data>
-			<data>4</data>
-			<count>5</count>
-		</add_data>
-		<add_data>
-			<data>5</data>
-			<count>5</count>
-		</add_data>
-	</prop>
-	<prop>
-		<id>21</id>
-		<product_id></product_id>
-		<name>武将礼包</name>
-		<description>4张求贤榜</description>
-		<money></money>
-		<cash>300</cash>
-		<rmb></rmb>
-		<product_type>3</product_type>
-		<add_type>7</add_type>
-		<add_method>2</add_method>
-		<add_data>
-			<data>12</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>13</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>14</data>
-			<count>1</count>
-		</add_data>
-		<add_data>
-			<data>15</data>
-			<count>1</count>
-		</add_data>
-	</prop>
-	<prop>
-		<id>22</id>
-		<product_id></product_id>
-		<name>银子礼包</name>
-		<description>5张银票，5个钱箱</description>
-		<money></money>
-		<cash>300</cash>
-		<rmb></rmb>
-		<product_type>3</product_type>
-		<add_type>7</add_type>
-		<add_method>2</add_method>
-		<add_data>
-			<data>7</data>
-			<count>5</count>
-		</add_data>
-		<add_data>
-			<data>8</data>
-			<count>5</count>
-		</add_data>
-	</prop>
-	<prop>
-		<id>23</id>
-		<product_id>com.jike.sanguo.60yb</product_id>
-		<name>6元充值</name>
-		<description>60元宝</description>
-		<money></money>
-		<cash></cash>
-		<rmb>6</rmb>
-		<product_type>4</product_type>
-		<add_type>10</add_type>
-		<add_method>2</add_method>
-		<add_data>
-			<data>1</data>
-			<count>60</count>
-		</add_data>
-	</prop>
-	<prop>
-		<id>24</id>
-		<product_id>com.jike.sanguo.300yb</product_id>
-		<name>30元充值</name>
-		<description>400元宝</description>
-		<money></money>
-		<cash></cash>
-		<rmb>30</rmb>
-		<product_type>4</product_type>
-		<add_type>10</add_type>
-		<add_method>2</add_method>
-		<add_data>
-			<data>1</data>
-			<count>400</count>
-		</add_data>
-	</prop>
-	<prop>
-		<id>25</id>
-		<product_id>com.jike.sanguo.1280yb</product_id>
-		<name>128元充值</name>
-		<description>1920元宝</description>
-		<money></money>
-		<cash></cash>
-		<rmb>128</rmb>
-		<product_type>4</product_type>
-		<add_type>10</add_type>
-		<add_method>2</add_method>
-		<add_data>
-			<data>1</data>
-			<count>1920</count>
-		</add_data>
-	</prop>
-	<prop>
-		<id>26</id>
-		<product_id>com.jike.sanguo.6480yb</product_id>
-		<name>648元充值</name>
-		<description>12960元宝</description>
-		<money></money>
-		<cash></cash>
-		<rmb>648</rmb>
-		<product_type>4</product_type>
-		<add_type>10</add_type>
-		<add_method>2</add_method>
-		<add_data>
-			<data>1</data>
-			<count>12960</count>
-		</add_data>
-	</prop>
+<prop>
+<id>1</id>
+<product_id></product_id>
+<name>包子</name>
+<description>恢复10点精力</description>
+<money></money>
+<cash>5</cash>
+<rmb></rmb>
+<product_type>1</product_type>
+<add_type>11</add_type>
+<add_method>2</add_method>
+<add_data>
+<data>1</data>
+<count>10</count>
+</add_data>
+</prop>
+<prop>
+<id>2</id>
+<product_id></product_id>
+<name>牛肉</name>
+<description>恢复50点精力</description>
+<money></money>
+<cash>30</cash>
+<rmb></rmb>
+<product_type>1</product_type>
+<add_type>11</add_type>
+<add_method>2</add_method>
+<add_data>
+<data>1</data>
+<count>50</count>
+</add_data>
+</prop>
+<prop>
+<id>3</id>
+<product_id></product_id>
+<name>烧鸡</name>
+<description>恢复100点精力</description>
+<money></money>
+<cash>50</cash>
+<rmb></rmb>
+<product_type>1</product_type>
+<add_type>11</add_type>
+<add_method>2</add_method>
+<add_data>
+<data>1</data>
+<count>100</count>
+</add_data>
+</prop>
+<prop>
+<id>4</id>
+<product_id></product_id>
+<name>九酿酒</name>
+<description>恢复3点体力</description>
+<money></money>
+<cash>5</cash>
+<rmb></rmb>
+<product_type>1</product_type>
+<add_type>12</add_type>
+<add_method>2</add_method>
+<add_data>
+<data>1</data>
+<count>3</count>
+</add_data>
+</prop>
+<prop>
+<id>5</id>
+<product_id></product_id>
+<name>杜康酒</name>
+<description>恢复全部体力</description>
+<money></money>
+<cash>20</cash>
+<rmb></rmb>
+<product_type>1</product_type>
+<add_type>12</add_type>
+<add_method>2</add_method>
+<add_data>
+<data>1</data>
+<count>-1</count>
+</add_data>
+</prop>
+<prop>
+<id>6</id>
+<product_id></product_id>
+<name>求和信</name>
+<description>休战1小时</description>
+<money></money>
+<cash>30</cash>
+<rmb></rmb>
+<product_type>1</product_type>
+<add_type>8</add_type>
+<add_method>2</add_method>
+<add_data>
+<data>1</data>
+<count>3600</count>
+</add_data>
+</prop>
+<prop>
+<id>7</id>
+<product_id></product_id>
+<name>银票</name>
+<description>增加3000两银子</description>
+<money></money>
+<cash>30</cash>
+<rmb></rmb>
+<product_type>1</product_type>
+<add_type>9</add_type>
+<add_method>2</add_method>
+<add_data>
+<data>1</data>
+<count>3000</count>
+</add_data>
+</prop>
+<prop>
+<id>8</id>
+<product_id></product_id>
+<name>钱箱</name>
+<description>增加10000两银子</description>
+<money></money>
+<cash>90</cash>
+<rmb></rmb>
+<product_type>1</product_type>
+<add_type>9</add_type>
+<add_method>2</add_method>
+<add_data>
+<data>1</data>
+<count>10000</count>
+</add_data>
+</prop>
+<prop>
+<id>9</id>
+<product_id></product_id>
+<name>招募令</name>
+<description>招募10个士兵</description>
+<money>2000</money>
+<cash></cash>
+<rmb></rmb>
+<product_type>3</product_type>
+<add_type>1</add_type>
+<add_method>2</add_method>
+<add_data>
+<data>199</data>
+<count>10</count>
+</add_data>
+</prop>
+<prop>
+<id>10</id>
+<product_id></product_id>
+<name>兵器</name>
+<description>购买10把佩剑</description>
+<money>2000</money>
+<cash></cash>
+<rmb></rmb>
+<product_type>3</product_type>
+<add_type>2</add_type>
+<add_method>2</add_method>
+<add_data>
+<data>38</data>
+<count>10</count>
+</add_data>
+</prop>
+<prop>
+<id>11</id>
+<product_id></product_id>
+<name>蜀国求贤榜</name>
+<description>随机获得1名蜀国武将</description>
+<money></money>
+<cash>100</cash>
+<rmb></rmb>
+<product_type>2</product_type>
+<add_type>1</add_type>
+<add_method>1</add_method>
+<add_data>
+<data>1</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>5</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>6</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>7</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>8</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>9</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>10</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>11</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>36</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>37</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>38</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>39</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>40</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>44</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>58</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>61</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>66</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>67</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>68</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>69</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>70</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>71</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>80</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>90</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>92</data> 
+<count>1</count>
+</add_data>
+</prop>
+<prop>
+<id>12</id>
+<product_id></product_id>
+<name>魏国求贤榜</name>
+<description>随机获得1名魏国武将</description>
+<money></money>
+<cash>100</cash>
+<rmb></rmb>
+<product_type>2</product_type>
+<add_type>1</add_type>
+<add_method>1</add_method>
+<add_data>
+<data>2</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>12</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>13</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>14</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>15</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>16</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>17</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>18</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>19</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>20</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>21</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>41</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>42</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>43</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>45</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>46</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>47</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>48</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>49</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>50</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>51</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>52</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>53</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>54</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>56</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>57</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>74</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>87</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>89</data> 
+<count>1</count>
+</add_data>
+</prop>
+<prop>
+<id>13</id>
+<product_id></product_id>
+<name>吴国求贤榜</name>
+<description>随机获得1名吴国武将</description>
+<money></money>
+<cash>100</cash>
+<rmb></rmb>
+<product_type>2</product_type>
+<add_type>1</add_type>
+<add_method>1</add_method>
+<add_data>
+<data>3</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>22</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>23</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>24</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>25</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>26</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>27</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>28</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>29</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>30</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>31</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>55</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>59</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>60</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>62</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>63</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>64</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>65</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>82</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>83</data> 
+<count>1</count>
+</add_data>
+</prop>
+<prop>
+<id>14</id>
+<product_id></product_id>
+<name>群雄求贤榜</name>
+<description>随机获得1名群雄武将</description>
+<money></money>
+<cash>100</cash>
+<rmb></rmb>
+<product_type>2</product_type>
+<add_type>1</add_type>
+<add_method>1</add_method>
+<add_data>
+<data>4</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>32</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>33</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>34</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>35</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>72</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>73</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>75</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>76</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>77</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>78</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>79</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>81</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>84</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>85</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>86</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>88</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>91</data> 
+<count>1</count>
+</add_data>
+</prop>
+<prop>
+<id>15</id>
+<product_id></product_id>
+<name>武器打造</name>
+<description>随机获得1件高星级武器</description>
+<money></money>
+<cash>100</cash>
+<rmb></rmb>
+<product_type>2</product_type>
+<add_type>2</add_type>
+<add_method>1</add_method>
+<add_data>
+<data>1</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>2</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>3</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>4</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>5</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>6</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>7</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>8</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>9</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>10</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>11</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>12</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>13</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>14</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>15</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>16</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>17</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>18</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>19</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>20</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>21</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>22</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>23</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>24</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>25</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>26</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>27</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>28</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>29</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>30</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>31</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>32</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>33</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>34</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>35</data> 
+<count>1</count>
+</add_data>
+</prop>
+<prop>
+<id>16</id>
+<product_id></product_id>
+<name>防具打造</name>
+<description>随机获得1件高星级防具</description>
+<money></money>
+<cash>100</cash>
+<rmb></rmb>
+<product_type>2</product_type>
+<add_type>3</add_type>
+<add_method>1</add_method>
+<add_data>
+<data>102</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>103</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>104</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>105</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>106</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>107</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>108</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>109</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>110</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>111</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>112</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>113</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>114</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>115</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>116</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>117</data> 
+<count>1</count>
+</add_data>
+</prop>
+<prop>
+<id>17</id>
+<product_id></product_id>
+<name>坐骑求购</name>
+<description>随机获得1匹高星级坐骑</description>
+<money></money>
+<cash>100</cash>
+<rmb></rmb>
+<product_type>2</product_type>
+<add_type>4</add_type>
+<add_method>1</add_method>
+<add_data>
+<data>157</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>158</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>159</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>160</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>161</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>162</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>163</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>164</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>165</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>166</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>167</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>168</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>169</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>170</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>171</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>172</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>173</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>174</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>175</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>176</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>177</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>178</data> 
+<count>1</count>
+</add_data>
+<add_data>
+<data>179</data> 
+<count>1</count>
+</add_data>
+</prop>
+<prop>
+<id>18</id>
+<product_id></product_id>
+<name>充值礼包</name>
+<description>4张求贤榜，5只烧鸡，5坛杜康酒，3个银箱，3封求和信</description>
+<money></money>
+<cash>100</cash>
+<rmb></rmb>
+<product_type>3</product_type>
+<add_type>7</add_type>
+<add_method>2</add_method>
+<add_data>
+<data>22</data>
+<count>1</count>
+</add_data>
+<add_data>
+<data>3</data>
+<count>5</count>
+</add_data>
+<add_data>
+<data>5</data>
+<count>5</count>
+</add_data>
+<add_data>
+<data>6</data>
+<count>3</count>
+</add_data>
+<add_data>
+<data>8</data>
+<count>3</count>
+</add_data>
+</prop>
+<prop>
+<id>19</id>
+<product_id></product_id>
+<name>精力礼包</name>
+<description>5包牛肉，5只烧鸡</description>
+<money></money>
+<cash>200</cash>
+<rmb></rmb>
+<product_type>3</product_type>
+<add_type>7</add_type>
+<add_method>2</add_method>
+<add_data>
+<data>2</data>
+<count>5</count>
+</add_data>
+<add_data>
+<data>3</data>
+<count>5</count>
+</add_data>
+</prop>
+<prop>
+<id>20</id>
+<product_id></product_id>
+<name>体力礼包</name>
+<description>5杯九酿酒，5坛杜康酒</description>
+<money></money>
+<cash>70</cash>
+<rmb></rmb>
+<product_type>3</product_type>
+<add_type>7</add_type>
+<add_method>2</add_method>
+<add_data>
+<data>4</data>
+<count>5</count>
+</add_data>
+<add_data>
+<data>5</data>
+<count>5</count>
+</add_data>
+</prop>
+<prop>
+<id>21</id>
+<product_id></product_id>
+<name>武将礼包</name>
+<description>4张求贤榜</description>
+<money></money>
+<cash>300</cash>
+<rmb></rmb>
+<product_type>3</product_type>
+<add_type>7</add_type>
+<add_method>2</add_method>
+<add_data>
+<data>12</data>
+<count>1</count>
+</add_data>
+<add_data>
+<data>13</data>
+<count>1</count>
+</add_data>
+<add_data>
+<data>14</data>
+<count>1</count>
+</add_data>
+<add_data>
+<data>11</data>
+<count>1</count>
+</add_data>
+</prop>
+<prop>
+<id>22</id>
+<product_id></product_id>
+<name>银子礼包</name>
+<description>5张银票，5个钱箱</description>
+<money></money>
+<cash>300</cash>
+<rmb></rmb>
+<product_type>3</product_type>
+<add_type>7</add_type>
+<add_method>2</add_method>
+<add_data>
+<data>7</data>
+<count>5</count>
+</add_data>
+<add_data>
+<data>8</data>
+<count>5</count>
+</add_data>
+</prop>
+<prop>
+<id>23</id>
+<product_id>com.jike.sanguo.60yb</product_id>
+<name>6元充值</name>
+<description>60元宝</description>
+<money></money>
+<cash></cash>
+<rmb>6</rmb>
+<product_type>4</product_type>
+<add_type>10</add_type>
+<add_method>2</add_method>
+<add_data>
+<data>1</data>
+<count>60</count>
+</add_data>
+</prop>
+<prop>
+<id>24</id>
+<product_id>com.jike.sanguo.300yb</product_id>
+<name>30元充值</name>
+<description>400元宝</description>
+<money></money>
+<cash></cash>
+<rmb>30</rmb>
+<product_type>4</product_type>
+<add_type>10</add_type>
+<add_method>2</add_method>
+<add_data>
+<data>1</data>
+<count>400</count>
+</add_data>
+</prop>
+<prop>
+<id>25</id>
+<product_id>com.jike.sanguo.1280yb</product_id>
+<name>128元充值</name>
+<description>1920元宝</description>
+<money></money>
+<cash></cash>
+<rmb>128</rmb>
+<product_type>4</product_type>
+<add_type>10</add_type>
+<add_method>2</add_method>
+<add_data>
+<data>1</data>
+<count>1920</count>
+</add_data>
+</prop>
+<prop>
+<id>26</id>
+<product_id>com.jike.sanguo.6480yb</product_id>
+<name>648元充值</name>
+<description>12960元宝</description>
+<money></money>
+<cash></cash>
+<rmb>648</rmb>
+<product_type>4</product_type>
+<add_type>10</add_type>
+<add_method>2</add_method>
+<add_data>
+<data>1</data>
+<count>12960</count>
+</add_data>
+</prop>
 </root>
