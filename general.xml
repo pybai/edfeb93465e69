@@ -638,7 +638,7 @@
 <general>
 <id>36</id>
 <name>周仓</name>
-<description>62162104</description>
+<description>字元福，黄巾军出身，后来作为贴身护卫跟随关羽。</description>
 <star_level>3</star_level>
 <country>1</country>
 <attack>69</attack>
@@ -655,9 +655,9 @@
 <general>
 <id>37</id>
 <name>程昱</name>
-<description>7239177</description>
+<description>魏国名臣，智勇有谋，能断大事。</description>
 <star_level>3</star_level>
-<country>1</country>
+<country>0</country>
 <attack>58</attack>
 <attack_range>25</attack_range>
 <defense>72</defense>
@@ -689,7 +689,7 @@
 <general>
 <id>39</id>
 <name>廖化</name>
-<description>62160139</description>
+<description>字元俭，以勇敢果断著称，上马安邦下马治国之才。</description>
 <star_level>3</star_level>
 <country>1</country>
 <attack>65</attack>
@@ -706,7 +706,7 @@
 <general>
 <id>40</id>
 <name>刘禅</name>
-<description>88152104</description>
+<description>字公嗣，小名阿斗，为人软弱无能，没有大志。</description>
 <star_level>3</star_level>
 <country>1</country>
 <attack>74</attack>
@@ -723,7 +723,7 @@
 <general>
 <id>41</id>
 <name>曹洪</name>
-<description>110145147</description>
+<description>字子廉，性格急躁，但多次救曹操于危难之中。</description>
 <star_level>3</star_level>
 <country>0</country>
 <attack>77</attack>
@@ -774,7 +774,7 @@
 <general>
 <id>44</id>
 <name>严颜</name>
-<description>1395526</description>
+<description>字希伯，有万夫不当之勇，忠义非常。</description>
 <star_level>3</star_level>
 <country>1</country>
 <attack>58</attack>
@@ -791,7 +791,7 @@
 <general>
 <id>45</id>
 <name>曹植</name>
-<description>69178179</description>
+<description>字子建，自幼颖慧，出言为论，落笔成文。</description>
 <star_level>3</star_level>
 <country>0</country>
 <attack>63</attack>
@@ -808,7 +808,7 @@
 <general>
 <id>46</id>
 <name>蔡瑁</name>
-<description>10093180</description>
+<description>字德珪，投降曹操后，被周瑜施反间计而遭处刑。</description>
 <star_level>3</star_level>
 <country>0</country>
 <attack>60</attack>
@@ -825,7 +825,7 @@
 <general>
 <id>47</id>
 <name>庞德</name>
-<description>6211563</description>
+<description>字令明，骁勇异常，宁死不降，人称“白马将军”。</description>
 <star_level>3</star_level>
 <country>0</country>
 <attack>78</attack>
@@ -893,7 +893,7 @@
 <general>
 <id>51</id>
 <name>许攸</name>
-<description>116146169</description>
+<description>字子远，贪财逐利，后因狂傲被许褚一怒所杀。</description>
 <star_level>3</star_level>
 <country>0</country>
 <attack>58</attack>
@@ -910,7 +910,7 @@
 <general>
 <id>52</id>
 <name>荀攸</name>
-<description>44102149</description>
+<description>字公达，曹操的首席军师，战术策略灵活多变。</description>
 <star_level>3</star_level>
 <country>0</country>
 <attack>64</attack>
@@ -927,7 +927,7 @@
 <general>
 <id>53</id>
 <name>杨修</name>
-<description>6968113</description>
+<description>字德祖，以学识渊博而著称，后被曹操借口杀害。</description>
 <star_level>3</star_level>
 <country>0</country>
 <attack>71</attack>
@@ -944,7 +944,7 @@
 <general>
 <id>54</id>
 <name>张郃</name>
-<description>63145168</description>
+<description>字儁乂，勇武过人，多次抵御蜀军的进攻。</description>
 <star_level>3</star_level>
 <country>0</country>
 <attack>64</attack>
@@ -961,7 +961,7 @@
 <general>
 <id>55</id>
 <name>徐盛</name>
-<description>170125172</description>
+<description>字文向，以勇气闻名，参加了多次大大小小的战斗。</description>
 <star_level>3</star_level>
 <country>2</country>
 <attack>67</attack>
@@ -978,7 +978,7 @@
 <general>
 <id>56</id>
 <name>贾诩</name>
-<description>字文和，奇谋百出，算无遗策。</description>
+<description>字文和，奇谋百出，算无遗策，后来归降曹操。</description>
 <star_level>3</star_level>
 <country>0</country>
 <attack>67</attack>
@@ -995,7 +995,7 @@
 <general>
 <id>57</id>
 <name>李典</name>
-<description>63168115</description>
+<description>字曼成，好学问，贵儒雅，不与诸将争功。</description>
 <star_level>3</star_level>
 <country>0</country>
 <attack>78</attack>
@@ -1012,7 +1012,7 @@
 <general>
 <id>58</id>
 <name>王平</name>
-<description>18228162</description>
+<description>字子均，严肃谨慎，见识卓越，平定了魏延之乱。</description>
 <star_level>3</star_level>
 <country>1</country>
 <attack>64</attack>
@@ -1021,7 +1021,7 @@
 <defense_range>28</defense_range>
 <attack_addon>48</attack_addon>
 <defense_addon>45</defense_addon>
-<pic_id>58</pic_id>
+<pic_id>105</pic_id>
 <skillId>182</skillId>
 <skillId>28</skillId>
 <skillId>162</skillId>
@@ -1029,7 +1029,7 @@
 <general>
 <id>59</id>
 <name>凌统</name>
-<description>183121125</description>
+<description>字公绩，亲贤爱士，轻财重义，有国士风。</description>
 <star_level>3</star_level>
 <country>2</country>
 <attack>68</attack>
@@ -1038,7 +1038,7 @@
 <defense_range>17</defense_range>
 <attack_addon>50</attack_addon>
 <defense_addon>44</defense_addon>
-<pic_id>59</pic_id>
+<pic_id>101</pic_id>
 <skillId>183</skillId>
 <skillId>121</skillId>
 <skillId>125</skillId>
@@ -1046,7 +1046,7 @@
 <general>
 <id>60</id>
 <name>孙坚</name>
-<description>121122176</description>
+<description>字文台，容貌不凡，性情阔达，吴国的奠基人。</description>
 <star_level>3</star_level>
 <country>2</country>
 <attack>76</attack>
@@ -1063,7 +1063,7 @@
 <general>
 <id>61</id>
 <name>马谡</name>
-<description>88140161</description>
+<description>字幼常，倍受诸葛亮器重，却因失守街亭被斩。</description>
 <star_level>3</star_level>
 <country>1</country>
 <attack>69</attack>
@@ -1080,7 +1080,7 @@
 <general>
 <id>62</id>
 <name>大乔</name>
-<description>74185184</description>
+<description>孙策之妻，沉鱼落雁之容，知书达礼，通音律晓诗文。</description>
 <star_level>3</star_level>
 <country>2</country>
 <attack>70</attack>
@@ -1097,7 +1097,7 @@
 <general>
 <id>63</id>
 <name>吴国太</name>
-<description>4173184</description>
+<description>将孙尚香嫁给了刘备，使得周瑜的美人计弄假成真。</description>
 <star_level>3</star_level>
 <country>2</country>
 <attack>75</attack>
@@ -1106,7 +1106,7 @@
 <defense_range>19</defense_range>
 <attack_addon>48</attack_addon>
 <defense_addon>39</defense_addon>
-<pic_id>63</pic_id>
+<pic_id>201</pic_id>
 <skillId>41</skillId>
 <skillId>73</skillId>
 <skillId>184</skillId>
@@ -1114,7 +1114,7 @@
 <general>
 <id>64</id>
 <name>小乔</name>
-<description>186138184</description>
+<description>周瑜之妻，国色流离，资貌绝伦。</description>
 <star_level>3</star_level>
 <country>2</country>
 <attack>75</attack>
@@ -1131,7 +1131,7 @@
 <general>
 <id>65</id>
 <name>诸葛瑾</name>
-<description></description>
+<description>字子瑜，诸葛亮之兄，胸怀宽广，温厚诚信。</description>
 <star_level>3</star_level>
 <country>2</country>
 <attack>63</attack>
@@ -1145,7 +1145,7 @@
 <general>
 <id>66</id>
 <name>姜维</name>
-<description>28134127</description>
+<description>字伯约，忠勤时事，思虑精密，诸葛亮的接班人。</description>
 <star_level>3</star_level>
 <country>1</country>
 <attack>61</attack>
@@ -1162,7 +1162,7 @@
 <general>
 <id>67</id>
 <name>庞统</name>
-<description>72102187</description>
+<description>字士元，号凤雏，容貌丑陋，但才智与诸葛亮齐名。</description>
 <star_level>3</star_level>
 <country>1</country>
 <attack>71</attack>
@@ -1179,7 +1179,7 @@
 <general>
 <id>68</id>
 <name>法正</name>
-<description>72102135</description>
+<description>字孝直，屡献奇策，深受刘备信任和敬重。</description>
 <star_level>3</star_level>
 <country>1</country>
 <attack>53</attack>
@@ -1188,7 +1188,7 @@
 <defense_range>22</defense_range>
 <attack_addon>38</attack_addon>
 <defense_addon>50</defense_addon>
-<pic_id>68</pic_id>
+<pic_id>100</pic_id>
 <skillId>72</skillId>
 <skillId>102</skillId>
 <skillId>135</skillId>
@@ -1196,7 +1196,7 @@
 <general>
 <id>69</id>
 <name>关平</name>
-<description>62160157</description>
+<description>字坦之，关羽义子，随关羽南征北战，屡立功劳。</description>
 <star_level>3</star_level>
 <country>1</country>
 <attack>72</attack>
@@ -1213,7 +1213,7 @@
 <general>
 <id>70</id>
 <name>关兴</name>
-<description>62160137</description>
+<description>字安国，关羽次子，诸葛亮十分器重。</description>
 <star_level>3</star_level>
 <country>1</country>
 <attack>80</attack>
@@ -1230,7 +1230,7 @@
 <general>
 <id>71</id>
 <name>黄月英</name>
-<description>7260184</description>
+<description>诸葛亮之妻，上通天文，下察地理，知识广博。</description>
 <star_level>3</star_level>
 <country>1</country>
 <attack>63</attack>
@@ -1247,7 +1247,7 @@
 <general>
 <id>72</id>
 <name>高顺</name>
-<description>649452</description>
+<description>清白威严，骁勇有智，衷心仁义。不饮酒不受馈遗。</description>
 <star_level>3</star_level>
 <country>3</country>
 <attack>75</attack>
@@ -1264,7 +1264,7 @@
 <general>
 <id>73</id>
 <name>陈宫</name>
-<description>107151165</description>
+<description>字公台，性情刚直，足智多谋，吕布的谋士。</description>
 <star_level>3</star_level>
 <country>3</country>
 <attack>60</attack>
@@ -1281,7 +1281,7 @@
 <general>
 <id>74</id>
 <name>邓艾</name>
-<description>152166127</description>
+<description>字士载，目光远大，见解超人，具有难得的战略头脑。</description>
 <star_level>3</star_level>
 <country>0</country>
 <attack>63</attack>
@@ -1298,7 +1298,7 @@
 <general>
 <id>75</id>
 <name>颜良</name>
-<description>128116173</description>
+<description>袁绍部将，性情急躁，以勇而闻名。</description>
 <star_level>3</star_level>
 <country>3</country>
 <attack>70</attack>
@@ -1315,7 +1315,7 @@
 <general>
 <id>76</id>
 <name>华雄</name>
-<description>846462</description>
+<description>华雄是董卓手下猛将，被关羽所斩杀。</description>
 <star_level>3</star_level>
 <country>3</country>
 <attack>67</attack>
@@ -1332,7 +1332,7 @@
 <general>
 <id>77</id>
 <name>文丑</name>
-<description>130116173</description>
+<description>袁绍部将，与颜良亲如兄弟，勇冠三军。</description>
 <star_level>3</star_level>
 <country>3</country>
 <attack>70</attack>
@@ -1349,7 +1349,7 @@
 <general>
 <id>78</id>
 <name>王允</name>
-<description>10776165</description>
+<description>字子师，巧使环计离间吕布和董卓。</description>
 <star_level>3</star_level>
 <country>3</country>
 <attack>60</attack>
@@ -1366,7 +1366,7 @@
 <general>
 <id>79</id>
 <name>刘表</name>
-<description>1236461</description>
+<description>字景升，姿貌温伟，仁义之主。</description>
 <star_level>3</star_level>
 <country>3</country>
 <attack>67</attack>
@@ -1383,7 +1383,7 @@
 <general>
 <id>80</id>
 <name>孟获</name>
-<description></description>
+<description>南蛮少数民族的首领，被诸葛亮七擒七纵所降服。</description>
 <star_level>3</star_level>
 <country>1</country>
 <attack>74</attack>
@@ -1397,7 +1397,7 @@
 <general>
 <id>81</id>
 <name>审配</name>
-<description></description>
+<description>字正南，袁绍帐下谋士，为人正直，忠烈之臣。</description>
 <star_level>3</star_level>
 <country>3</country>
 <attack>70</attack>
@@ -1411,7 +1411,7 @@
 <general>
 <id>82</id>
 <name>张纮</name>
-<description>131138187</description>
+<description>字子纲，东吴谋士，和张昭一起合称“二张”。</description>
 <star_level>3</star_level>
 <country>2</country>
 <attack>62</attack>
@@ -1428,7 +1428,7 @@
 <general>
 <id>83</id>
 <name>张昭</name>
-<description>132138187</description>
+<description>字子布，吴国重臣，和张纮一起合称“二张”。</description>
 <star_level>3</star_level>
 <country>2</country>
 <attack>55</attack>
@@ -1445,7 +1445,7 @@
 <general>
 <id>84</id>
 <name>马腾</name>
-<description></description>
+<description>字寿成，马超的父亲，性格贤厚，深受百姓敬重。</description>
 <star_level>3</star_level>
 <country>3</country>
 <attack>80</attack>
@@ -1459,7 +1459,7 @@
 <general>
 <id>85</id>
 <name>于吉</name>
-<description>122153188</description>
+<description>琅琊宫道士，能祈风祷雨，普施符水，救人万病。</description>
 <star_level>3</star_level>
 <country>3</country>
 <attack>63</attack>
@@ -1476,7 +1476,7 @@
 <general>
 <id>86</id>
 <name>袁术</name>
-<description>11664150</description>
+<description>字公路，袁绍之弟，奢侈暴政，被曹操所破。</description>
 <star_level>3</star_level>
 <country>3</country>
 <attack>74</attack>
@@ -1493,7 +1493,7 @@
 <general>
 <id>87</id>
 <name>张春华</name>
-<description>4217860</description>
+<description>司马懿之妻，少有德行，智识过人。</description>
 <star_level>3</star_level>
 <country>0</country>
 <attack>75</attack>
@@ -1510,7 +1510,7 @@
 <general>
 <id>88</id>
 <name>张角</name>
-<description>841930</description>
+<description>黄巾军领袖，传道创教，且能施术作法。</description>
 <star_level>3</star_level>
 <country>3</country>
 <attack>76</attack>
@@ -1527,7 +1527,7 @@
 <general>
 <id>89</id>
 <name>张允</name>
-<description></description>
+<description>刘表的部将，与蔡瑁一起归降曹操。</description>
 <star_level>3</star_level>
 <country>0</country>
 <attack>65</attack>
@@ -1541,7 +1541,7 @@
 <general>
 <id>90</id>
 <name>祝融</name>
-<description></description>
+<description>火神祝融氏后裔，孟获之妻，善使飞刀，百发百中。</description>
 <star_level>3</star_level>
 <country>1</country>
 <attack>60</attack>
@@ -1555,7 +1555,7 @@
 <general>
 <id>91</id>
 <name>田丰</name>
-<description>189155149</description>
+<description>字元皓，其为人刚直，博览多识，权略多奇。</description>
 <star_level>3</star_level>
 <country>3</country>
 <attack>76</attack>
@@ -1572,7 +1572,7 @@
 <general>
 <id>92</id>
 <name>马良</name>
-<description></description>
+<description>字季常，马谡的哥哥，马氏兄弟中最有才名。</description>
 <star_level>3</star_level>
 <country>1</country>
 <attack>60</attack>
@@ -1586,7 +1586,7 @@
 <general>
 <id>173</id>
 <name>程普</name>
-<description></description>
+<description>字德谋，有容貌计略，善於应对，功勋卓著。</description>
 <star_level>3</star_level>
 <country>2</country>
 <attack>38</attack>
@@ -1600,7 +1600,7 @@
 <general>
 <id>182</id>
 <name>丁原</name>
-<description></description>
+<description>字建阳，董卓贿赂吕布将其杀害。</description>
 <star_level>3</star_level>
 <country>3</country>
 <attack>42</attack>
@@ -1614,7 +1614,7 @@
 <general>
 <id>196</id>
 <name>逢纪</name>
-<description></description>
+<description>字元图，袁绍的谋臣。</description>
 <star_level>3</star_level>
 <country>3</country>
 <attack>44</attack>
@@ -1628,7 +1628,7 @@
 <general>
 <id>455</id>
 <name>陈琳</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>3</star_level>
 <country>3</country>
 <attack>64</attack>
@@ -1642,7 +1642,7 @@
 <general>
 <id>456</id>
 <name>张苞</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>3</star_level>
 <country>1</country>
 <attack>74</attack>
@@ -1658,7 +1658,7 @@
 <general>
 <id>93</id>
 <name>糜芳</name>
-<description></description>
+<description>字子方，与兄长糜竺一起追随刘备，后投降吴国。</description>
 <star_level>2</star_level>
 <country>1</country>
 <attack>48</attack>
@@ -1672,7 +1672,7 @@
 <general>
 <id>94</id>
 <name>孙乾</name>
-<description></description>
+<description>刘备谋士，并随刘备转战天下。</description>
 <star_level>2</star_level>
 <country>1</country>
 <attack>34</attack>
@@ -1686,7 +1686,7 @@
 <general>
 <id>95</id>
 <name>简雍</name>
-<description></description>
+<description>字宪和，年少时与刘备相识，便跟随他奔走。</description>
 <star_level>2</star_level>
 <country>1</country>
 <attack>32</attack>
@@ -1700,7 +1700,7 @@
 <general>
 <id>96</id>
 <name>崔琰</name>
-<description></description>
+<description>字季珪，相貌俊美，很有威望，曹操对他也很敬畏。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>40</attack>
@@ -1714,7 +1714,7 @@
 <general>
 <id>97</id>
 <name>关索</name>
-<description></description>
+<description>关羽第三子，在荆州和关羽父子相认。</description>
 <star_level>2</star_level>
 <country>1</country>
 <attack>37</attack>
@@ -1728,7 +1728,7 @@
 <general>
 <id>98</id>
 <name>蒋琬</name>
-<description></description>
+<description>字公琰，辅佐刘禅，总揽蜀汉军朝，统兵御魏。</description>
 <star_level>2</star_level>
 <country>1</country>
 <attack>33</attack>
@@ -1742,7 +1742,7 @@
 <general>
 <id>99</id>
 <name>韩当</name>
-<description></description>
+<description>字义公，长于弓箭、骑术，随孙坚打下江山。</description>
 <star_level>2</star_level>
 <country>2</country>
 <attack>55</attack>
@@ -1756,7 +1756,7 @@
 <general>
 <id>100</id>
 <name>曹豹</name>
-<description></description>
+<description>刘备部下，因怀恨张飞，与吕布密谋夺取了徐州。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>31</attack>
@@ -1770,7 +1770,7 @@
 <general>
 <id>101</id>
 <name>雷铜</name>
-<description></description>
+<description>本为刘璋的部将，后归降刘备。</description>
 <star_level>2</star_level>
 <country>1</country>
 <attack>38</attack>
@@ -1784,7 +1784,7 @@
 <general>
 <id>102</id>
 <name>刘巴</name>
-<description></description>
+<description>字子初，恃才傲物，清廉守己，为蜀中重臣。</description>
 <star_level>2</star_level>
 <country>1</country>
 <attack>50</attack>
@@ -1798,7 +1798,7 @@
 <general>
 <id>103</id>
 <name>刘度</name>
-<description></description>
+<description>零陵太守，不得已而投降刘备。</description>
 <star_level>2</star_level>
 <country>1</country>
 <attack>40</attack>
@@ -1826,7 +1826,7 @@
 <general>
 <id>105</id>
 <name>陈震</name>
-<description></description>
+<description>字孝起，蜀汉大臣，性格忠纯，老而益笃。</description>
 <star_level>2</star_level>
 <country>1</country>
 <attack>39</attack>
@@ -1840,7 +1840,7 @@
 <general>
 <id>106</id>
 <name>费祎</name>
-<description></description>
+<description>蜀汉名臣，与诸葛亮、蒋琬、董允并称为蜀汉四相。</description>
 <star_level>2</star_level>
 <country>1</country>
 <attack>32</attack>
@@ -1854,7 +1854,7 @@
 <general>
 <id>107</id>
 <name>关凤</name>
-<description></description>
+<description>关羽之女，关平、关兴之妹。</description>
 <star_level>2</star_level>
 <country>1</country>
 <attack>42</attack>
@@ -1868,7 +1868,7 @@
 <general>
 <id>108</id>
 <name>王伉</name>
-<description></description>
+<description>永昌太守，和吕凯一起抵御了孟获叛乱时的进攻。</description>
 <star_level>2</star_level>
 <country>1</country>
 <attack>32</attack>
@@ -1882,7 +1882,7 @@
 <general>
 <id>109</id>
 <name>向宠</name>
-<description></description>
+<description>性行淑均，晓畅军事，多次被刘备称赞。</description>
 <star_level>2</star_level>
 <country>1</country>
 <attack>58</attack>
@@ -1896,7 +1896,7 @@
 <general>
 <id>110</id>
 <name>许靖</name>
-<description></description>
+<description>字文休，年轻时即为世人所知。</description>
 <star_level>2</star_level>
 <country>1</country>
 <attack>41</attack>
@@ -1910,7 +1910,7 @@
 <general>
 <id>111</id>
 <name>尹默</name>
-<description></description>
+<description>字思潜，曾远游荆州，通经史，尤精《左氏春秋》。</description>
 <star_level>2</star_level>
 <country>1</country>
 <attack>56</attack>
@@ -1924,7 +1924,7 @@
 <general>
 <id>112</id>
 <name>卞喜</name>
-<description></description>
+<description>善使流星锤，本为黄巾党，后降曹操，汜水关守将。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>50</attack>
@@ -1938,7 +1938,7 @@
 <general>
 <id>113</id>
 <name>蔡和</name>
-<description></description>
+<description>蔡瑁的族弟。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>31</attack>
@@ -1952,7 +1952,7 @@
 <general>
 <id>114</id>
 <name>曹昂</name>
-<description></description>
+<description>字子修，曹操的长子，聪明且性情谦和。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>36</attack>
@@ -1966,7 +1966,7 @@
 <general>
 <id>115</id>
 <name>曹纯</name>
-<description></description>
+<description>字子和，曹仁之弟，为人重纲纪，好学问，敬爱学士。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>33</attack>
@@ -1980,7 +1980,7 @@
 <general>
 <id>116</id>
 <name>曹叡</name>
-<description></description>
+<description>字元仲，曹丕之子，成功防御了吴、蜀的多次攻伐。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>38</attack>
@@ -1994,7 +1994,7 @@
 <general>
 <id>117</id>
 <name>曹熊</name>
-<description></description>
+<description>字子威，曹操之子，早年去世。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>52</attack>
@@ -2008,7 +2008,7 @@
 <general>
 <id>118</id>
 <name>车胄</name>
-<description></description>
+<description>徐州刺史，被刘备袭杀。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>40</attack>
@@ -2022,7 +2022,7 @@
 <general>
 <id>119</id>
 <name>陈群</name>
-<description></description>
+<description>字长文，为人清尚有仪，雅好结友，有知人之明。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>57</attack>
@@ -2036,7 +2036,7 @@
 <general>
 <id>120</id>
 <name>傅巽</name>
-<description></description>
+<description>字公悌，容貌瑰伟，见识博达。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>30</attack>
@@ -2050,7 +2050,7 @@
 <general>
 <id>121</id>
 <name>贾逵</name>
-<description></description>
+<description>字梁道，历仕曹操、曹丕、曹叡三世，文武兼备。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>37</attack>
@@ -2064,7 +2064,7 @@
 <general>
 <id>122</id>
 <name>蒯越</name>
-<description></description>
+<description>字异度，蒯良之弟，刘表病逝后投降曹操。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>31</attack>
@@ -2078,9 +2078,9 @@
 <general>
 <id>123</id>
 <name>刘岱</name>
-<description></description>
+<description>字公山，汉室宗亲，刘舆之子，汉末群雄之一。</description>
 <star_level>2</star_level>
-<country>0</country>
+<country>3</country>
 <attack>45</attack>
 <attack_range>21</attack_range>
 <defense>54</defense>
@@ -2092,7 +2092,7 @@
 <general>
 <id>124</id>
 <name>刘晔</name>
-<description></description>
+<description>字子扬，年少知名，是曹操手下举足轻重的谋士。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>45</attack>
@@ -2106,7 +2106,7 @@
 <general>
 <id>125</id>
 <name>吕旷</name>
-<description></description>
+<description>与吕翔同是袁绍属下，后来投降曹操。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>51</attack>
@@ -2120,7 +2120,7 @@
 <general>
 <id>126</id>
 <name>吕虔</name>
-<description></description>
+<description>字子恪，因有胆识策略出名，被曹操招为从事。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>44</attack>
@@ -2134,7 +2134,7 @@
 <general>
 <id>127</id>
 <name>吕翔</name>
-<description></description>
+<description>与吕旷同是袁绍属下，后来投降曹操。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>59</attack>
@@ -2148,7 +2148,7 @@
 <general>
 <id>128</id>
 <name>牛金</name>
-<description></description>
+<description>初为曹仁部下，后受命大破马岱。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>35</attack>
@@ -2162,7 +2162,7 @@
 <general>
 <id>129</id>
 <name>司马朗</name>
-<description></description>
+<description>字伯达，司马懿的长兄，年少时就表现得很有见识。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>56</attack>
@@ -2176,7 +2176,7 @@
 <general>
 <id>130</id>
 <name>宋宪</name>
-<description></description>
+<description>吕布部将，叛变献城投降曹操，导致吕布被杀。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>48</attack>
@@ -2190,7 +2190,7 @@
 <general>
 <id>131</id>
 <name>孙礼</name>
-<description></description>
+<description>字德达，为人刚毅而有勇略。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>48</attack>
@@ -2204,7 +2204,7 @@
 <general>
 <id>132</id>
 <name>王朗</name>
-<description></description>
+<description>字景兴，高才博雅，而性严整慷慨，多威仪。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>45</attack>
@@ -2218,7 +2218,7 @@
 <general>
 <id>133</id>
 <name>王修</name>
-<description></description>
+<description>字叔治，为人正直，赏罚分明，深得百姓爱戴。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>40</attack>
@@ -2232,7 +2232,7 @@
 <general>
 <id>134</id>
 <name>魏续</name>
-<description></description>
+<description>吕布部将，后来和宋宪、侯成等反叛吕布。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>60</attack>
@@ -2246,7 +2246,7 @@
 <general>
 <id>135</id>
 <name>夏侯恩</name>
-<description></description>
+<description>负责保管曹操的青釭宝剑。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>31</attack>
@@ -2260,7 +2260,7 @@
 <general>
 <id>136</id>
 <name>夏侯楙</name>
-<description></description>
+<description>字子林，名将夏侯惇之子。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>57</attack>
@@ -2274,7 +2274,7 @@
 <general>
 <id>137</id>
 <name>夏侯尚</name>
-<description></description>
+<description>字伯仁，夏侯渊之侄。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>53</attack>
@@ -2288,7 +2288,7 @@
 <general>
 <id>138</id>
 <name>阎圃</name>
-<description></description>
+<description>本为张鲁部下谋士，后随张鲁一同投降曹操。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>33</attack>
@@ -2302,7 +2302,7 @@
 <general>
 <id>139</id>
 <name>臧霸</name>
-<description></description>
+<description>字宣高，勇猛善战，吕布败后，随降曹操。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>57</attack>
@@ -2316,7 +2316,7 @@
 <general>
 <id>140</id>
 <name>朱灵</name>
-<description></description>
+<description>字文博，本是袁绍将领，后归顺曹操，屡建战功。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>51</attack>
@@ -2330,7 +2330,7 @@
 <general>
 <id>141</id>
 <name>辛毗</name>
-<description></description>
+<description>字佐治，曹操久闻辛毗之名，将其归入帐下。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>60</attack>
@@ -2344,7 +2344,7 @@
 <general>
 <id>142</id>
 <name>张仲景</name>
-<description></description>
+<description>字仲景，态度严谨，医德高尚，称为医圣。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>31</attack>
@@ -2358,9 +2358,9 @@
 <general>
 <id>143</id>
 <name>丁封</name>
-<description></description>
+<description>吴国将领，丁奉之弟。</description>
 <star_level>2</star_level>
-<country>0</country>
+<country>2</country>
 <attack>48</attack>
 <attack_range>30</attack_range>
 <defense>34</defense>
@@ -2372,7 +2372,7 @@
 <general>
 <id>144</id>
 <name>董袭</name>
-<description></description>
+<description>字元代，身长八尺，武力过人，吴国虎臣。</description>
 <star_level>2</star_level>
 <country>2</country>
 <attack>52</attack>
@@ -2386,7 +2386,7 @@
 <general>
 <id>145</id>
 <name>傅婴</name>
-<description></description>
+<description>孙翊心腹，与孙高一起将杀害孙翊的元凶斩杀。</description>
 <star_level>2</star_level>
 <country>2</country>
 <attack>59</attack>
@@ -2400,7 +2400,7 @@
 <general>
 <id>146</id>
 <name>黄权</name>
-<description></description>
+<description>字公衡，刘备部下，后不得已率众归降于魏。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>48</attack>
@@ -2414,7 +2414,7 @@
 <general>
 <id>147</id>
 <name>凌操</name>
-<description></description>
+<description>凌统之父，为人侠义有胆气，常作为先锋出战。</description>
 <star_level>2</star_level>
 <country>2</country>
 <attack>45</attack>
@@ -2428,7 +2428,7 @@
 <general>
 <id>148</id>
 <name>陆绩</name>
-<description></description>
+<description>字公纪，博学多识，通晓天文、历算。</description>
 <star_level>2</star_level>
 <country>2</country>
 <attack>44</attack>
@@ -2442,7 +2442,7 @@
 <general>
 <id>149</id>
 <name>陆凯</name>
-<description></description>
+<description>字敬风，陆逊族子,正直无畏,屡次劝谏孙皓而闻名。</description>
 <star_level>2</star_level>
 <country>2</country>
 <attack>55</attack>
@@ -2456,7 +2456,7 @@
 <general>
 <id>150</id>
 <name>陆抗</name>
-<description></description>
+<description>字幼节，陆逊次子，孙策外孙。</description>
 <star_level>2</star_level>
 <country>2</country>
 <attack>40</attack>
@@ -2470,7 +2470,7 @@
 <general>
 <id>151</id>
 <name>鲍忠</name>
-<description></description>
+<description>字叔义，孙坚部下，后被华雄斩杀。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>36</attack>
@@ -2484,7 +2484,7 @@
 <general>
 <id>152</id>
 <name>毕岚</name>
-<description></description>
+<description>东汉宦官，十常侍之一。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>30</attack>
@@ -2498,7 +2498,7 @@
 <general>
 <id>153</id>
 <name>边让</name>
-<description></description>
+<description>字文礼，少辩博，能属文。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>50</attack>
@@ -2512,7 +2512,7 @@
 <general>
 <id>154</id>
 <name>蔡阳</name>
-<description></description>
+<description>曹操部将，率兵追袭关羽结果被斩杀。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>35</attack>
@@ -2526,7 +2526,7 @@
 <general>
 <id>155</id>
 <name>蔡邕</name>
-<description></description>
+<description>博学多识，擅长辞章，并精通音律。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>42</attack>
@@ -2540,7 +2540,7 @@
 <general>
 <id>156</id>
 <name>曹安民</name>
-<description></description>
+<description>曹操侄子，张绣夜袭曹操营寨时战死。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>55</attack>
@@ -2554,7 +2554,7 @@
 <general>
 <id>157</id>
 <name>曹节</name>
-<description></description>
+<description>字汉丰，东汉大宦官。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>49</attack>
@@ -2568,7 +2568,7 @@
 <general>
 <id>158</id>
 <name>曹嵩</name>
-<description></description>
+<description>字巨高，曹操的父亲，性情敦厚，为人忠孝。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>60</attack>
@@ -2582,7 +2582,7 @@
 <general>
 <id>159</id>
 <name>曹性</name>
-<description></description>
+<description>吕布部将，战中暗放冷箭射中夏侯惇左眼。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>49</attack>
@@ -2595,8 +2595,8 @@
 </general>
 <general>
 <id>160</id>
-<name>岑壁</name>
-<description></description>
+<name>岑璧</name>
+<description>袁谭部将，被袁尚大将吕旷斩于马下。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>56</attack>
@@ -2609,10 +2609,10 @@
 </general>
 <general>
 <id>161</id>
-<name>昌稀</name>
-<description></description>
+<name>昌豨</name>
+<description>反复无常，屡次叛乱，最后被于禁率兵击杀。</description>
 <star_level>2</star_level>
-<country>3</country>
+<country>0</country>
 <attack>60</attack>
 <attack_range>24</attack_range>
 <defense>31</defense>
@@ -2624,7 +2624,7 @@
 <general>
 <id>162</id>
 <name>陈耽</name>
-<description></description>
+<description>字汉公，以忠著称，遭十常侍谋杀。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>47</attack>
@@ -2638,7 +2638,7 @@
 <general>
 <id>163</id>
 <name>陈登</name>
-<description></description>
+<description>字元龙，机敏高爽，博览载籍，雅有文艺。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>45</attack>
@@ -2651,7 +2651,7 @@
 </general>
 <general>
 <id>164</id>
-<name>陈芬</name>
+<name>？？？</name>
 <description></description>
 <star_level>2</star_level>
 <country>3</country>
@@ -2666,9 +2666,9 @@
 <general>
 <id>165</id>
 <name>陈珪</name>
-<description></description>
+<description>字汉瑜，陈登之父，作为内应反叛吕布。</description>
 <star_level>2</star_level>
-<country>0</country>
+<country>3</country>
 <attack>44</attack>
 <attack_range>8</attack_range>
 <defense>49</defense>
@@ -2680,7 +2680,7 @@
 <general>
 <id>166</id>
 <name>陈横</name>
-<description></description>
+<description>扬州刺史刘繇的部将。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>44</attack>
@@ -2694,7 +2694,7 @@
 <general>
 <id>167</id>
 <name>陈纪</name>
-<description></description>
+<description>袁术部将，寿春之战中战败，被曹操斩首。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>58</attack>
@@ -2708,7 +2708,7 @@
 <general>
 <id>168</id>
 <name>陈兰</name>
-<description></description>
+<description>袁术部将，后反叛袁术，落草为寇。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>59</attack>
@@ -2722,7 +2722,7 @@
 <general>
 <id>169</id>
 <name>陈生</name>
-<description></description>
+<description>刘表部将黄祖旗下。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>35</attack>
@@ -2736,7 +2736,7 @@
 <general>
 <id>170</id>
 <name>陈武</name>
-<description></description>
+<description>字子烈，仁厚好施，屡建战功，备受敬重。</description>
 <star_level>2</star_level>
 <country>2</country>
 <attack>32</attack>
@@ -2750,7 +2750,7 @@
 <general>
 <id>171</id>
 <name>成廉</name>
-<description></description>
+<description>吕布亲近骁将。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>52</attack>
@@ -2764,7 +2764,7 @@
 <general>
 <id>172</id>
 <name>程旷</name>
-<description></description>
+<description>东汉宦官，十常侍之一。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>48</attack>
@@ -2778,7 +2778,7 @@
 <general>
 <id>174</id>
 <name>程远志</name>
-<description></description>
+<description>黄巾军将领，统兵五万进犯涿郡。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>45</attack>
@@ -2792,7 +2792,7 @@
 <general>
 <id>175</id>
 <name>淳于琼</name>
-<description></description>
+<description>字仲简，袁绍部将，整日酗酒导致乌巢失守。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>58</attack>
@@ -2806,7 +2806,7 @@
 <general>
 <id>176</id>
 <name>崔烈</name>
-<description></description>
+<description>字威考，城门校尉。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>37</attack>
@@ -2820,7 +2820,7 @@
 <general>
 <id>177</id>
 <name>崔毅</name>
-<description></description>
+<description>崔烈之弟，十常侍之乱时逃难隐居。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>57</attack>
@@ -2834,7 +2834,7 @@
 <general>
 <id>178</id>
 <name>崔勇</name>
-<description></description>
+<description>董卓手下大将郭汜的部将。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>38</attack>
@@ -2848,7 +2848,7 @@
 <general>
 <id>179</id>
 <name>邓茂</name>
-<description></description>
+<description>黄巾军将领，为程远志副将。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>60</attack>
@@ -2862,7 +2862,7 @@
 <general>
 <id>180</id>
 <name>典满</name>
-<description></description>
+<description>典韦之子。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>44</attack>
@@ -2876,7 +2876,7 @@
 <general>
 <id>181</id>
 <name>丁管</name>
-<description></description>
+<description>字元雄，东汉尚书，直斥董卓而被杀害。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>60</attack>
@@ -2890,7 +2890,7 @@
 <general>
 <id>183</id>
 <name>董承</name>
-<description></description>
+<description>汉献帝的岳父，董贵妃的父亲。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>36</attack>
@@ -2904,7 +2904,7 @@
 <general>
 <id>184</id>
 <name>董贵妃</name>
-<description></description>
+<description>汉献帝刘协妃嫔之一。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>49</attack>
@@ -2918,7 +2918,7 @@
 <general>
 <id>185</id>
 <name>董璜</name>
-<description></description>
+<description>董卓之侄，随董卓起兵。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>55</attack>
@@ -2932,7 +2932,7 @@
 <general>
 <id>186</id>
 <name>董旻</name>
-<description></description>
+<description>字叔颖，董卓之弟，随董卓趁乱进京。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>36</attack>
@@ -2946,7 +2946,7 @@
 <general>
 <id>187</id>
 <name>董太后</name>
-<description></description>
+<description>汉灵帝刘宏的生母。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>48</attack>
@@ -2960,7 +2960,7 @@
 <general>
 <id>188</id>
 <name>董昭</name>
-<description></description>
+<description>字公仁，曹操的谋士，深受曹操信赖。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>33</attack>
@@ -2974,7 +2974,7 @@
 <general>
 <id>189</id>
 <name>董重</name>
-<description></description>
+<description>董太后的侄子。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>38</attack>
@@ -2988,7 +2988,7 @@
 <general>
 <id>190</id>
 <name>杜远</name>
-<description></description>
+<description>黄巾将领，后于廖化落草为寇。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>57</attack>
@@ -3002,7 +3002,7 @@
 <general>
 <id>191</id>
 <name>段珪</name>
-<description></description>
+<description>东汉宦官，十常侍之一。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>35</attack>
@@ -3016,7 +3016,7 @@
 <general>
 <id>192</id>
 <name>段煨</name>
-<description></description>
+<description>字忠明，生性多疑，东汉太尉。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>45</attack>
@@ -3030,7 +3030,7 @@
 <general>
 <id>193</id>
 <name>樊稠</name>
-<description></description>
+<description>董卓的部下。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>58</attack>
@@ -3044,7 +3044,7 @@
 <general>
 <id>194</id>
 <name>樊能</name>
-<description></description>
+<description>刘繇部将。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>40</attack>
@@ -3058,7 +3058,7 @@
 <general>
 <id>195</id>
 <name>方悦</name>
-<description></description>
+<description>河内太守王匡部将。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>54</attack>
@@ -3072,7 +3072,7 @@
 <general>
 <id>197</id>
 <name>伏德</name>
-<description></description>
+<description>伏完之子，伏皇后的兄长。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>51</attack>
@@ -3086,7 +3086,7 @@
 <general>
 <id>198</id>
 <name>伏皇后</name>
-<description></description>
+<description>伏完之女，汉献帝刘协的皇后。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>33</attack>
@@ -3100,7 +3100,7 @@
 <general>
 <id>199</id>
 <name>士兵</name>
-<description></description>
+<description>从民间招募的士兵。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>41</attack>
@@ -3114,7 +3114,7 @@
 <general>
 <id>200</id>
 <name>伏完</name>
-<description></description>
+<description>伏皇后之父，沉深有大度。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>48</attack>
@@ -3128,7 +3128,7 @@
 <general>
 <id>201</id>
 <name>甘夫人</name>
-<description></description>
+<description>刘备的妻子，刘禅的母亲。</description>
 <star_level>2</star_level>
 <country>1</country>
 <attack>57</attack>
@@ -3142,7 +3142,7 @@
 <general>
 <id>202</id>
 <name>高干</name>
-<description></description>
+<description>字元才，通晓文事武略，声望颇高。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>38</attack>
@@ -3156,7 +3156,7 @@
 <general>
 <id>203</id>
 <name>高览</name>
-<description></description>
+<description>袁绍部将，后与张郃一同投降曹操。</description>
 <star_level>2</star_level>
 <country>0</country>
 <attack>30</attack>
@@ -3170,7 +3170,7 @@
 <general>
 <id>204</id>
 <name>高升</name>
-<description></description>
+<description>黄巾军将领。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>52</attack>
@@ -3184,7 +3184,7 @@
 <general>
 <id>205</id>
 <name>高望</name>
-<description></description>
+<description>东汉宦官，十常侍之一。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>30</attack>
@@ -3198,7 +3198,7 @@
 <general>
 <id>206</id>
 <name>耿武</name>
-<description></description>
+<description>字文威，韩馥部将。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>51</attack>
@@ -3212,9 +3212,9 @@
 <general>
 <id>207</id>
 <name>公孙恭</name>
-<description></description>
+<description>辽东太守，公孙度次子，公孙康之弟。</description>
 <star_level>2</star_level>
-<country>0</country>
+<country>3</country>
 <attack>46</attack>
 <attack_range>16</attack_range>
 <defense>54</defense>
@@ -3226,7 +3226,7 @@
 <general>
 <id>208</id>
 <name>公孙康</name>
-<description></description>
+<description>辽东太守公孙度的儿子。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>54</attack>
@@ -3240,7 +3240,7 @@
 <general>
 <id>209</id>
 <name>公孙越</name>
-<description></description>
+<description>公孙瓒之弟。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>35</attack>
@@ -3254,7 +3254,7 @@
 <general>
 <id>210</id>
 <name>公孙瓒</name>
-<description></description>
+<description>字伯珪，貌美，声音洪亮，机智善辩，群雄之一。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>43</attack>
@@ -3268,7 +3268,7 @@
 <general>
 <id>211</id>
 <name>龚都</name>
-<description></description>
+<description>黄巾军将领。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>36</attack>
@@ -3282,7 +3282,7 @@
 <general>
 <id>212</id>
 <name>龚景</name>
-<description></description>
+<description>青州太守，曾发文向刘焉求救。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>37</attack>
@@ -3296,7 +3296,7 @@
 <general>
 <id>213</id>
 <name>顾雍</name>
-<description></description>
+<description>字元叹，吴国重臣，才思敏捷，心静专一。</description>
 <star_level>2</star_level>
 <country>2</country>
 <attack>35</attack>
@@ -3310,7 +3310,7 @@
 <general>
 <id>214</id>
 <name>关纯</name>
-<description></description>
+<description>韩馥的部下。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>53</attack>
@@ -3324,7 +3324,7 @@
 <general>
 <id>215</id>
 <name>关定</name>
-<description></description>
+<description>关平生父，后令关平拜关羽为义父。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>34</attack>
@@ -3338,9 +3338,9 @@
 <general>
 <id>216</id>
 <name>关宁</name>
-<description></description>
+<description>关定长子，关平之兄。</description>
 <star_level>2</star_level>
-<country>1</country>
+<country>3</country>
 <attack>56</attack>
 <attack_range>10</attack_range>
 <defense>26</defense>
@@ -3352,7 +3352,7 @@
 <general>
 <id>217</id>
 <name>管亥</name>
-<description>here</description>
+<description>黄巾军将领。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>53</attack>
@@ -3366,7 +3366,7 @@
 <general>
 <id>218</id>
 <name>郭常</name>
-<description></description>
+<description>关羽过五关斩六将之后，曾经寄宿在郭常家。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>51</attack>
@@ -3380,7 +3380,7 @@
 <general>
 <id>219</id>
 <name>郭胜</name>
-<description></description>
+<description>东汉宦官，十常侍之一。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>48</attack>
@@ -3394,7 +3394,7 @@
 <general>
 <id>220</id>
 <name>郭汜</name>
-<description></description>
+<description>董卓的部下，反攻长安成功后把持朝廷大权。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>57</attack>
@@ -3408,7 +3408,7 @@
 <general>
 <id>221</id>
 <name>郭图</name>
-<description></description>
+<description>字公则，袁绍帐下谋士。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>44</attack>
@@ -3422,7 +3422,7 @@
 <general>
 <id>222</id>
 <name>韩福</name>
-<description></description>
+<description>洛阳太守。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>53</attack>
@@ -3436,7 +3436,7 @@
 <general>
 <id>223</id>
 <name>韩馥</name>
-<description></description>
+<description>字文节，不敢交战，被袁绍夺取了冀州。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>50</attack>
@@ -3450,7 +3450,7 @@
 <general>
 <id>224</id>
 <name>韩珩</name>
-<description></description>
+<description>字子佩，袁绍的部将。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>50</attack>
@@ -3464,7 +3464,7 @@
 <general>
 <id>225</id>
 <name>韩莒子</name>
-<description></description>
+<description>淳于琼部下的督将。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>32</attack>
@@ -3478,7 +3478,7 @@
 <general>
 <id>226</id>
 <name>韩悝</name>
-<description></description>
+<description>东汉宦官，十常侍之一。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>45</attack>
@@ -3492,7 +3492,7 @@
 <general>
 <id>227</id>
 <name>韩猛</name>
-<description></description>
+<description>袁绍手下大将，运粮时被曹军所截。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>44</attack>
@@ -3506,7 +3506,7 @@
 <general>
 <id>228</id>
 <name>韩融</name>
-<description></description>
+<description>东汉太仆。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>36</attack>
@@ -3520,7 +3520,7 @@
 <general>
 <id>229</id>
 <name>韩遂</name>
-<description></description>
+<description>字文约，与马腾结为异姓兄弟，同镇西凉。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>41</attack>
@@ -3534,7 +3534,7 @@
 <general>
 <id>230</id>
 <name>韩暹</name>
-<description></description>
+<description>东汉官吏。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>49</attack>
@@ -3548,7 +3548,7 @@
 <general>
 <id>231</id>
 <name>韩胤</name>
-<description></description>
+<description>袁术部下，曾往徐州和吕布求亲说媒。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>50</attack>
@@ -3562,7 +3562,7 @@
 <general>
 <id>232</id>
 <name>韩忠</name>
-<description></description>
+<description>黄巾军将领。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>55</attack>
@@ -3576,7 +3576,7 @@
 <general>
 <id>233</id>
 <name>郝萌</name>
-<description></description>
+<description>吕布部将。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>33</attack>
@@ -3590,7 +3590,7 @@
 <general>
 <id>234</id>
 <name>何进</name>
-<description></description>
+<description>字遂高，何太后之兄，以外戚身份入仕。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>52</attack>
@@ -3604,7 +3604,7 @@
 <general>
 <id>235</id>
 <name>何曼</name>
-<description></description>
+<description>黄巾军将领。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>49</attack>
@@ -3618,7 +3618,7 @@
 <general>
 <id>236</id>
 <name>何苗</name>
-<description></description>
+<description>何进之弟，何太后之兄。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>44</attack>
@@ -3632,7 +3632,7 @@
 <general>
 <id>237</id>
 <name>何太后</name>
-<description></description>
+<description>刘辩之母，天生丽质，性情强忌。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>33</attack>
@@ -3646,7 +3646,7 @@
 <general>
 <id>238</id>
 <name>何仪</name>
-<description></description>
+<description>黄巾军将领。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>53</attack>
@@ -3660,7 +3660,7 @@
 <general>
 <id>239</id>
 <name>何顒</name>
-<description></description>
+<description>东汉士大夫。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>50</attack>
@@ -3674,7 +3674,7 @@
 <general>
 <id>240</id>
 <name>侯成</name>
-<description></description>
+<description>吕布部将，后率众投降曹操。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>54</attack>
@@ -3688,7 +3688,7 @@
 <general>
 <id>241</id>
 <name>侯览</name>
-<description></description>
+<description>东汉宦官。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>58</attack>
@@ -3702,7 +3702,7 @@
 <general>
 <id>242</id>
 <name>胡班</name>
-<description></description>
+<description>荥阳太守王植麾下，后投奔关羽。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>52</attack>
@@ -3716,7 +3716,7 @@
 <general>
 <id>243</id>
 <name>胡才</name>
-<description></description>
+<description>杨奉部将。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>38</attack>
@@ -3730,7 +3730,7 @@
 <general>
 <id>244</id>
 <name>胡车儿</name>
-<description></description>
+<description>张绣的部下，能负五百斤，日行七百里。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>46</attack>
@@ -3744,7 +3744,7 @@
 <general>
 <id>245</id>
 <name>胡赤儿</name>
-<description></description>
+<description>董卓女婿牛辅的心腹，因谋财将牛辅杀害。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>55</attack>
@@ -3758,7 +3758,7 @@
 <general>
 <id>246</id>
 <name>胡华</name>
-<description></description>
+<description>关羽曾投宿其庄上，并为他递送写给儿子的家书。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>45</attack>
@@ -3772,7 +3772,7 @@
 <general>
 <id>247</id>
 <name>胡邈</name>
-<description></description>
+<description>东汉侍中。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>60</attack>
@@ -3786,7 +3786,7 @@
 <general>
 <id>248</id>
 <name>胡轸</name>
-<description></description>
+<description>字文才，董卓部将。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>60</attack>
@@ -3800,9 +3800,9 @@
 <general>
 <id>249</id>
 <name>华歆</name>
-<description></description>
+<description>字子鱼，魏国重臣，始终廉洁自奉。</description>
 <star_level>2</star_level>
-<country>3</country>
+<country>0</country>
 <attack>50</attack>
 <attack_range>3</attack_range>
 <defense>38</defense>
@@ -3814,9 +3814,9 @@
 <general>
 <id>250</id>
 <name>桓阶</name>
-<description></description>
+<description>字伯绪，先事孙坚，后被曹操招至帐下。</description>
 <star_level>2</star_level>
-<country>3</country>
+<country>0</country>
 <attack>43</attack>
 <attack_range>3</attack_range>
 <defense>49</defense>
@@ -3828,7 +3828,7 @@
 <general>
 <id>251</id>
 <name>皇甫郦</name>
-<description></description>
+<description>皇甫嵩之子。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>49</attack>
@@ -3842,7 +3842,7 @@
 <general>
 <id>252</id>
 <name>皇甫嵩</name>
-<description></description>
+<description>字义真，黄巾起义爆发时，与朱儁率军镇压起义军。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>32</attack>
@@ -3856,7 +3856,7 @@
 <general>
 <id>253</id>
 <name>黄劭</name>
-<description></description>
+<description>黄巾军将领。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>39</attack>
@@ -3870,7 +3870,7 @@
 <general>
 <id>254</id>
 <name>黄琬</name>
-<description></description>
+<description>字子琰，曾与司徒王允同谋诛杀董卓。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>41</attack>
@@ -3884,7 +3884,7 @@
 <general>
 <id>255</id>
 <name>黄祖</name>
-<description></description>
+<description>刘表部下的江夏太守。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>57</attack>
@@ -3898,7 +3898,7 @@
 <general>
 <id>256</id>
 <name>吉平</name>
-<description></description>
+<description>字称平，东汉太医，欲投毒曹操，反被杀害。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>34</attack>
@@ -3912,7 +3912,7 @@
 <general>
 <id>257</id>
 <name>纪灵</name>
-<description></description>
+<description>袁术帐下将领，勇猛非常。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>44</attack>
@@ -3926,7 +3926,7 @@
 <general>
 <id>258</id>
 <name>蹇硕</name>
-<description></description>
+<description>东汉宦官，壮健而有武略。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>51</attack>
@@ -3940,7 +3940,7 @@
 <general>
 <id>259</id>
 <name>蒋奇</name>
-<description></description>
+<description>袁绍麾下战将。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>31</attack>
@@ -3954,9 +3954,9 @@
 <general>
 <id>260</id>
 <name>蒋钦</name>
-<description></description>
+<description>字公奕，吴国名将，轻财约俭，忠心耿耿。</description>
 <star_level>2</star_level>
-<country>3</country>
+<country>2</country>
 <attack>52</attack>
 <attack_range>25</attack_range>
 <defense>48</defense>
@@ -3968,7 +3968,7 @@
 <general>
 <id>261</id>
 <name>蒋义</name>
-<description></description>
+<description>袁绍麾下战将。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>42</attack>
@@ -3982,7 +3982,7 @@
 <general>
 <id>262</id>
 <name>焦触</name>
-<description></description>
+<description>袁绍部将，袁绍死后不久投降曹操。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>48</attack>
@@ -3996,7 +3996,7 @@
 <general>
 <id>263</id>
 <name>金尚</name>
-<description></description>
+<description>字元休，兖州刺史。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>39</attack>
@@ -4010,7 +4010,7 @@
 <general>
 <id>264</id>
 <name>沮鹄</name>
-<description></description>
+<description>袁尚的部将，沮授之子。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>31</attack>
@@ -4024,7 +4024,7 @@
 <general>
 <id>265</id>
 <name>沮授</name>
-<description></description>
+<description>字公与，袁绍手下谋士，常献良谋，但多不被采纳。</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>46</attack>
@@ -4038,7 +4038,7 @@
 <general>
 <id>266</id>
 <name>孔融</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>49</attack>
@@ -4052,7 +4052,7 @@
 <general>
 <id>267</id>
 <name>孔秀</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>55</attack>
@@ -4066,7 +4066,7 @@
 <general>
 <id>268</id>
 <name>孔伷</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>38</attack>
@@ -4080,7 +4080,7 @@
 <general>
 <id>269</id>
 <name>蒯良</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>48</attack>
@@ -4094,7 +4094,7 @@
 <general>
 <id>270</id>
 <name>乐就</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>58</attack>
@@ -4108,7 +4108,7 @@
 <general>
 <id>271</id>
 <name>雷薄</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>42</attack>
@@ -4122,7 +4122,7 @@
 <general>
 <id>272</id>
 <name>雷叙</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>55</attack>
@@ -4136,7 +4136,7 @@
 <general>
 <id>273</id>
 <name>李别</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>33</attack>
@@ -4150,7 +4150,7 @@
 <general>
 <id>274</id>
 <name>李丰</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>44</attack>
@@ -4164,7 +4164,7 @@
 <general>
 <id>275</id>
 <name>李封</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>54</attack>
@@ -4178,7 +4178,7 @@
 <general>
 <id>276</id>
 <name>李孚</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>60</attack>
@@ -4192,7 +4192,7 @@
 <general>
 <id>277</id>
 <name>李傕</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>54</attack>
@@ -4206,7 +4206,7 @@
 <general>
 <id>278</id>
 <name>李乐</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>52</attack>
@@ -4220,7 +4220,7 @@
 <general>
 <id>279</id>
 <name>李蒙</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>37</attack>
@@ -4234,7 +4234,7 @@
 <general>
 <id>280</id>
 <name>李儒</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>53</attack>
@@ -4248,7 +4248,7 @@
 <general>
 <id>281</id>
 <name>李肃</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>43</attack>
@@ -4262,7 +4262,7 @@
 <general>
 <id>282</id>
 <name>李通</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>44</attack>
@@ -4276,7 +4276,7 @@
 <general>
 <id>283</id>
 <name>李暹</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>51</attack>
@@ -4290,7 +4290,7 @@
 <general>
 <id>284</id>
 <name>栗嵩</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>46</attack>
@@ -4304,7 +4304,7 @@
 <general>
 <id>285</id>
 <name>梁刚</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>53</attack>
@@ -4318,7 +4318,7 @@
 <general>
 <id>286</id>
 <name>灵帝</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>51</attack>
@@ -4332,7 +4332,7 @@
 <general>
 <id>287</id>
 <name>刘安</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>35</attack>
@@ -4346,7 +4346,7 @@
 <general>
 <id>288</id>
 <name>刘辩</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>53</attack>
@@ -4360,7 +4360,7 @@
 <general>
 <id>289</id>
 <name>刘范</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>59</attack>
@@ -4374,7 +4374,7 @@
 <general>
 <id>290</id>
 <name>刘夫人</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>43</attack>
@@ -4388,7 +4388,7 @@
 <general>
 <id>291</id>
 <name>刘恢</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>40</attack>
@@ -4402,7 +4402,7 @@
 <general>
 <id>292</id>
 <name>刘辟</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>31</attack>
@@ -4416,7 +4416,7 @@
 <general>
 <id>293</id>
 <name>刘陶</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>49</attack>
@@ -4430,7 +4430,7 @@
 <general>
 <id>294</id>
 <name>刘琬</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>52</attack>
@@ -4444,7 +4444,7 @@
 <general>
 <id>295</id>
 <name>刘协</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>35</attack>
@@ -4458,7 +4458,7 @@
 <general>
 <id>296</id>
 <name>刘焉</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>35</attack>
@@ -4472,7 +4472,7 @@
 <general>
 <id>297</id>
 <name>刘延</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>54</attack>
@@ -4486,7 +4486,7 @@
 <general>
 <id>298</id>
 <name>刘繇</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>58</attack>
@@ -4500,7 +4500,7 @@
 <general>
 <id>299</id>
 <name>刘虞</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>39</attack>
@@ -4514,7 +4514,7 @@
 <general>
 <id>300</id>
 <name>卢植</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>30</attack>
@@ -4528,7 +4528,7 @@
 <general>
 <id>301</id>
 <name>胪周奂</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>43</attack>
@@ -4542,7 +4542,7 @@
 <general>
 <id>302</id>
 <name>鲁馗</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>30</attack>
@@ -4556,7 +4556,7 @@
 <general>
 <id>303</id>
 <name>路昭</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>31</attack>
@@ -4570,7 +4570,7 @@
 <general>
 <id>304</id>
 <name>吕伯奢</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>47</attack>
@@ -4584,7 +4584,7 @@
 <general>
 <id>305</id>
 <name>吕范</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>59</attack>
@@ -4598,7 +4598,7 @@
 <general>
 <id>306</id>
 <name>吕公</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>53</attack>
@@ -4612,7 +4612,7 @@
 <general>
 <id>307</id>
 <name>吕婉君</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>46</attack>
@@ -4626,7 +4626,7 @@
 <general>
 <id>308</id>
 <name>吕威璜</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>42</attack>
@@ -4640,7 +4640,7 @@
 <general>
 <id>309</id>
 <name>马日磾</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>40</attack>
@@ -4654,7 +4654,7 @@
 <general>
 <id>310</id>
 <name>马延</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>34</attack>
@@ -4668,7 +4668,7 @@
 <general>
 <id>311</id>
 <name>马宇</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>55</attack>
@@ -4682,7 +4682,7 @@
 <general>
 <id>312</id>
 <name>满宠</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>46</attack>
@@ -4696,7 +4696,7 @@
 <general>
 <id>313</id>
 <name>毛玠</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>44</attack>
@@ -4710,7 +4710,7 @@
 <general>
 <id>314</id>
 <name>孟坦</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>39</attack>
@@ -4724,7 +4724,7 @@
 <general>
 <id>315</id>
 <name>糜夫人</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>51</attack>
@@ -4738,7 +4738,7 @@
 <general>
 <id>316</id>
 <name>糜竺</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>35</attack>
@@ -4752,7 +4752,7 @@
 <general>
 <id>317</id>
 <name>闵贡</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>46</attack>
@@ -4766,7 +4766,7 @@
 <general>
 <id>457</id>
 <name>张梁</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>2</star_level>
 <country>3</country>
 <attack>21</attack>
@@ -4782,7 +4782,7 @@
 <general>
 <id>318</id>
 <name>穆顺</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>49</attack>
@@ -4796,7 +4796,7 @@
 <general>
 <id>319</id>
 <name>牛辅</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>28</attack>
@@ -4810,7 +4810,7 @@
 <general>
 <id>320</id>
 <name>潘凤</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>24</attack>
@@ -4824,7 +4824,7 @@
 <general>
 <id>321</id>
 <name>潘隐</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>50</attack>
@@ -4838,7 +4838,7 @@
 <general>
 <id>322</id>
 <name>裴元绍</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>24</attack>
@@ -4852,7 +4852,7 @@
 <general>
 <id>323</id>
 <name>彭伯</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>44</attack>
@@ -4866,7 +4866,7 @@
 <general>
 <id>324</id>
 <name>乔夫人</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>25</attack>
@@ -4880,7 +4880,7 @@
 <general>
 <id>325</id>
 <name>乔瑁</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>48</attack>
@@ -4894,7 +4894,7 @@
 <general>
 <id>326</id>
 <name>桥蕤</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>32</attack>
@@ -4908,7 +4908,7 @@
 <general>
 <id>327</id>
 <name>秦琪</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>46</attack>
@@ -4922,7 +4922,7 @@
 <general>
 <id>328</id>
 <name>秦庆童</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>43</attack>
@@ -4936,7 +4936,7 @@
 <general>
 <id>329</id>
 <name>麴义</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>36</attack>
@@ -4950,7 +4950,7 @@
 <general>
 <id>330</id>
 <name>尚弘</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>46</attack>
@@ -4964,7 +4964,7 @@
 <general>
 <id>331</id>
 <name>审荣</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>24</attack>
@@ -4978,7 +4978,7 @@
 <general>
 <id>332</id>
 <name>史涣</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>42</attack>
@@ -4992,7 +4992,7 @@
 <general>
 <id>333</id>
 <name>宋典</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>41</attack>
@@ -5006,7 +5006,7 @@
 <general>
 <id>334</id>
 <name>宋果</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>20</attack>
@@ -5020,7 +5020,7 @@
 <general>
 <id>335</id>
 <name>苏双</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>37</attack>
@@ -5034,7 +5034,7 @@
 <general>
 <id>336</id>
 <name>眭固</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>32</attack>
@@ -5048,7 +5048,7 @@
 <general>
 <id>337</id>
 <name>眭元进</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>27</attack>
@@ -5062,7 +5062,7 @@
 <general>
 <id>338</id>
 <name>孙观</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>39</attack>
@@ -5076,7 +5076,7 @@
 <general>
 <id>339</id>
 <name>孙静</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>38</attack>
@@ -5090,7 +5090,7 @@
 <general>
 <id>340</id>
 <name>孙匡</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>33</attack>
@@ -5104,7 +5104,7 @@
 <general>
 <id>341</id>
 <name>孙瑞</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>32</attack>
@@ -5118,7 +5118,7 @@
 <general>
 <id>342</id>
 <name>孙璋</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>31</attack>
@@ -5132,7 +5132,7 @@
 <general>
 <id>343</id>
 <name>孙仲</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>34</attack>
@@ -5146,7 +5146,7 @@
 <general>
 <id>344</id>
 <name>唐妃</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>31</attack>
@@ -5160,7 +5160,7 @@
 <general>
 <id>345</id>
 <name>陶谦</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>21</attack>
@@ -5174,7 +5174,7 @@
 <general>
 <id>346</id>
 <name>田畴</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>20</attack>
@@ -5188,7 +5188,7 @@
 <general>
 <id>347</id>
 <name>田楷</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>39</attack>
@@ -5202,7 +5202,7 @@
 <general>
 <id>348</id>
 <name>汪昭</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>23</attack>
@@ -5216,7 +5216,7 @@
 <general>
 <id>349</id>
 <name>王昌</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>21</attack>
@@ -5230,7 +5230,7 @@
 <general>
 <id>350</id>
 <name>王方</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>29</attack>
@@ -5244,7 +5244,7 @@
 <general>
 <id>351</id>
 <name>王垕</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>21</attack>
@@ -5258,7 +5258,7 @@
 <general>
 <id>352</id>
 <name>王楷</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>48</attack>
@@ -5272,7 +5272,7 @@
 <general>
 <id>353</id>
 <name>王匡</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>40</attack>
@@ -5286,7 +5286,7 @@
 <general>
 <id>354</id>
 <name>王美人</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>28</attack>
@@ -5300,7 +5300,7 @@
 <general>
 <id>355</id>
 <name>王颀</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>43</attack>
@@ -5314,7 +5314,7 @@
 <general>
 <id>356</id>
 <name>王琰</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>29</attack>
@@ -5328,7 +5328,7 @@
 <general>
 <id>357</id>
 <name>王植</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>27</attack>
@@ -5342,7 +5342,7 @@
 <general>
 <id>358</id>
 <name>王忠</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>36</attack>
@@ -5356,7 +5356,7 @@
 <general>
 <id>359</id>
 <name>王子服</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>27</attack>
@@ -5370,7 +5370,7 @@
 <general>
 <id>360</id>
 <name>卫弘</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>30</attack>
@@ -5384,7 +5384,7 @@
 <general>
 <id>361</id>
 <name>乌桓触</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>38</attack>
@@ -5398,7 +5398,7 @@
 <general>
 <id>362</id>
 <name>吴敦</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>40</attack>
@@ -5412,7 +5412,7 @@
 <general>
 <id>363</id>
 <name>吴匡</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>31</attack>
@@ -5426,7 +5426,7 @@
 <general>
 <id>364</id>
 <name>吴硕</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>25</attack>
@@ -5440,7 +5440,7 @@
 <general>
 <id>365</id>
 <name>吴太夫人</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>45</attack>
@@ -5454,7 +5454,7 @@
 <general>
 <id>366</id>
 <name>吴子兰</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>30</attack>
@@ -5468,7 +5468,7 @@
 <general>
 <id>367</id>
 <name>伍孚</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>38</attack>
@@ -5482,7 +5482,7 @@
 <general>
 <id>368</id>
 <name>伍琼</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>31</attack>
@@ -5496,7 +5496,7 @@
 <general>
 <id>369</id>
 <name>伍习</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>48</attack>
@@ -5510,7 +5510,7 @@
 <general>
 <id>370</id>
 <name>武安国</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>44</attack>
@@ -5524,7 +5524,7 @@
 <general>
 <id>371</id>
 <name>夏恽</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>29</attack>
@@ -5538,7 +5538,7 @@
 <general>
 <id>372</id>
 <name>显甫</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>25</attack>
@@ -5552,7 +5552,7 @@
 <general>
 <id>373</id>
 <name>献帝</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>24</attack>
@@ -5566,7 +5566,7 @@
 <general>
 <id>374</id>
 <name>辛评</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>21</attack>
@@ -5580,7 +5580,7 @@
 <general>
 <id>375</id>
 <name>徐璆</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>20</attack>
@@ -5594,7 +5594,7 @@
 <general>
 <id>376</id>
 <name>徐荣</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>40</attack>
@@ -5608,7 +5608,7 @@
 <general>
 <id>377</id>
 <name>许贡</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>49</attack>
@@ -5622,7 +5622,7 @@
 <general>
 <id>378</id>
 <name>许汜</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>45</attack>
@@ -5636,7 +5636,7 @@
 <general>
 <id>379</id>
 <name>薛兰</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>24</attack>
@@ -5650,7 +5650,7 @@
 <general>
 <id>380</id>
 <name>薛礼</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>45</attack>
@@ -5664,7 +5664,7 @@
 <general>
 <id>381</id>
 <name>荀谌</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>39</attack>
@@ -5678,7 +5678,7 @@
 <general>
 <id>382</id>
 <name>荀爽</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>34</attack>
@@ -5692,7 +5692,7 @@
 <general>
 <id>383</id>
 <name>荀正</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>20</attack>
@@ -5706,7 +5706,7 @@
 <general>
 <id>384</id>
 <name>严白虎</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>28</attack>
@@ -5720,7 +5720,7 @@
 <general>
 <id>385</id>
 <name>严纲</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>35</attack>
@@ -5734,7 +5734,7 @@
 <general>
 <id>386</id>
 <name>严氏</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>32</attack>
@@ -5748,7 +5748,7 @@
 <general>
 <id>387</id>
 <name>严舆</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>27</attack>
@@ -5762,7 +5762,7 @@
 <general>
 <id>388</id>
 <name>严政</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>29</attack>
@@ -5776,7 +5776,7 @@
 <general>
 <id>389</id>
 <name>杨彪</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>35</attack>
@@ -5790,7 +5790,7 @@
 <general>
 <id>390</id>
 <name>杨丑</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>27</attack>
@@ -5804,7 +5804,7 @@
 <general>
 <id>391</id>
 <name>杨大将</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>33</attack>
@@ -5818,7 +5818,7 @@
 <general>
 <id>392</id>
 <name>杨奉</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>31</attack>
@@ -5832,7 +5832,7 @@
 <general>
 <id>393</id>
 <name>杨密</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>48</attack>
@@ -5846,7 +5846,7 @@
 <general>
 <id>394</id>
 <name>杨琦</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>34</attack>
@@ -5860,7 +5860,7 @@
 <general>
 <id>395</id>
 <name>尹楷</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>36</attack>
@@ -5874,7 +5874,7 @@
 <general>
 <id>396</id>
 <name>尹礼</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>45</attack>
@@ -5888,7 +5888,7 @@
 <general>
 <id>397</id>
 <name>应劭</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>21</attack>
@@ -5902,7 +5902,7 @@
 <general>
 <id>398</id>
 <name>于糜</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>25</attack>
@@ -5916,7 +5916,7 @@
 <general>
 <id>399</id>
 <name>俞涉</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>27</attack>
@@ -5930,7 +5930,7 @@
 <general>
 <id>400</id>
 <name>虞翻</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>35</attack>
@@ -5944,7 +5944,7 @@
 <general>
 <id>401</id>
 <name>袁尚</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>48</attack>
@@ -5958,7 +5958,7 @@
 <general>
 <id>402</id>
 <name>袁谭</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>38</attack>
@@ -5972,7 +5972,7 @@
 <general>
 <id>403</id>
 <name>袁隗</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>50</attack>
@@ -5986,7 +5986,7 @@
 <general>
 <id>404</id>
 <name>袁熙</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>27</attack>
@@ -6000,7 +6000,7 @@
 <general>
 <id>405</id>
 <name>袁遗</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>25</attack>
@@ -6014,7 +6014,7 @@
 <general>
 <id>406</id>
 <name>袁胤</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>46</attack>
@@ -6028,7 +6028,7 @@
 <general>
 <id>407</id>
 <name>云英</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>35</attack>
@@ -6042,7 +6042,7 @@
 <general>
 <id>408</id>
 <name>笮融</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>23</attack>
@@ -6056,7 +6056,7 @@
 <general>
 <id>409</id>
 <name>张宝</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>48</attack>
@@ -6070,7 +6070,7 @@
 <general>
 <id>410</id>
 <name>张超</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>34</attack>
@@ -6084,7 +6084,7 @@
 <general>
 <id>411</id>
 <name>张纯</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>40</attack>
@@ -6098,7 +6098,7 @@
 <general>
 <id>412</id>
 <name>张恭</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>32</attack>
@@ -6112,7 +6112,7 @@
 <general>
 <id>413</id>
 <name>张虎</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>40</attack>
@@ -6126,7 +6126,7 @@
 <general>
 <id>414</id>
 <name>张济</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>48</attack>
@@ -6140,7 +6140,7 @@
 <general>
 <id>415</id>
 <name>张举</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>23</attack>
@@ -6154,7 +6154,7 @@
 <general>
 <id>416</id>
 <name>张钧</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>41</attack>
@@ -6168,7 +6168,7 @@
 <general>
 <id>417</id>
 <name>张闿</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>39</attack>
@@ -6182,7 +6182,7 @@
 <general>
 <id>418</id>
 <name>张邈</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>23</attack>
@@ -6196,7 +6196,7 @@
 <general>
 <id>419</id>
 <name>张南</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>28</attack>
@@ -6210,7 +6210,7 @@
 <general>
 <id>420</id>
 <name>张让</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>36</attack>
@@ -6224,7 +6224,7 @@
 <general>
 <id>421</id>
 <name>张世平</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>50</attack>
@@ -6238,7 +6238,7 @@
 <general>
 <id>422</id>
 <name>张邰</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>40</attack>
@@ -6252,7 +6252,7 @@
 <general>
 <id>423</id>
 <name>张温</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>38</attack>
@@ -6266,7 +6266,7 @@
 <general>
 <id>424</id>
 <name>张先</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>32</attack>
@@ -6280,7 +6280,7 @@
 <general>
 <id>425</id>
 <name>张绣</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>50</attack>
@@ -6294,7 +6294,7 @@
 <general>
 <id>426</id>
 <name>张勋</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>42</attack>
@@ -6308,7 +6308,7 @@
 <general>
 <id>427</id>
 <name>张燕</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>36</attack>
@@ -6322,7 +6322,7 @@
 <general>
 <id>428</id>
 <name>张扬</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>32</attack>
@@ -6336,7 +6336,7 @@
 <general>
 <id>429</id>
 <name>张杨</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>48</attack>
@@ -6350,7 +6350,7 @@
 <general>
 <id>430</id>
 <name>张顗</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>29</attack>
@@ -6364,7 +6364,7 @@
 <general>
 <id>431</id>
 <name>张英</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>25</attack>
@@ -6378,7 +6378,7 @@
 <general>
 <id>432</id>
 <name>赵岑</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>33</attack>
@@ -6392,7 +6392,7 @@
 <general>
 <id>433</id>
 <name>赵弘</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>50</attack>
@@ -6406,7 +6406,7 @@
 <general>
 <id>434</id>
 <name>赵萌</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>40</attack>
@@ -6420,7 +6420,7 @@
 <general>
 <id>435</id>
 <name>赵岐</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>39</attack>
@@ -6434,7 +6434,7 @@
 <general>
 <id>436</id>
 <name>赵睿</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>27</attack>
@@ -6448,7 +6448,7 @@
 <general>
 <id>437</id>
 <name>赵彦</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>41</attack>
@@ -6462,7 +6462,7 @@
 <general>
 <id>438</id>
 <name>赵忠</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>36</attack>
@@ -6476,7 +6476,7 @@
 <general>
 <id>439</id>
 <name>郑泰</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>46</attack>
@@ -6490,7 +6490,7 @@
 <general>
 <id>440</id>
 <name>郑玄</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>36</attack>
@@ -6504,7 +6504,7 @@
 <general>
 <id>441</id>
 <name>种拂</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>37</attack>
@@ -6518,7 +6518,7 @@
 <general>
 <id>442</id>
 <name>种辑</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>49</attack>
@@ -6532,7 +6532,7 @@
 <general>
 <id>443</id>
 <name>种邵</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>37</attack>
@@ -6546,7 +6546,7 @@
 <general>
 <id>444</id>
 <name>周毖</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>23</attack>
@@ -6560,7 +6560,7 @@
 <general>
 <id>445</id>
 <name>周尚</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>42</attack>
@@ -6574,7 +6574,7 @@
 <general>
 <id>446</id>
 <name>周听</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>30</attack>
@@ -6588,7 +6588,7 @@
 <general>
 <id>447</id>
 <name>朱儁</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>30</attack>
@@ -6602,7 +6602,7 @@
 <general>
 <id>448</id>
 <name>朱治</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>24</attack>
@@ -6616,7 +6616,7 @@
 <general>
 <id>449</id>
 <name>宗宝</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>31</attack>
@@ -6630,7 +6630,7 @@
 <general>
 <id>450</id>
 <name>邹靖</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>29</attack>
@@ -6644,7 +6644,7 @@
 <general>
 <id>451</id>
 <name>邹氏</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>24</attack>
@@ -6658,7 +6658,7 @@
 <general>
 <id>452</id>
 <name>祖茂</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>45</attack>
@@ -6672,7 +6672,7 @@
 <general>
 <id>453</id>
 <name>左丰</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>29</attack>
@@ -6686,7 +6686,7 @@
 <general>
 <id>454</id>
 <name>左灵</name>
-<description></description>
+<description>默默无闻</description>
 <star_level>1</star_level>
 <country>3</country>
 <attack>25</attack>
