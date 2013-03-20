@@ -49,12 +49,12 @@
 			</random_reward_item>
 			<random_reward_item>
 				<id>335</id>
-				<possibility>.1</possibility>
+				<possibility>.3</possibility>
 				<type>1</type>
 			</random_reward_item>
 			<random_reward_item>
 				<id>12</id>
-				<possibility>.3</possibility>
+				<possibility>.1</possibility>
 				<type>2</type>
 			</random_reward_item>
 		</mission>
