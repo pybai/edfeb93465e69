@@ -912,7 +912,7 @@
 <id>18</id>
 <product_id></product_id>
 <name>充值礼包</name>
-<description>4张求贤榜，5只烧鸡，5坛杜康酒，3个银箱，3封求和信</description>
+<description>1个武将礼包，5只烧鸡，5坛杜康酒，3个银箱，3封求和信</description>
 <money></money>
 <cash>100</cash>
 <rmb></rmb>
@@ -920,7 +920,7 @@
 <add_type>7</add_type>
 <add_method>2</add_method>
 <add_data>
-<data>22</data>
+<data>21</data>
 <count>1</count>
 </add_data>
 <add_data>
