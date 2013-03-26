@@ -8,7 +8,7 @@
 <description>战神吕布所使兵器</description>
 <star_level>5</star_level>
 <attack_min>70</attack_min>
-<attack_max>1100</attack_max>
+<attack_max>1150</attack_max>
 <defense_min></defense_min>
 <defense_max></defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
@@ -1426,7 +1426,7 @@
 <attack_min></attack_min>
 <attack_max></attack_max>
 <defense_min>59</defense_min>
-<defense_max>1100</defense_max><energy_recover_min></energy_recover_min>
+<defense_max>1200</defense_max><energy_recover_min></energy_recover_min>
 <energy_recover_max></energy_recover_max><ammo_recover_min></ammo_recover_min>
 <ammo_recover_max></ammo_recover_max><exp_addon_min></exp_addon_min>
 <exp_addon_max></exp_addon_max><money_addon_min></money_addon_min>
@@ -1435,7 +1435,7 @@
 <id>103</id>
 <type>3</type>
 <name>龙袍</name>
-<description>这是一件龙袍</description>
+<description>帝王的礼服</description>
 <star_level>4</star_level>
 <attack_min></attack_min>
 <attack_max></attack_max>
