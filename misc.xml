@@ -806,7 +806,7 @@
 <buffer_prop_ids>
 <buffer_prop>6</buffer_prop>
 </buffer_prop_ids>
-<exp_scale>1</exp_scale>
+<exp_scale>2</exp_scale>
 <money_upper>100000000</money_upper>
 <cash_upper>10000000</cash_upper>
 </miscdata>
