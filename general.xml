@@ -1691,7 +1691,7 @@
 </general>
 <general>
 <id>455</id>
-<name>陈琳</name>
+<name>无名氏5</name>
 <description>字孔璋，著名文学家，曾写文历数曹操罪状。</description>
 <star_level>3</star_level>
 <country>3</country>
@@ -1702,13 +1702,10 @@
 <attack_addon>48</attack_addon>
 <defense_addon>45</defense_addon>
 <pic_id>105</pic_id>
-<skillId>107</skillId>
-<skillId>189</skillId>
-<skillId>195</skillId>
 </general>
 <general>
 <id>456</id>
-<name>张苞</name>
+<name>无名氏6</name>
 <description>张飞的长子，蜀国重要将领。</description>
 <star_level>3</star_level>
 <country>1</country>
@@ -1719,9 +1716,6 @@
 <attack_addon>48</attack_addon>
 <defense_addon>45</defense_addon>
 <pic_id>106</pic_id>
-<skillId>106</skillId>
-<skillId>157</skillId>
-<skillId>89</skillId>
 </general>
 </threeStar>
 <twoStar>
@@ -4821,7 +4815,7 @@
 </general>
 <general>
 <id>457</id>
-<name>张梁</name>
+<name>无名氏7</name>
 <description>黄巾军首领，张角的弟弟。</description>
 <star_level>2</star_level>
 <country>3</country>
@@ -5579,7 +5573,7 @@
 </general>
 <general>
 <id>372</id>
-<name>？？？</name>
+<name>无名氏1</name>
 <description></description>
 <star_level>1</star_level>
 <country>3</country>
@@ -5593,7 +5587,7 @@
 </general>
 <general>
 <id>373</id>
-<name>？？？</name>
+<name>无名氏2</name>
 <description></description>
 <star_level>1</star_level>
 <country>3</country>
@@ -6363,7 +6357,7 @@
 </general>
 <general>
 <id>428</id>
-<name>？？？</name>
+<name>无名氏3</name>
 <description></description>
 <star_level>1</star_level>
 <country>3</country>
@@ -6447,7 +6441,7 @@
 </general>
 <general>
 <id>434</id>
-<name>？？？</name>
+<name>无名氏4</name>
 <description></description>
 <star_level>1</star_level>
 <country>3</country>
