@@ -164,7 +164,7 @@
 <id>11</id>
 <product_id></product_id>
 <name>蜀国求贤榜</name>
-<description>随机获得1名蜀国武将</description>
+<description>随机获得1名蜀国萌将</description>
 <money></money>
 <cash>100</cash>
 <rmb></rmb>
@@ -276,7 +276,7 @@
 <id>12</id>
 <product_id></product_id>
 <name>魏国求贤榜</name>
-<description>随机获得1名魏国武将</description>
+<description>随机获得1名魏国萌将</description>
 <money></money>
 <cash>100</cash>
 <rmb></rmb>
@@ -404,7 +404,7 @@
 <id>13</id>
 <product_id></product_id>
 <name>吴国求贤榜</name>
-<description>随机获得1名吴国武将</description>
+<description>随机获得1名吴国萌将</description>
 <money></money>
 <cash>100</cash>
 <rmb></rmb>
@@ -496,7 +496,7 @@
 <id>14</id>
 <product_id></product_id>
 <name>群雄求贤榜</name>
-<description>随机获得1名群雄武将</description>
+<description>随机获得1名群雄萌将</description>
 <money></money>
 <cash>100</cash>
 <rmb></rmb>
@@ -912,7 +912,7 @@
 <id>18</id>
 <product_id></product_id>
 <name>充值礼包</name>
-<description>1个武将礼包，5只烧鸡，5坛杜康酒，3个银箱，3封求和信</description>
+<description>1个萌将礼包，5只烧鸡，5坛杜康酒，3个银箱，3封求和信</description>
 <money></money>
 <cash>100</cash>
 <rmb></rmb>
@@ -983,8 +983,8 @@
 <prop>
 <id>21</id>
 <product_id></product_id>
-<name>武将礼包</name>
-<description>4张求贤榜</description>
+<name>萌将礼包</name>
+<description>4张求贤榜（蜀魏吴群各1张）</description>
 <money></money>
 <cash>300</cash>
 <rmb></rmb>
