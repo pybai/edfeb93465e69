@@ -32,7 +32,7 @@
 <treasure>
 <id>2</id>
 <name>太平要术</name>
-<description>黄巾军首领张角入山采药，遇“南华老仙”，授之《太平要术》，遂开始“散施符水”念咒治病，还能“呼风唤雨”。</description>
+<description>黄巾军首领张角入山采药，偶遇“南华老仙”，习得《太平要术》。</description>
 <max_attack_addon_min></max_attack_addon_min>
 <max_attack_addon_max></max_attack_addon_max>
 <min_attack_addon_min>5</min_attack_addon_min>
@@ -119,7 +119,7 @@
 <treasure>
 <id>5</id>
 <name>史记</name>
-<description>《史记》是由司马迁撰写的中国第一部纪传体通史，记载了上自上古传说中的黄帝时代，下至汉武帝元狩元年间共3000多年的历史。</description>
+<description>《史记》是由司马迁撰写的中国第一部纪传体通史，记载了3000多年的历史。</description>
 <max_attack_addon_min></max_attack_addon_min>
 <max_attack_addon_max></max_attack_addon_max>
 <min_attack_addon_min></min_attack_addon_min>
