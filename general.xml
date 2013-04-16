@@ -163,7 +163,7 @@
 <skillId>22</skillId>
 <skillId>20</skillId>
 <skillId>34</skillId>
-<skillId>30</skillId>
+<skillId>14</skillId>
 </general>
 <general>
 <id>10</id>
@@ -1006,7 +1006,7 @@
 <defense_addon>39</defense_addon>
 <pic_id>57</pic_id>
 <skillId>63</skillId>
-<skillId>168</skillId>
+<skillId>145</skillId>
 <skillId>115</skillId>
 </general>
 <general>
