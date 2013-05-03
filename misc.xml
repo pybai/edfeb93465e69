@@ -2,7 +2,7 @@
 <miscdata>
 <energy_recover_time>180</energy_recover_time>
 <ammo_recover_time>3600</ammo_recover_time>
-<free_speak_times>5</free_speak_times>
+<free_speak_times>50</free_speak_times>
 <treasure_compose_time>3600</treasure_compose_time>
 <displayed_enemies>20</displayed_enemies>
 <displayed_expeditions>20</displayed_expeditions>
