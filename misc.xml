@@ -21,7 +21,7 @@
 <init_level>1</init_level>
 <init_exp>0</init_exp>
 <init_money>1000</init_money>
-<init_cash>50</init_cash>
+<init_cash>500</init_cash>
 <vigour_unit>1</vigour_unit>
 <init_generals>
 <general>9</general> 
