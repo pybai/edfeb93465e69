@@ -1511,9 +1511,19 @@
 	<cash_upper>10000000</cash_upper>
 	<newgift>
 		<add_data>
-			<type>2</type>
-			<id>2</id> 
+			<type>7</type>
+			<id>19</id> 
 			<count>1</count>
+		</add_data>
+		<add_data>
+			<type>7</type>
+			<id>20</id> 
+			<count>1</count>
+		</add_data>
+		<add_data>
+			<type>7</type>
+			<id>2</id> 
+			<count>10</count>
 		</add_data>
 	</newgift>
 </miscdata>
