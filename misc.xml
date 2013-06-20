@@ -1,1512 +1,1519 @@
 <?xml version='1.0' encoding='gb18030'?>
 <miscdata>
-<energy_recover_time>180</energy_recover_time>
-<ammo_recover_time>3600</ammo_recover_time>
-<free_speak_times>50</free_speak_times>
-<treasure_compose_time>3600</treasure_compose_time>
-<displayed_enemies>20</displayed_enemies>
-<displayed_expeditions>20</displayed_expeditions>
-<displayed_messages>30</displayed_messages>
-<strengthen_needed_money>100</strengthen_needed_money>
-<equip_dropped_probability>60</equip_dropped_probability>
-<get_treasure_probability>50</get_treasure_probability>
-<day_invites>100</day_invites>
-<day_messages_to_leave>100</day_messages_to_leave>
-<generals_upper>200</generals_upper>
-<weapons_upper>200</weapons_upper>
-<armors_upper>200</armors_upper>
-<horses_upper>200</horses_upper>
-<treasure_upper>200</treasure_upper>
-<frament_upper>200</frament_upper>
-<init_level>1</init_level>
-<init_exp>0</init_exp>
-<init_money>1000</init_money>
-<init_cash>50</init_cash>
-<vigour_unit>1</vigour_unit>
-<init_generals>
-<general>9</general> 
-<general>25</general> 
-<general>34</general> 
-</init_generals>
-<level_exp_player>
-<exp>30</exp>
-<exp>36</exp>
-<exp>36</exp>
-<exp>50</exp>
-<exp>60</exp>
-<exp>100</exp>
-<exp>160</exp>
-<exp>180</exp>
-<exp>200</exp>
-<exp>240</exp>
-<exp>260</exp>
-<exp>290</exp>
-<exp>320</exp>
-<exp>360</exp>
-<exp>410</exp>
-<exp>480</exp>
-<exp>510</exp>
-<exp>530</exp>
-<exp>550</exp>
-<exp>580</exp>
-<exp>530</exp>
-<exp>590</exp>
-<exp>720</exp>
-<exp>760</exp>
-<exp>800</exp>
-<exp>850</exp>
-<exp>900</exp>
-<exp>960</exp>
-<exp>1000</exp>
-<exp>1100</exp>
-<exp>1200</exp>
-<exp>1210</exp>
-<exp>1220</exp>
-<exp>1230</exp>
-<exp>1240</exp>
-<exp>1250</exp>
-<exp>1260</exp>
-<exp>1270</exp>
-<exp>1280</exp>
-<exp>1290</exp>
-<exp>1300</exp>
-<exp>1330</exp>
-<exp>1340</exp>
-<exp>1350</exp>
-<exp>1370</exp>
-<exp>1390</exp>
-<exp>1400</exp>
-<exp>1410</exp>
-<exp>1430</exp>
-<exp>1440</exp>
-<exp>1500</exp>
-<exp>1800</exp>
-<exp>2100</exp>
-<exp>2400</exp>
-<exp>2700</exp>
-<exp>3000</exp>
-<exp>3300</exp>
-<exp>3600</exp>
-<exp>3900</exp>
-<exp>4200</exp>
-<exp>4500</exp>
-<exp>4800</exp>
-<exp>5100</exp>
-<exp>5400</exp>
-<exp>5700</exp>
-<exp>6000</exp>
-<exp>6300</exp>
-<exp>6600</exp>
-<exp>6900</exp>
-<exp>7200</exp>
-<exp>7500</exp>
-<exp>7800</exp>
-<exp>8100</exp>
-<exp>8400</exp>
-<exp>8700</exp>
-<exp>9000</exp>
-<exp>9300</exp>
-<exp>9600</exp>
-<exp>9900</exp>
-<exp>10200</exp>
-<exp>10500</exp>
-<exp>10800</exp>
-<exp>11100</exp>
-<exp>11400</exp>
-<exp>11700</exp>
-<exp>12000</exp>
-<exp>12300</exp>
-<exp>12600</exp>
-<exp>12900</exp>
-<exp>13200</exp>
-<exp>13500</exp>
-<exp>13800</exp>
-<exp>14100</exp>
-<exp>14400</exp>
-<exp>14700</exp>
-<exp>15000</exp>
-<exp>15300</exp>
-<exp>15600</exp>
-<exp>15900</exp>
-<exp>16200</exp>
-<exp>17000</exp>
-<exp>18000</exp>
-<exp>19000</exp>
-<exp>20000</exp>
-<exp>21000</exp>
-<exp>22000</exp>
-<exp>23000</exp>
-<exp>24000</exp>
-<exp>25000</exp>
-<exp>26000</exp>
-<exp>27000</exp>
-<exp>28000</exp>
-<exp>29000</exp>
-<exp>30000</exp>
-<exp>31000</exp>
-<exp>32000</exp>
-<exp>33000</exp>
-<exp>34000</exp>
-<exp>35000</exp>
-<exp>36000</exp>
-<exp>37000</exp>
-<exp>38000</exp>
-<exp>39000</exp>
-<exp>40000</exp>
-<exp>41000</exp>
-<exp>42000</exp>
-<exp>43000</exp>
-<exp>44000</exp>
-<exp>45000</exp>
-<exp>46000</exp>
-<exp>47000</exp>
-<exp>48000</exp>
-<exp>49000</exp>
-<exp>50000</exp>
-<exp>51000</exp>
-<exp>52000</exp>
-<exp>53000</exp>
-<exp>54000</exp>
-<exp>55000</exp>
-<exp>56000</exp>
-<exp>57000</exp>
-<exp>58000</exp>
-<exp>59000</exp>
-<exp>60000</exp>
-<exp>61000</exp>
-<exp>62000</exp>
-<exp>63000</exp>
-<exp>64000</exp>
-<exp>65000</exp>
-<exp>66000</exp>
-<exp>67000</exp>
-<exp>68000</exp>
-<exp>69000</exp>
-<exp>70000</exp>
-<exp>71000</exp>
-<exp>72000</exp>
-<exp>73000</exp>
-<exp>74000</exp>
-<exp>75000</exp>
-<exp>76000</exp>
-<exp>77000</exp>
-<exp>78000</exp>
-<exp>79000</exp>
-<exp>80000</exp>
-<exp>81000</exp>
-<exp>82000</exp>
-<exp>83000</exp>
-<exp>84000</exp>
-<exp>85000</exp>
-<exp>86000</exp>
-<exp>87000</exp>
-<exp>88000</exp>
-<exp>89000</exp>
-<exp>90000</exp>
-<exp>91000</exp>
-<exp>92000</exp>
-<exp>93000</exp>
-<exp>94000</exp>
-<exp>95000</exp>
-<exp>96000</exp>
-<exp>97000</exp>
-<exp>98000</exp>
-<exp>99000</exp>
-<exp>100000</exp>
-<exp>101000</exp>
-<exp>102000</exp>
-<exp>103000</exp>
-<exp>104000</exp>
-<exp>105000</exp>
-<exp>106000</exp>
-<exp>107000</exp>
-<exp>108000</exp>
-<exp>109000</exp>
-<exp>110000</exp>
-<exp>111000</exp>
-<exp>112000</exp>
-<exp>113000</exp>
-<exp>114000</exp>
-<exp>115000</exp>
-<exp>116000</exp>
-</level_exp_player>
-<energy_upper>
-<energy>10</energy>
-<energy>11</energy>
-<energy>12</energy>
-<energy>13</energy>
-<energy>14</energy>
-<energy>15</energy>
-<energy>16</energy>
-<energy>17</energy>
-<energy>18</energy>
-<energy>20</energy>
-<energy>22</energy>
-<energy>24</energy>
-<energy>26</energy>
-<energy>28</energy>
-<energy>30</energy>
-<energy>32</energy>
-<energy>34</energy>
-<energy>36</energy>
-<energy>38</energy>
-<energy>40</energy>
-<energy>42</energy>
-<energy>44</energy>
-<energy>44</energy>
-<energy>46</energy>
-<energy>48</energy>
-<energy>50</energy>
-<energy>52</energy>
-<energy>54</energy>
-<energy>56</energy>
-<energy>58</energy>
-<energy>60</energy>
-<energy>62</energy>
-<energy>64</energy>
-<energy>66</energy>
-<energy>68</energy>
-<energy>70</energy>
-<energy>72</energy>
-<energy>74</energy>
-<energy>76</energy>
-<energy>78</energy>
-<energy>80</energy>
-<energy>82</energy>
-<energy>84</energy>
-<energy>86</energy>
-<energy>88</energy>
-<energy>90</energy>
-<energy>92</energy>
-<energy>94</energy>
-<energy>96</energy>
-<energy>98</energy>
-<energy>100</energy>
-<energy>102</energy>
-<energy>104</energy>
-<energy>106</energy>
-<energy>108</energy>
-<energy>110</energy>
-<energy>112</energy>
-<energy>114</energy>
-<energy>116</energy>
-<energy>118</energy>
-<energy>120</energy>
-<energy>122</energy>
-<energy>124</energy>
-<energy>126</energy>
-<energy>128</energy>
-<energy>130</energy>
-<energy>132</energy>
-<energy>134</energy>
-<energy>136</energy>
-<energy>138</energy>
-<energy>140</energy>
-<energy>142</energy>
-<energy>144</energy>
-<energy>146</energy>
-<energy>148</energy>
-<energy>150</energy>
-<energy>152</energy>
-<energy>154</energy>
-<energy>156</energy>
-<energy>158</energy>
-<energy>160</energy>
-<energy>162</energy>
-<energy>164</energy>
-<energy>166</energy>
-<energy>168</energy>
-<energy>170</energy>
-<energy>172</energy>
-<energy>174</energy>
-<energy>176</energy>
-<energy>178</energy>
-<energy>180</energy>
-<energy>182</energy>
-<energy>184</energy>
-<energy>186</energy>
-<energy>188</energy>
-<energy>190</energy>
-<energy>192</energy>
-<energy>194</energy>
-<energy>196</energy>
-<energy>198</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-<energy>200</energy>
-</energy_upper>
-<ammo_upper>
-<ammo>3</ammo>
-<ammo>3</ammo>
-<ammo>3</ammo>
-<ammo>3</ammo>
-<ammo>3</ammo>
-<ammo>3</ammo>
-<ammo>3</ammo>
-<ammo>4</ammo>
-<ammo>4</ammo>
-<ammo>4</ammo>
-<ammo>4</ammo>
-<ammo>4</ammo>
-<ammo>4</ammo>
-<ammo>4</ammo>
-<ammo>4</ammo>
-<ammo>4</ammo>
-<ammo>4</ammo>
-<ammo>4</ammo>
-<ammo>5</ammo>
-<ammo>5</ammo>
-<ammo>5</ammo>
-<ammo>5</ammo>
-<ammo>5</ammo>
-<ammo>5</ammo>
-<ammo>5</ammo>
-<ammo>5</ammo>
-<ammo>5</ammo>
-<ammo>5</ammo>
-<ammo>6</ammo>
-<ammo>6</ammo>
-<ammo>6</ammo>
-<ammo>6</ammo>
-<ammo>6</ammo>
-<ammo>6</ammo>
-<ammo>6</ammo>
-<ammo>6</ammo>
-<ammo>6</ammo>
-<ammo>6</ammo>
-<ammo>7</ammo>
-<ammo>7</ammo>
-<ammo>7</ammo>
-<ammo>7</ammo>
-<ammo>7</ammo>
-<ammo>7</ammo>
-<ammo>7</ammo>
-<ammo>7</ammo>
-<ammo>7</ammo>
-<ammo>7</ammo>
-<ammo>8</ammo>
-<ammo>8</ammo>
-<ammo>8</ammo>
-<ammo>8</ammo>
-<ammo>8</ammo>
-<ammo>8</ammo>
-<ammo>8</ammo>
-<ammo>8</ammo>
-<ammo>8</ammo>
-<ammo>8</ammo>
-<ammo>9</ammo>
-<ammo>9</ammo>
-<ammo>9</ammo>
-<ammo>9</ammo>
-<ammo>9</ammo>
-<ammo>9</ammo>
-<ammo>9</ammo>
-<ammo>9</ammo>
-<ammo>9</ammo>
-<ammo>9</ammo>
-<ammo>10</ammo>
-<ammo>10</ammo>
-<ammo>10</ammo>
-<ammo>10</ammo>
-<ammo>10</ammo>
-<ammo>10</ammo>
-<ammo>10</ammo>
-<ammo>10</ammo>
-<ammo>10</ammo>
-<ammo>10</ammo>
-<ammo>11</ammo>
-<ammo>11</ammo>
-<ammo>11</ammo>
-<ammo>11</ammo>
-<ammo>11</ammo>
-<ammo>11</ammo>
-<ammo>11</ammo>
-<ammo>11</ammo>
-<ammo>11</ammo>
-<ammo>11</ammo>
-<ammo>12</ammo>
-<ammo>12</ammo>
-<ammo>12</ammo>
-<ammo>12</ammo>
-<ammo>12</ammo>
-<ammo>12</ammo>
-<ammo>12</ammo>
-<ammo>12</ammo>
-<ammo>12</ammo>
-<ammo>12</ammo>
-<ammo>13</ammo>
-<ammo>13</ammo>
-<ammo>13</ammo>
-<ammo>13</ammo>
-<ammo>13</ammo>
-<ammo>13</ammo>
-<ammo>13</ammo>
-<ammo>13</ammo>
-<ammo>13</ammo>
-<ammo>13</ammo>
-<ammo>13</ammo>
-<ammo>13</ammo>
-<ammo>13</ammo>
-<ammo>13</ammo>
-<ammo>13</ammo>
-<ammo>13</ammo>
-<ammo>14</ammo>
-<ammo>14</ammo>
-<ammo>14</ammo>
-<ammo>14</ammo>
-<ammo>14</ammo>
-<ammo>14</ammo>
-<ammo>14</ammo>
-<ammo>14</ammo>
-<ammo>14</ammo>
-<ammo>14</ammo>
-<ammo>14</ammo>
-<ammo>14</ammo>
-<ammo>14</ammo>
-<ammo>14</ammo>
-<ammo>14</ammo>
-<ammo>14</ammo>
-<ammo>14</ammo>
-<ammo>14</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-<ammo>15</ammo>
-</ammo_upper>
-<team_upper>
-<team>2</team>
-<team>2</team>
-<team>3</team>
-<team>3</team>
-<team>3</team>
-<team>4</team>
-<team>4</team>
-<team>4</team>
-<team>4</team>
-<team>5</team>
-<team>5</team>
-<team>5</team>
-<team>5</team>
-<team>5</team>
-<team>6</team>
-<team>6</team>
-<team>6</team>
-<team>6</team>
-<team>6</team>
-<team>6</team>
-<team>6</team>
-<team>6</team>
-<team>7</team>
-<team>7</team>
-<team>7</team>
-<team>7</team>
-<team>7</team>
-<team>7</team>
-<team>7</team>
-<team>7</team>
-<team>7</team>
-<team>7</team>
-<team>8</team>
-<team>8</team>
-<team>8</team>
-<team>8</team>
-<team>8</team>
-<team>8</team>
-<team>8</team>
-<team>8</team>
-<team>8</team>
-<team>8</team>
-<team>8</team>
-<team>8</team>
-<team>9</team>
-<team>9</team>
-<team>9</team>
-<team>9</team>
-<team>9</team>
-<team>9</team>
-<team>9</team>
-<team>9</team>
-<team>9</team>
-<team>9</team>
-<team>9</team>
-<team>9</team>
-<team>9</team>
-<team>10</team>
-<team>10</team>
-<team>10</team>
-<team>10</team>
-<team>10</team>
-<team>10</team>
-<team>10</team>
-<team>10</team>
-<team>10</team>
-<team>10</team>
-<team>10</team>
-<team>10</team>
-<team>11</team>
-<team>11</team>
-<team>11</team>
-<team>11</team>
-<team>11</team>
-<team>11</team>
-<team>11</team>
-<team>11</team>
-<team>11</team>
-<team>11</team>
-<team>11</team>
-<team>11</team>
-<team>11</team>
-<team>11</team>
-<team>11</team>
-<team>12</team>
-<team>12</team>
-<team>12</team>
-<team>12</team>
-<team>12</team>
-<team>12</team>
-<team>12</team>
-<team>12</team>
-<team>12</team>
-<team>12</team>
-<team>12</team>
-<team>12</team>
-<team>12</team>
-<team>13</team>
-<team>13</team>
-<team>13</team>
-<team>13</team>
-<team>13</team>
-<team>13</team>
-<team>13</team>
-<team>13</team>
-<team>13</team>
-<team>13</team>
-<team>13</team>
-<team>13</team>
-<team>13</team>
-<team>13</team>
-<team>14</team>
-<team>14</team>
-<team>14</team>
-<team>14</team>
-<team>14</team>
-<team>14</team>
-<team>14</team>
-<team>14</team>
-<team>14</team>
-<team>14</team>
-<team>14</team>
-<team>14</team>
-<team>14</team>
-<team>14</team>
-<team>14</team>
-<team>14</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-<team>15</team>
-</team_upper>
-<friend_upper>
-<friend>5</friend>
-<friend>6</friend>
-<friend>7</friend>
-<friend>8</friend>
-<friend>9</friend>
-<friend>10</friend>
-<friend>11</friend>
-<friend>12</friend>
-<friend>13</friend>
-<friend>14</friend>
-<friend>15</friend>
-<friend>16</friend>
-<friend>17</friend>
-<friend>18</friend>
-<friend>19</friend>
-<friend>20</friend>
-<friend>21</friend>
-<friend>22</friend>
-<friend>23</friend>
-<friend>24</friend>
-<friend>25</friend>
-<friend>26</friend>
-<friend>27</friend>
-<friend>28</friend>
-<friend>29</friend>
-<friend>30</friend>
-<friend>31</friend>
-<friend>32</friend>
-<friend>33</friend>
-<friend>34</friend>
-<friend>35</friend>
-<friend>36</friend>
-<friend>37</friend>
-<friend>38</friend>
-<friend>39</friend>
-<friend>40</friend>
-<friend>41</friend>
-<friend>42</friend>
-<friend>43</friend>
-<friend>44</friend>
-<friend>45</friend>
-<friend>46</friend>
-<friend>47</friend>
-<friend>48</friend>
-<friend>49</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-<friend>50</friend>
-</friend_upper>
-<reward_money>
-<money>100</money>
-<money>200</money>
-<money>300</money>
-<money>400</money>
-<money>500</money>
-<money>600</money>
-<money>700</money>
-<money>800</money>
-<money>900</money>
-<money>1000</money>
-<money>1100</money>
-<money>1200</money>
-<money>1300</money>
-<money>1400</money>
-<money>1500</money>
-<money>1600</money>
-<money>1700</money>
-<money>1800</money>
-<money>1900</money>
-<money>2000</money>
-<money>2100</money>
-<money>2200</money>
-<money>2300</money>
-<money>2400</money>
-<money>2500</money>
-<money>2600</money>
-<money>2700</money>
-<money>2800</money>
-<money>2900</money>
-<money>3000</money>
-<money>3100</money>
-<money>3200</money>
-<money>3300</money>
-<money>3400</money>
-<money>3500</money>
-<money>3600</money>
-<money>3700</money>
-<money>3800</money>
-<money>3900</money>
-<money>4000</money>
-<money>4100</money>
-<money>4200</money>
-<money>4300</money>
-<money>4400</money>
-<money>4500</money>
-<money>4600</money>
-<money>4700</money>
-<money>4800</money>
-<money>4900</money>
-<money>5000</money>
-<money>5100</money>
-<money>5200</money>
-<money>5300</money>
-<money>5400</money>
-<money>5500</money>
-<money>5600</money>
-<money>5700</money>
-<money>5800</money>
-<money>5900</money>
-<money>6000</money>
-<money>6100</money>
-<money>6200</money>
-<money>6300</money>
-<money>6400</money>
-<money>6500</money>
-<money>6600</money>
-<money>6700</money>
-<money>6800</money>
-<money>6900</money>
-<money>7000</money>
-<money>7100</money>
-<money>7200</money>
-<money>7300</money>
-<money>7400</money>
-<money>7500</money>
-<money>7600</money>
-<money>7700</money>
-<money>7800</money>
-<money>7900</money>
-<money>8000</money>
-<money>8100</money>
-<money>8200</money>
-<money>8300</money>
-<money>8400</money>
-<money>8500</money>
-<money>8600</money>
-<money>8700</money>
-<money>8800</money>
-<money>8900</money>
-<money>9000</money>
-<money>9100</money>
-<money>9200</money>
-<money>9300</money>
-<money>9400</money>
-<money>9500</money>
-<money>9600</money>
-<money>9700</money>
-<money>9800</money>
-<money>9900</money>
-<money>10000</money>
-<money>10100</money>
-<money>10200</money>
-<money>10300</money>
-<money>10400</money>
-<money>10500</money>
-<money>10600</money>
-<money>10700</money>
-<money>10800</money>
-<money>10900</money>
-<money>11000</money>
-<money>11100</money>
-<money>11200</money>
-<money>11300</money>
-<money>11400</money>
-<money>11500</money>
-<money>11600</money>
-<money>11700</money>
-<money>11800</money>
-<money>11900</money>
-<money>12000</money>
-<money>12100</money>
-<money>12200</money>
-<money>12300</money>
-<money>12400</money>
-<money>12500</money>
-<money>12600</money>
-<money>12700</money>
-<money>12800</money>
-<money>12900</money>
-<money>13000</money>
-<money>13100</money>
-<money>13200</money>
-<money>13300</money>
-<money>13400</money>
-<money>13500</money>
-<money>13600</money>
-<money>13700</money>
-<money>13800</money>
-<money>13900</money>
-<money>14000</money>
-<money>14100</money>
-<money>14200</money>
-<money>14300</money>
-<money>14400</money>
-<money>14500</money>
-<money>14600</money>
-<money>14700</money>
-<money>14800</money>
-<money>14900</money>
-<money>15000</money>
-<money>15100</money>
-<money>15200</money>
-<money>15300</money>
-<money>15400</money>
-<money>15500</money>
-<money>15600</money>
-<money>15700</money>
-<money>15800</money>
-<money>15900</money>
-<money>16000</money>
-<money>16100</money>
-<money>16200</money>
-<money>16300</money>
-<money>16400</money>
-<money>16500</money>
-<money>16600</money>
-<money>16700</money>
-<money>16800</money>
-<money>16900</money>
-<money>17000</money>
-<money>17100</money>
-<money>17200</money>
-<money>17300</money>
-<money>17400</money>
-<money>17500</money>
-<money>17600</money>
-<money>17700</money>
-<money>17800</money>
-<money>17900</money>
-<money>18000</money>
-<money>18100</money>
-<money>18200</money>
-<money>18300</money>
-<money>18400</money>
-<money>18500</money>
-<money>18600</money>
-<money>18700</money>
-<money>18800</money>
-<money>18900</money>
-<money>19000</money>
-<money>19100</money>
-<money>19200</money>
-<money>19300</money>
-<money>19400</money>
-<money>19500</money>
-<money>19600</money>
-<money>19700</money>
-<money>19800</money>
-<money>19900</money>
-<money>20000</money>
-</reward_money>
-<reward_cash>
-<cash>3</cash>
-<cash>3</cash>
-<cash>3</cash>
-<cash>3</cash>
-<cash>3</cash>
-<cash>3</cash>
-<cash>3</cash>
-<cash>3</cash>
-<cash>3</cash>
-<cash>5</cash>
-<cash>4</cash>
-<cash>4</cash>
-<cash>4</cash>
-<cash>4</cash>
-<cash>4</cash>
-<cash>3</cash>
-<cash>4</cash>
-<cash>4</cash>
-<cash>4</cash>
-<cash>10</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>10</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>10</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>10</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>10</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>10</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>10</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>10</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>20</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>20</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>20</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>20</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>30</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>30</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>30</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>30</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>30</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>5</cash>
-<cash>30</cash>
-</reward_cash>
-<level_exp_other>
-<exp>10</exp>
-<exp>15</exp>
-<exp>20</exp>
-<exp>25</exp>
-<exp>30</exp>
-<exp>35</exp>
-<exp>40</exp>
-<exp>45</exp>
-<exp>50</exp>
-<exp>55</exp>
-<exp>60</exp>
-<exp>65</exp>
-<exp>70</exp>
-<exp>75</exp>
-<exp>80</exp>
-<exp>85</exp>
-<exp>90</exp>
-<exp>95</exp>
-<exp>100</exp>
-<exp>105</exp>
-<exp>110</exp>
-<exp>115</exp>
-<exp>120</exp>
-<exp>125</exp>
-<exp>130</exp>
-<exp>135</exp>
-<exp>140</exp>
-<exp>145</exp>
-<exp>150</exp>
-<exp>155</exp>
-<exp>160</exp>
-<exp>165</exp>
-<exp>170</exp>
-<exp>175</exp>
-<exp>180</exp>
-<exp>185</exp>
-<exp>190</exp>
-<exp>195</exp>
-<exp>200</exp>
-<exp>205</exp>
-<exp>210</exp>
-<exp>215</exp>
-<exp>220</exp>
-<exp>225</exp>
-<exp>230</exp>
-<exp>235</exp>
-<exp>240</exp>
-<exp>245</exp>
-<exp>250</exp>
-<exp>255</exp>
-</level_exp_other>
-<energy_prop_ids>
-<energy_prop>1</energy_prop>
-<energy_prop>2</energy_prop>
-<energy_prop>3</energy_prop>
-</energy_prop_ids>
-<vigour_prop_ids>
-<vigour_prop>4</vigour_prop>
-<vigour_prop>5</vigour_prop>
-</vigour_prop_ids>
-<buffer_prop_ids>
-<buffer_prop>6</buffer_prop>
-</buffer_prop_ids>
-<exp_scale>1</exp_scale>
-<money_upper>100000000</money_upper>
-<cash_upper>10000000</cash_upper>
+	<energy_recover_time>180</energy_recover_time>
+	<ammo_recover_time>3600</ammo_recover_time>
+	<free_speak_times>50</free_speak_times>
+	<treasure_compose_time>3600</treasure_compose_time>
+	<displayed_enemies>20</displayed_enemies>
+	<displayed_expeditions>20</displayed_expeditions>
+	<displayed_messages>30</displayed_messages>
+	<strengthen_needed_money>100</strengthen_needed_money>
+	<equip_dropped_probability>60</equip_dropped_probability>
+	<get_treasure_probability>50</get_treasure_probability>
+	<day_invites>100</day_invites>
+	<day_messages_to_leave>100</day_messages_to_leave>
+	<generals_upper>200</generals_upper>
+	<weapons_upper>200</weapons_upper>
+	<armors_upper>200</armors_upper>
+	<horses_upper>200</horses_upper>
+	<treasure_upper>200</treasure_upper>
+	<frament_upper>200</frament_upper>
+	<init_level>1</init_level>
+	<init_exp>0</init_exp>
+	<init_money>1000</init_money>
+	<init_cash>50</init_cash>
+	<vigour_unit>1</vigour_unit>
+	<init_generals>
+		<general>9</general>
+		<general>25</general>
+		<general>34</general>
+	</init_generals>
+	<level_exp_player>
+		<exp>30</exp>
+		<exp>36</exp>
+		<exp>36</exp>
+		<exp>50</exp>
+		<exp>60</exp>
+		<exp>100</exp>
+		<exp>160</exp>
+		<exp>180</exp>
+		<exp>200</exp>
+		<exp>240</exp>
+		<exp>260</exp>
+		<exp>290</exp>
+		<exp>320</exp>
+		<exp>360</exp>
+		<exp>410</exp>
+		<exp>480</exp>
+		<exp>510</exp>
+		<exp>530</exp>
+		<exp>550</exp>
+		<exp>580</exp>
+		<exp>530</exp>
+		<exp>590</exp>
+		<exp>720</exp>
+		<exp>760</exp>
+		<exp>800</exp>
+		<exp>850</exp>
+		<exp>900</exp>
+		<exp>960</exp>
+		<exp>1000</exp>
+		<exp>1100</exp>
+		<exp>1200</exp>
+		<exp>1210</exp>
+		<exp>1220</exp>
+		<exp>1230</exp>
+		<exp>1240</exp>
+		<exp>1250</exp>
+		<exp>1260</exp>
+		<exp>1270</exp>
+		<exp>1280</exp>
+		<exp>1290</exp>
+		<exp>1300</exp>
+		<exp>1330</exp>
+		<exp>1340</exp>
+		<exp>1350</exp>
+		<exp>1370</exp>
+		<exp>1390</exp>
+		<exp>1400</exp>
+		<exp>1410</exp>
+		<exp>1430</exp>
+		<exp>1440</exp>
+		<exp>1500</exp>
+		<exp>1800</exp>
+		<exp>2100</exp>
+		<exp>2400</exp>
+		<exp>2700</exp>
+		<exp>3000</exp>
+		<exp>3300</exp>
+		<exp>3600</exp>
+		<exp>3900</exp>
+		<exp>4200</exp>
+		<exp>4500</exp>
+		<exp>4800</exp>
+		<exp>5100</exp>
+		<exp>5400</exp>
+		<exp>5700</exp>
+		<exp>6000</exp>
+		<exp>6300</exp>
+		<exp>6600</exp>
+		<exp>6900</exp>
+		<exp>7200</exp>
+		<exp>7500</exp>
+		<exp>7800</exp>
+		<exp>8100</exp>
+		<exp>8400</exp>
+		<exp>8700</exp>
+		<exp>9000</exp>
+		<exp>9300</exp>
+		<exp>9600</exp>
+		<exp>9900</exp>
+		<exp>10200</exp>
+		<exp>10500</exp>
+		<exp>10800</exp>
+		<exp>11100</exp>
+		<exp>11400</exp>
+		<exp>11700</exp>
+		<exp>12000</exp>
+		<exp>12300</exp>
+		<exp>12600</exp>
+		<exp>12900</exp>
+		<exp>13200</exp>
+		<exp>13500</exp>
+		<exp>13800</exp>
+		<exp>14100</exp>
+		<exp>14400</exp>
+		<exp>14700</exp>
+		<exp>15000</exp>
+		<exp>15300</exp>
+		<exp>15600</exp>
+		<exp>15900</exp>
+		<exp>16200</exp>
+		<exp>17000</exp>
+		<exp>18000</exp>
+		<exp>19000</exp>
+		<exp>20000</exp>
+		<exp>21000</exp>
+		<exp>22000</exp>
+		<exp>23000</exp>
+		<exp>24000</exp>
+		<exp>25000</exp>
+		<exp>26000</exp>
+		<exp>27000</exp>
+		<exp>28000</exp>
+		<exp>29000</exp>
+		<exp>30000</exp>
+		<exp>31000</exp>
+		<exp>32000</exp>
+		<exp>33000</exp>
+		<exp>34000</exp>
+		<exp>35000</exp>
+		<exp>36000</exp>
+		<exp>37000</exp>
+		<exp>38000</exp>
+		<exp>39000</exp>
+		<exp>40000</exp>
+		<exp>41000</exp>
+		<exp>42000</exp>
+		<exp>43000</exp>
+		<exp>44000</exp>
+		<exp>45000</exp>
+		<exp>46000</exp>
+		<exp>47000</exp>
+		<exp>48000</exp>
+		<exp>49000</exp>
+		<exp>50000</exp>
+		<exp>51000</exp>
+		<exp>52000</exp>
+		<exp>53000</exp>
+		<exp>54000</exp>
+		<exp>55000</exp>
+		<exp>56000</exp>
+		<exp>57000</exp>
+		<exp>58000</exp>
+		<exp>59000</exp>
+		<exp>60000</exp>
+		<exp>61000</exp>
+		<exp>62000</exp>
+		<exp>63000</exp>
+		<exp>64000</exp>
+		<exp>65000</exp>
+		<exp>66000</exp>
+		<exp>67000</exp>
+		<exp>68000</exp>
+		<exp>69000</exp>
+		<exp>70000</exp>
+		<exp>71000</exp>
+		<exp>72000</exp>
+		<exp>73000</exp>
+		<exp>74000</exp>
+		<exp>75000</exp>
+		<exp>76000</exp>
+		<exp>77000</exp>
+		<exp>78000</exp>
+		<exp>79000</exp>
+		<exp>80000</exp>
+		<exp>81000</exp>
+		<exp>82000</exp>
+		<exp>83000</exp>
+		<exp>84000</exp>
+		<exp>85000</exp>
+		<exp>86000</exp>
+		<exp>87000</exp>
+		<exp>88000</exp>
+		<exp>89000</exp>
+		<exp>90000</exp>
+		<exp>91000</exp>
+		<exp>92000</exp>
+		<exp>93000</exp>
+		<exp>94000</exp>
+		<exp>95000</exp>
+		<exp>96000</exp>
+		<exp>97000</exp>
+		<exp>98000</exp>
+		<exp>99000</exp>
+		<exp>100000</exp>
+		<exp>101000</exp>
+		<exp>102000</exp>
+		<exp>103000</exp>
+		<exp>104000</exp>
+		<exp>105000</exp>
+		<exp>106000</exp>
+		<exp>107000</exp>
+		<exp>108000</exp>
+		<exp>109000</exp>
+		<exp>110000</exp>
+		<exp>111000</exp>
+		<exp>112000</exp>
+		<exp>113000</exp>
+		<exp>114000</exp>
+		<exp>115000</exp>
+		<exp>116000</exp>
+	</level_exp_player>
+	<energy_upper>
+		<energy>10</energy>
+		<energy>11</energy>
+		<energy>12</energy>
+		<energy>13</energy>
+		<energy>14</energy>
+		<energy>15</energy>
+		<energy>16</energy>
+		<energy>17</energy>
+		<energy>18</energy>
+		<energy>20</energy>
+		<energy>22</energy>
+		<energy>24</energy>
+		<energy>26</energy>
+		<energy>28</energy>
+		<energy>30</energy>
+		<energy>32</energy>
+		<energy>34</energy>
+		<energy>36</energy>
+		<energy>38</energy>
+		<energy>40</energy>
+		<energy>42</energy>
+		<energy>44</energy>
+		<energy>44</energy>
+		<energy>46</energy>
+		<energy>48</energy>
+		<energy>50</energy>
+		<energy>52</energy>
+		<energy>54</energy>
+		<energy>56</energy>
+		<energy>58</energy>
+		<energy>60</energy>
+		<energy>62</energy>
+		<energy>64</energy>
+		<energy>66</energy>
+		<energy>68</energy>
+		<energy>70</energy>
+		<energy>72</energy>
+		<energy>74</energy>
+		<energy>76</energy>
+		<energy>78</energy>
+		<energy>80</energy>
+		<energy>82</energy>
+		<energy>84</energy>
+		<energy>86</energy>
+		<energy>88</energy>
+		<energy>90</energy>
+		<energy>92</energy>
+		<energy>94</energy>
+		<energy>96</energy>
+		<energy>98</energy>
+		<energy>100</energy>
+		<energy>102</energy>
+		<energy>104</energy>
+		<energy>106</energy>
+		<energy>108</energy>
+		<energy>110</energy>
+		<energy>112</energy>
+		<energy>114</energy>
+		<energy>116</energy>
+		<energy>118</energy>
+		<energy>120</energy>
+		<energy>122</energy>
+		<energy>124</energy>
+		<energy>126</energy>
+		<energy>128</energy>
+		<energy>130</energy>
+		<energy>132</energy>
+		<energy>134</energy>
+		<energy>136</energy>
+		<energy>138</energy>
+		<energy>140</energy>
+		<energy>142</energy>
+		<energy>144</energy>
+		<energy>146</energy>
+		<energy>148</energy>
+		<energy>150</energy>
+		<energy>152</energy>
+		<energy>154</energy>
+		<energy>156</energy>
+		<energy>158</energy>
+		<energy>160</energy>
+		<energy>162</energy>
+		<energy>164</energy>
+		<energy>166</energy>
+		<energy>168</energy>
+		<energy>170</energy>
+		<energy>172</energy>
+		<energy>174</energy>
+		<energy>176</energy>
+		<energy>178</energy>
+		<energy>180</energy>
+		<energy>182</energy>
+		<energy>184</energy>
+		<energy>186</energy>
+		<energy>188</energy>
+		<energy>190</energy>
+		<energy>192</energy>
+		<energy>194</energy>
+		<energy>196</energy>
+		<energy>198</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+		<energy>200</energy>
+	</energy_upper>
+	<ammo_upper>
+		<ammo>3</ammo>
+		<ammo>3</ammo>
+		<ammo>3</ammo>
+		<ammo>3</ammo>
+		<ammo>3</ammo>
+		<ammo>3</ammo>
+		<ammo>3</ammo>
+		<ammo>4</ammo>
+		<ammo>4</ammo>
+		<ammo>4</ammo>
+		<ammo>4</ammo>
+		<ammo>4</ammo>
+		<ammo>4</ammo>
+		<ammo>4</ammo>
+		<ammo>4</ammo>
+		<ammo>4</ammo>
+		<ammo>4</ammo>
+		<ammo>4</ammo>
+		<ammo>5</ammo>
+		<ammo>5</ammo>
+		<ammo>5</ammo>
+		<ammo>5</ammo>
+		<ammo>5</ammo>
+		<ammo>5</ammo>
+		<ammo>5</ammo>
+		<ammo>5</ammo>
+		<ammo>5</ammo>
+		<ammo>5</ammo>
+		<ammo>6</ammo>
+		<ammo>6</ammo>
+		<ammo>6</ammo>
+		<ammo>6</ammo>
+		<ammo>6</ammo>
+		<ammo>6</ammo>
+		<ammo>6</ammo>
+		<ammo>6</ammo>
+		<ammo>6</ammo>
+		<ammo>6</ammo>
+		<ammo>7</ammo>
+		<ammo>7</ammo>
+		<ammo>7</ammo>
+		<ammo>7</ammo>
+		<ammo>7</ammo>
+		<ammo>7</ammo>
+		<ammo>7</ammo>
+		<ammo>7</ammo>
+		<ammo>7</ammo>
+		<ammo>7</ammo>
+		<ammo>8</ammo>
+		<ammo>8</ammo>
+		<ammo>8</ammo>
+		<ammo>8</ammo>
+		<ammo>8</ammo>
+		<ammo>8</ammo>
+		<ammo>8</ammo>
+		<ammo>8</ammo>
+		<ammo>8</ammo>
+		<ammo>8</ammo>
+		<ammo>9</ammo>
+		<ammo>9</ammo>
+		<ammo>9</ammo>
+		<ammo>9</ammo>
+		<ammo>9</ammo>
+		<ammo>9</ammo>
+		<ammo>9</ammo>
+		<ammo>9</ammo>
+		<ammo>9</ammo>
+		<ammo>9</ammo>
+		<ammo>10</ammo>
+		<ammo>10</ammo>
+		<ammo>10</ammo>
+		<ammo>10</ammo>
+		<ammo>10</ammo>
+		<ammo>10</ammo>
+		<ammo>10</ammo>
+		<ammo>10</ammo>
+		<ammo>10</ammo>
+		<ammo>10</ammo>
+		<ammo>11</ammo>
+		<ammo>11</ammo>
+		<ammo>11</ammo>
+		<ammo>11</ammo>
+		<ammo>11</ammo>
+		<ammo>11</ammo>
+		<ammo>11</ammo>
+		<ammo>11</ammo>
+		<ammo>11</ammo>
+		<ammo>11</ammo>
+		<ammo>12</ammo>
+		<ammo>12</ammo>
+		<ammo>12</ammo>
+		<ammo>12</ammo>
+		<ammo>12</ammo>
+		<ammo>12</ammo>
+		<ammo>12</ammo>
+		<ammo>12</ammo>
+		<ammo>12</ammo>
+		<ammo>12</ammo>
+		<ammo>13</ammo>
+		<ammo>13</ammo>
+		<ammo>13</ammo>
+		<ammo>13</ammo>
+		<ammo>13</ammo>
+		<ammo>13</ammo>
+		<ammo>13</ammo>
+		<ammo>13</ammo>
+		<ammo>13</ammo>
+		<ammo>13</ammo>
+		<ammo>13</ammo>
+		<ammo>13</ammo>
+		<ammo>13</ammo>
+		<ammo>13</ammo>
+		<ammo>13</ammo>
+		<ammo>13</ammo>
+		<ammo>14</ammo>
+		<ammo>14</ammo>
+		<ammo>14</ammo>
+		<ammo>14</ammo>
+		<ammo>14</ammo>
+		<ammo>14</ammo>
+		<ammo>14</ammo>
+		<ammo>14</ammo>
+		<ammo>14</ammo>
+		<ammo>14</ammo>
+		<ammo>14</ammo>
+		<ammo>14</ammo>
+		<ammo>14</ammo>
+		<ammo>14</ammo>
+		<ammo>14</ammo>
+		<ammo>14</ammo>
+		<ammo>14</ammo>
+		<ammo>14</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+		<ammo>15</ammo>
+	</ammo_upper>
+	<team_upper>
+		<team>2</team>
+		<team>2</team>
+		<team>3</team>
+		<team>3</team>
+		<team>3</team>
+		<team>4</team>
+		<team>4</team>
+		<team>4</team>
+		<team>4</team>
+		<team>5</team>
+		<team>5</team>
+		<team>5</team>
+		<team>5</team>
+		<team>5</team>
+		<team>6</team>
+		<team>6</team>
+		<team>6</team>
+		<team>6</team>
+		<team>6</team>
+		<team>6</team>
+		<team>6</team>
+		<team>6</team>
+		<team>7</team>
+		<team>7</team>
+		<team>7</team>
+		<team>7</team>
+		<team>7</team>
+		<team>7</team>
+		<team>7</team>
+		<team>7</team>
+		<team>7</team>
+		<team>7</team>
+		<team>8</team>
+		<team>8</team>
+		<team>8</team>
+		<team>8</team>
+		<team>8</team>
+		<team>8</team>
+		<team>8</team>
+		<team>8</team>
+		<team>8</team>
+		<team>8</team>
+		<team>8</team>
+		<team>8</team>
+		<team>9</team>
+		<team>9</team>
+		<team>9</team>
+		<team>9</team>
+		<team>9</team>
+		<team>9</team>
+		<team>9</team>
+		<team>9</team>
+		<team>9</team>
+		<team>9</team>
+		<team>9</team>
+		<team>9</team>
+		<team>9</team>
+		<team>10</team>
+		<team>10</team>
+		<team>10</team>
+		<team>10</team>
+		<team>10</team>
+		<team>10</team>
+		<team>10</team>
+		<team>10</team>
+		<team>10</team>
+		<team>10</team>
+		<team>10</team>
+		<team>10</team>
+		<team>11</team>
+		<team>11</team>
+		<team>11</team>
+		<team>11</team>
+		<team>11</team>
+		<team>11</team>
+		<team>11</team>
+		<team>11</team>
+		<team>11</team>
+		<team>11</team>
+		<team>11</team>
+		<team>11</team>
+		<team>11</team>
+		<team>11</team>
+		<team>11</team>
+		<team>12</team>
+		<team>12</team>
+		<team>12</team>
+		<team>12</team>
+		<team>12</team>
+		<team>12</team>
+		<team>12</team>
+		<team>12</team>
+		<team>12</team>
+		<team>12</team>
+		<team>12</team>
+		<team>12</team>
+		<team>12</team>
+		<team>13</team>
+		<team>13</team>
+		<team>13</team>
+		<team>13</team>
+		<team>13</team>
+		<team>13</team>
+		<team>13</team>
+		<team>13</team>
+		<team>13</team>
+		<team>13</team>
+		<team>13</team>
+		<team>13</team>
+		<team>13</team>
+		<team>13</team>
+		<team>14</team>
+		<team>14</team>
+		<team>14</team>
+		<team>14</team>
+		<team>14</team>
+		<team>14</team>
+		<team>14</team>
+		<team>14</team>
+		<team>14</team>
+		<team>14</team>
+		<team>14</team>
+		<team>14</team>
+		<team>14</team>
+		<team>14</team>
+		<team>14</team>
+		<team>14</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+		<team>15</team>
+	</team_upper>
+	<friend_upper>
+		<friend>5</friend>
+		<friend>6</friend>
+		<friend>7</friend>
+		<friend>8</friend>
+		<friend>9</friend>
+		<friend>10</friend>
+		<friend>11</friend>
+		<friend>12</friend>
+		<friend>13</friend>
+		<friend>14</friend>
+		<friend>15</friend>
+		<friend>16</friend>
+		<friend>17</friend>
+		<friend>18</friend>
+		<friend>19</friend>
+		<friend>20</friend>
+		<friend>21</friend>
+		<friend>22</friend>
+		<friend>23</friend>
+		<friend>24</friend>
+		<friend>25</friend>
+		<friend>26</friend>
+		<friend>27</friend>
+		<friend>28</friend>
+		<friend>29</friend>
+		<friend>30</friend>
+		<friend>31</friend>
+		<friend>32</friend>
+		<friend>33</friend>
+		<friend>34</friend>
+		<friend>35</friend>
+		<friend>36</friend>
+		<friend>37</friend>
+		<friend>38</friend>
+		<friend>39</friend>
+		<friend>40</friend>
+		<friend>41</friend>
+		<friend>42</friend>
+		<friend>43</friend>
+		<friend>44</friend>
+		<friend>45</friend>
+		<friend>46</friend>
+		<friend>47</friend>
+		<friend>48</friend>
+		<friend>49</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+		<friend>50</friend>
+	</friend_upper>
+	<reward_money>
+		<money>100</money>
+		<money>200</money>
+		<money>300</money>
+		<money>400</money>
+		<money>500</money>
+		<money>600</money>
+		<money>700</money>
+		<money>800</money>
+		<money>900</money>
+		<money>1000</money>
+		<money>1100</money>
+		<money>1200</money>
+		<money>1300</money>
+		<money>1400</money>
+		<money>1500</money>
+		<money>1600</money>
+		<money>1700</money>
+		<money>1800</money>
+		<money>1900</money>
+		<money>2000</money>
+		<money>2100</money>
+		<money>2200</money>
+		<money>2300</money>
+		<money>2400</money>
+		<money>2500</money>
+		<money>2600</money>
+		<money>2700</money>
+		<money>2800</money>
+		<money>2900</money>
+		<money>3000</money>
+		<money>3100</money>
+		<money>3200</money>
+		<money>3300</money>
+		<money>3400</money>
+		<money>3500</money>
+		<money>3600</money>
+		<money>3700</money>
+		<money>3800</money>
+		<money>3900</money>
+		<money>4000</money>
+		<money>4100</money>
+		<money>4200</money>
+		<money>4300</money>
+		<money>4400</money>
+		<money>4500</money>
+		<money>4600</money>
+		<money>4700</money>
+		<money>4800</money>
+		<money>4900</money>
+		<money>5000</money>
+		<money>5100</money>
+		<money>5200</money>
+		<money>5300</money>
+		<money>5400</money>
+		<money>5500</money>
+		<money>5600</money>
+		<money>5700</money>
+		<money>5800</money>
+		<money>5900</money>
+		<money>6000</money>
+		<money>6100</money>
+		<money>6200</money>
+		<money>6300</money>
+		<money>6400</money>
+		<money>6500</money>
+		<money>6600</money>
+		<money>6700</money>
+		<money>6800</money>
+		<money>6900</money>
+		<money>7000</money>
+		<money>7100</money>
+		<money>7200</money>
+		<money>7300</money>
+		<money>7400</money>
+		<money>7500</money>
+		<money>7600</money>
+		<money>7700</money>
+		<money>7800</money>
+		<money>7900</money>
+		<money>8000</money>
+		<money>8100</money>
+		<money>8200</money>
+		<money>8300</money>
+		<money>8400</money>
+		<money>8500</money>
+		<money>8600</money>
+		<money>8700</money>
+		<money>8800</money>
+		<money>8900</money>
+		<money>9000</money>
+		<money>9100</money>
+		<money>9200</money>
+		<money>9300</money>
+		<money>9400</money>
+		<money>9500</money>
+		<money>9600</money>
+		<money>9700</money>
+		<money>9800</money>
+		<money>9900</money>
+		<money>10000</money>
+		<money>10100</money>
+		<money>10200</money>
+		<money>10300</money>
+		<money>10400</money>
+		<money>10500</money>
+		<money>10600</money>
+		<money>10700</money>
+		<money>10800</money>
+		<money>10900</money>
+		<money>11000</money>
+		<money>11100</money>
+		<money>11200</money>
+		<money>11300</money>
+		<money>11400</money>
+		<money>11500</money>
+		<money>11600</money>
+		<money>11700</money>
+		<money>11800</money>
+		<money>11900</money>
+		<money>12000</money>
+		<money>12100</money>
+		<money>12200</money>
+		<money>12300</money>
+		<money>12400</money>
+		<money>12500</money>
+		<money>12600</money>
+		<money>12700</money>
+		<money>12800</money>
+		<money>12900</money>
+		<money>13000</money>
+		<money>13100</money>
+		<money>13200</money>
+		<money>13300</money>
+		<money>13400</money>
+		<money>13500</money>
+		<money>13600</money>
+		<money>13700</money>
+		<money>13800</money>
+		<money>13900</money>
+		<money>14000</money>
+		<money>14100</money>
+		<money>14200</money>
+		<money>14300</money>
+		<money>14400</money>
+		<money>14500</money>
+		<money>14600</money>
+		<money>14700</money>
+		<money>14800</money>
+		<money>14900</money>
+		<money>15000</money>
+		<money>15100</money>
+		<money>15200</money>
+		<money>15300</money>
+		<money>15400</money>
+		<money>15500</money>
+		<money>15600</money>
+		<money>15700</money>
+		<money>15800</money>
+		<money>15900</money>
+		<money>16000</money>
+		<money>16100</money>
+		<money>16200</money>
+		<money>16300</money>
+		<money>16400</money>
+		<money>16500</money>
+		<money>16600</money>
+		<money>16700</money>
+		<money>16800</money>
+		<money>16900</money>
+		<money>17000</money>
+		<money>17100</money>
+		<money>17200</money>
+		<money>17300</money>
+		<money>17400</money>
+		<money>17500</money>
+		<money>17600</money>
+		<money>17700</money>
+		<money>17800</money>
+		<money>17900</money>
+		<money>18000</money>
+		<money>18100</money>
+		<money>18200</money>
+		<money>18300</money>
+		<money>18400</money>
+		<money>18500</money>
+		<money>18600</money>
+		<money>18700</money>
+		<money>18800</money>
+		<money>18900</money>
+		<money>19000</money>
+		<money>19100</money>
+		<money>19200</money>
+		<money>19300</money>
+		<money>19400</money>
+		<money>19500</money>
+		<money>19600</money>
+		<money>19700</money>
+		<money>19800</money>
+		<money>19900</money>
+		<money>20000</money>
+	</reward_money>
+	<reward_cash>
+		<cash>3</cash>
+		<cash>3</cash>
+		<cash>3</cash>
+		<cash>3</cash>
+		<cash>3</cash>
+		<cash>3</cash>
+		<cash>3</cash>
+		<cash>3</cash>
+		<cash>3</cash>
+		<cash>5</cash>
+		<cash>4</cash>
+		<cash>4</cash>
+		<cash>4</cash>
+		<cash>4</cash>
+		<cash>4</cash>
+		<cash>3</cash>
+		<cash>4</cash>
+		<cash>4</cash>
+		<cash>4</cash>
+		<cash>10</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>10</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>10</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>10</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>10</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>10</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>10</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>10</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>20</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>20</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>20</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>20</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>30</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>30</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>30</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>30</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>30</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>5</cash>
+		<cash>30</cash>
+	</reward_cash>
+	<level_exp_other>
+		<exp>10</exp>
+		<exp>15</exp>
+		<exp>20</exp>
+		<exp>25</exp>
+		<exp>30</exp>
+		<exp>35</exp>
+		<exp>40</exp>
+		<exp>45</exp>
+		<exp>50</exp>
+		<exp>55</exp>
+		<exp>60</exp>
+		<exp>65</exp>
+		<exp>70</exp>
+		<exp>75</exp>
+		<exp>80</exp>
+		<exp>85</exp>
+		<exp>90</exp>
+		<exp>95</exp>
+		<exp>100</exp>
+		<exp>105</exp>
+		<exp>110</exp>
+		<exp>115</exp>
+		<exp>120</exp>
+		<exp>125</exp>
+		<exp>130</exp>
+		<exp>135</exp>
+		<exp>140</exp>
+		<exp>145</exp>
+		<exp>150</exp>
+		<exp>155</exp>
+		<exp>160</exp>
+		<exp>165</exp>
+		<exp>170</exp>
+		<exp>175</exp>
+		<exp>180</exp>
+		<exp>185</exp>
+		<exp>190</exp>
+		<exp>195</exp>
+		<exp>200</exp>
+		<exp>205</exp>
+		<exp>210</exp>
+		<exp>215</exp>
+		<exp>220</exp>
+		<exp>225</exp>
+		<exp>230</exp>
+		<exp>235</exp>
+		<exp>240</exp>
+		<exp>245</exp>
+		<exp>250</exp>
+		<exp>255</exp>
+	</level_exp_other>
+	<energy_prop_ids>
+		<energy_prop>1</energy_prop>
+		<energy_prop>2</energy_prop>
+		<energy_prop>3</energy_prop>
+	</energy_prop_ids>
+	<vigour_prop_ids>
+		<vigour_prop>4</vigour_prop>
+		<vigour_prop>5</vigour_prop>
+	</vigour_prop_ids>
+	<buffer_prop_ids>
+		<buffer_prop>6</buffer_prop>
+	</buffer_prop_ids>
+	<exp_scale>1</exp_scale>
+	<money_upper>100000000</money_upper>
+	<cash_upper>10000000</cash_upper>
+	<newgift>
+		<add_data>
+			<type>2</type>
+			<id>2</id> 
+			<count>1</count>
+		</add_data>
+	</newgift>
 </miscdata>
